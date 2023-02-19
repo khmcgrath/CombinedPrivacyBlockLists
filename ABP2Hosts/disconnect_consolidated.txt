@@ -1,4 +1,4 @@
-# Sun Feb 19 02:27:02 AM UTC 2023
+# Sun Feb 19 07:45:42 PM UTC 2023
 # Disconnect Consolidated Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1994,7 +1994,6 @@
 0.0.0.0 network.business.com
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 newads.bangbros.com
-0.0.0.0 newbie.com
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
 0.0.0.0 newopenx.detik.com

@@ -383,6 +383,7 @@ malwaredomains.com
 managemymove.usps.com
 mcssl.com
 medium.com
+mladtehnik.com
 movies.netflix.com
 mp.twitch.tv
 mparticle.weather.com
@@ -395,6 +396,7 @@ nab.demdex.net
 neocities.org
 neostrada.nl
 netflix.com
+newbie.com
 news.ebc.net.tw
 newworldencyclopedia.org
 nextdns.io
