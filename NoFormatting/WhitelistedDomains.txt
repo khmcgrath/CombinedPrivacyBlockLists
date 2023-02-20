@@ -239,6 +239,7 @@ dropboxinsiders.com
 dropboxmail.com
 dropboxpartners.com
 dropboxstatic.com
+drumcorpsplanet.com
 dshield.org
 duckdns.org
 duo.nl
@@ -327,6 +328,7 @@ i.ytimg.com
 i1.ytimg.com
 icloud.com
 icscards.nl
+idol-dvd.com
 image.ibb.co
 images.ctfassets.net
 images.pluto.tv
@@ -381,8 +383,10 @@ mail.ru
 malwaredomainlist.com
 malwaredomains.com
 managemymove.usps.com
+manga-news.com
 mcssl.com
 medium.com
+miciudadreal.es
 mladtehnik.com
 movies.netflix.com
 mp.twitch.tv
@@ -567,6 +571,7 @@ termux.net
 teslathemes.com
 textsecure-service-staging.whispersystems.org
 theguardian.com
+theleader.info
 themoviedb.com
 thepiratebay.org
 thetvdb.com
