@@ -698,6 +698,7 @@
 0.0.0.0 6srvfcm.com
 0.0.0.0 6stuff.com
 0.0.0.0 6swu.cpa-france.org
+0.0.0.0 6t09fag307ep.click
 0.0.0.0 6ydj.pw
 0.0.0.0 718847883744648.mateti.net
 0.0.0.0 72-news.com
@@ -863,6 +864,7 @@
 0.0.0.0 99xxpp.com
 0.0.0.0 9aad7115.amy.gs
 0.0.0.0 9awi.pw
+0.0.0.0 9bghqk3avg2gnh.click
 0.0.0.0 9dd.fun
 0.0.0.0 9dot9.in
 0.0.0.0 9f249.f249724.96.lt
@@ -7590,7 +7592,6 @@
 0.0.0.0 analyzingbigdata.com
 0.0.0.0 analyzz.com
 0.0.0.0 ananashotel.com
-0.0.0.0 anapatformacion.org
 0.0.0.0 anaplanglobal.112.2o7.net
 0.0.0.0 anary.live
 0.0.0.0 anatomytrains.co.uk
@@ -8908,6 +8909,8 @@
 0.0.0.0 autoimagehosting.info
 0.0.0.0 autologica.ga
 0.0.0.0 automatad.com
+0.0.0.0 automated.almosafer.com
+0.0.0.0 automated.tajawal.com
 0.0.0.0 automaticflock.com
 0.0.0.0 automaticside.com
 0.0.0.0 automator.admarvel.com
@@ -10051,7 +10054,6 @@
 0.0.0.0 bigrest.live
 0.0.0.0 bigrint.live
 0.0.0.0 bigs.bikershop.biz
-0.0.0.0 bigsale100.com
 0.0.0.0 bigsharkmedia.com
 0.0.0.0 bigtime.floridacitrussports.com
 0.0.0.0 bigtrading.ga
@@ -10183,7 +10185,6 @@
 0.0.0.0 bitcoin.lisx.ru
 0.0.0.0 bitcoingen.store
 0.0.0.0 bitcoingenerator.me
-0.0.0.0 bitcoinpricealertexpert.com
 0.0.0.0 bitdoge.one
 0.0.0.0 bitdrive.112.2o7.net
 0.0.0.0 bite-me.wz.cz
@@ -11543,7 +11544,6 @@
 0.0.0.0 cashreportz.com
 0.0.0.0 cashtrafic.com
 0.0.0.0 casig.live
-0.0.0.0 casino-in-italia.space
 0.0.0.0 casinonono.ddns.net
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
@@ -13593,6 +13593,7 @@
 0.0.0.0 coty.122.2o7.net
 0.0.0.0 cougarads.com
 0.0.0.0 couhome.112.2o7.net
+0.0.0.0 could-mac.click
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 count.7m.com.cn
 0.0.0.0 count.advanseads.com
@@ -13954,7 +13955,6 @@
 0.0.0.0 critictruck.com
 0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 crm.childrens.com
-0.0.0.0 crm.roodraksh.co.in
 0.0.0.0 crm.smu.edu
 0.0.0.0 crmchevrolet.com
 0.0.0.0 crobanner.com
@@ -16968,6 +16968,7 @@
 0.0.0.0 email-iran.com
 0.0.0.0 email-sendgrid-deep-linking.chewy.com
 0.0.0.0 email.aboutamazon.com
+0.0.0.0 email.almosafer.com
 0.0.0.0 email.alphaflightgurumail.com
 0.0.0.0 email.altarosoftware.com
 0.0.0.0 email.americanofferz.com
@@ -17024,6 +17025,7 @@
 0.0.0.0 email.sk-ii.jp
 0.0.0.0 email.strava.com
 0.0.0.0 email.supersavvyme.com
+0.0.0.0 email.tajawal.com
 0.0.0.0 email.takemefishing.org
 0.0.0.0 email.thislife.com
 0.0.0.0 email.victoria50.de
@@ -21606,6 +21608,8 @@
 0.0.0.0 gokams.live
 0.0.0.0 gokceozagar.com
 0.0.0.0 gokims.live
+0.0.0.0 gokinjolove.jp
+0.0.0.0 gokinjolove.net
 0.0.0.0 gokins.live
 0.0.0.0 golanjobs.me
 0.0.0.0 golans.live
@@ -21958,7 +21962,6 @@
 0.0.0.0 gtwxpq.restaurant.com
 0.0.0.0 guarana.pw
 0.0.0.0 guaranteelamp.com
-0.0.0.0 guarantepay.smart-it-partner.com
 0.0.0.0 guardedgovernor.com
 0.0.0.0 guardedschool.com
 0.0.0.0 guardsystem.click
@@ -22419,7 +22422,6 @@
 0.0.0.0 hermeslogistik01.wt-eu02.net
 0.0.0.0 hermesmax.com
 0.0.0.0 hermestest01.webtrekk.net
-0.0.0.0 hernandezclean.com
 0.0.0.0 herobux.com
 0.0.0.0 hersawe.live
 0.0.0.0 hertrends.pk
@@ -27502,7 +27504,9 @@
 0.0.0.0 lower.live
 0.0.0.0 lowlocket.com
 0.0.0.0 loxodo-analytics.ext.nile.works
+0.0.0.0 loyalty.almosafer.com
 0.0.0.0 loyalty.qantas.com
+0.0.0.0 loyalty.tajawal.com
 0.0.0.0 lozent.live
 0.0.0.0 lp.indoleads.com
 0.0.0.0 lp.mp.mydas.mobi
@@ -27528,6 +27532,7 @@
 0.0.0.0 lrd09.eulerian.net
 0.0.0.0 lrd10.eulerian.net
 0.0.0.0 lrd11.eulerian.net
+0.0.0.0 lrhxz60alkjtik.click
 0.0.0.0 lritck.tk
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 ls2web-redmond-corp.com
@@ -29889,6 +29894,8 @@
 0.0.0.0 mkontakt.az
 0.0.0.0 mkopli-1.live
 0.0.0.0 mkt10.122.2o7.net
+0.0.0.0 mktg.almosafer.com
+0.0.0.0 mktg.tajawal.com
 0.0.0.0 mktlife.windsoratcelebration.com
 0.0.0.0 mkzd.ru
 0.0.0.0 ml.etr.im
@@ -33290,7 +33297,6 @@
 0.0.0.0 observantice.com
 0.0.0.0 observatorystarsoh.net
 0.0.0.0 obsproicet.net
-0.0.0.0 obsprojek.com
 0.0.0.0 obten-cupo-enlinea-cl.cf
 0.0.0.0 obten-cupo-enlinea-cl.ga
 0.0.0.0 obten-cupo-enlinea-cl.gq
@@ -36808,7 +36814,6 @@
 0.0.0.0 proxy-gbr-2.inf.nimiq.network
 0.0.0.0 proxy-pol-1.inf.nimiq.network
 0.0.0.0 proxy-pol-2.inf.nimiq.network
-0.0.0.0 proxy.akur.group
 0.0.0.0 proxyads.org
 0.0.0.0 proyectobasevirtual.com
 0.0.0.0 proyectobasevirtualcol.com
@@ -38254,6 +38259,7 @@
 0.0.0.0 revims.live
 0.0.0.0 revision-cupo-tarjeta.cf
 0.0.0.0 revision-cupo-tarjeta.gq
+0.0.0.0 revitape.com
 0.0.0.0 revive-adserver.com
 0.0.0.0 revive-adserver.net
 0.0.0.0 revive.agenda.ge
@@ -38756,6 +38762,7 @@
 0.0.0.0 rss-loader.com
 0.0.0.0 rss.buysellads.com
 0.0.0.0 rss.pazudora-friend.com
+0.0.0.0 rssh.li
 0.0.0.0 rsys3.net
 0.0.0.0 rt.ad-score.com
 0.0.0.0 rt.adtiming.com
@@ -40946,6 +40953,7 @@
 0.0.0.0 softitcare.net
 0.0.0.0 softonic-analytics.net
 0.0.0.0 softonic.112.2o7.net
+0.0.0.0 softs-lab.ru
 0.0.0.0 softstreams.com
 0.0.0.0 softtechenterprise.com
 0.0.0.0 softusa.info
@@ -41153,7 +41161,6 @@
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spaceman07.ru
 0.0.0.0 spacenine.biz
-0.0.0.0 spacepearl.io
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spadp.i-mobile.co.jp
 0.0.0.0 spadpc2.i-mobile.co.jp
@@ -45754,6 +45761,7 @@
 0.0.0.0 venteenor.ecommerce.softakt.com
 0.0.0.0 ventillos.ug
 0.0.0.0 ventivmedia.com
+0.0.0.0 ventocabrero.com
 0.0.0.0 venturead.com
 0.0.0.0 venusgloria.com
 0.0.0.0 venzatechi.online
@@ -46065,6 +46073,7 @@
 0.0.0.0 virontonic.com
 0.0.0.0 virtualbox.es
 0.0.0.0 virtualbox.pl
+0.0.0.0 virtualplaya.com
 0.0.0.0 viruslab.de
 0.0.0.0 visaonlinesecure.com
 0.0.0.0 visibility-stats.com
@@ -48085,7 +48094,6 @@
 0.0.0.0 www.chartbeat.com
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.cheap-ads.net
-0.0.0.0 www.chemsky.tn
 0.0.0.0 www.christianbusinessadvertising.com
 0.0.0.0 www.cialisforsalecialiscostcye.com
 0.0.0.0 www.cialismed.com
@@ -48292,7 +48300,6 @@
 0.0.0.0 www.globusdate.com
 0.0.0.0 www.glopages.ru
 0.0.0.0 www.gmads.net
-0.0.0.0 www.gmcmedical.ro
 0.0.0.0 www.go-rillatrack.com
 0.0.0.0 www.goadserver.com
 0.0.0.0 www.goawos.com
@@ -49268,6 +49275,7 @@
 0.0.0.0 xozidazatibotiko.ddns.net
 0.0.0.0 xpackmx.com
 0.0.0.0 xpayperinstx2.com
+0.0.0.0 xperterp.net
 0.0.0.0 xplusone.com
 0.0.0.0 xponsor.com
 0.0.0.0 xpop.ir
