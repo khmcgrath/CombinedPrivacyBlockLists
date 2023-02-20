@@ -55,7 +55,6 @@
 0.0.0.0 24verygood.ru
 0.0.0.0 27mn.com
 0.0.0.0 27simn888.com
-0.0.0.0 290684.en.world-stone.com
 0.0.0.0 2amsports.com
 0.0.0.0 2chicksathome.com
 0.0.0.0 2d7d.co.cc
@@ -128,7 +127,6 @@
 0.0.0.0 5organic.com
 0.0.0.0 60gp.ovh.net
 0.0.0.0 68cadzx.com
-0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
 0.0.0.0 6bdsm.com
 0.0.0.0 6w2.ru
 0.0.0.0 7.duote.com.cn
@@ -277,10 +275,8 @@
 0.0.0.0 alinaturu.info
 0.0.0.0 alisa-carter.com
 0.0.0.0 alisat.biz
-0.0.0.0 alissonluis-musico.sites.uol.com.br
 0.0.0.0 alivcd.com
 0.0.0.0 alkhwarzmy.com
-0.0.0.0 alkmaar-stobaeus.makemoneywithmegan.net
 0.0.0.0 all4gsm.uni.cc
 0.0.0.0 allcool.spb.ru
 0.0.0.0 allegiantcare.com
@@ -404,7 +400,6 @@
 0.0.0.0 assistant-first.ru
 0.0.0.0 associazioneiltrovatore.it
 0.0.0.0 astavprojekt.cz
-0.0.0.0 asynartete.makemoneywithmegan.net
 0.0.0.0 atemutermed.hu
 0.0.0.0 athear.com
 0.0.0.0 atlcourier.com
@@ -719,10 +714,8 @@
 0.0.0.0 cdynwt.com
 0.0.0.0 cefgivin.us
 0.0.0.0 cempas.com
-0.0.0.0 centerpieces-with-feathers-for-weddi.blogspot.com
 0.0.0.0 centro-guzzi-bielefeld.de
 0.0.0.0 ceocms.com
-0.0.0.0 cept.en.world-stone.com
 0.0.0.0 cescon.ca
 0.0.0.0 ceskarepublika.net
 0.0.0.0 cestec.org
@@ -1004,7 +997,6 @@
 0.0.0.0 down.nowdream.kr
 0.0.0.0 down.qq38.org
 0.0.0.0 down.touming5.com
-0.0.0.0 down.unadnet.com.cn
 0.0.0.0 down.upantool.com
 0.0.0.0 down.whphonesoft.com
 0.0.0.0 down.yxdfc.com
@@ -1024,11 +1016,9 @@
 0.0.0.0 download131bucket.com
 0.0.0.0 download1411bucket.com
 0.0.0.0 download1471bucket.com
-0.0.0.0 download207.mediafire.com
 0.0.0.0 downloadadvisory.com
 0.0.0.0 downloadally.com
 0.0.0.0 downloadcdn.betterinstaller.com
-0.0.0.0 downloadcdn.filebulldog.com
 0.0.0.0 downloadcheetah.com
 0.0.0.0 downloadcypher.com
 0.0.0.0 downloaddash.com
@@ -1324,7 +1314,6 @@
 0.0.0.0 freeserials.ws
 0.0.0.0 freexxpote.co.cc
 0.0.0.0 fridaycard.com
-0.0.0.0 friendshipapostolicchurch.org
 0.0.0.0 frj.co.kr
 0.0.0.0 frodocircle.ru
 0.0.0.0 frodoescircle.ru
@@ -1592,7 +1581,6 @@
 0.0.0.0 hogasoq.in
 0.0.0.0 hogwart.konkuk.ac.kr
 0.0.0.0 holmesballard.chez.com
-0.0.0.0 holyw.ddns.me.uk
 0.0.0.0 home-joy.com
 0.0.0.0 home.wanadoo.nl
 0.0.0.0 homecarenation.ru
@@ -1628,7 +1616,6 @@
 0.0.0.0 hugetopnonfat.cn
 0.0.0.0 huikingyeung.com
 0.0.0.0 huitong-trading.com
-0.0.0.0 huostaan-eksperten.makemoneywithmegan.net
 0.0.0.0 hx-textiles.cn
 0.0.0.0 hx018.com
 0.0.0.0 hy-brasil.mhwang.com
@@ -1676,7 +1663,6 @@
 0.0.0.0 indianmediagroup.com
 0.0.0.0 indiatouragency.com
 0.0.0.0 indigweorls.ddns.info
-0.0.0.0 indissolvablysemiworks.makemoneywithmegan.net
 0.0.0.0 inent17alexe.rr.nu
 0.0.0.0 iner.kz
 0.0.0.0 inet-poisk.ru
@@ -1695,7 +1681,6 @@
 0.0.0.0 instituutkuyper.nl
 0.0.0.0 instructedtabtastic.org
 0.0.0.0 insyncvideo.com
-0.0.0.0 integrarcutesier.friendshipapostolicchurch.org
 0.0.0.0 integratedidea.com
 0.0.0.0 intelliduct.com
 0.0.0.0 interactivearea.ru
@@ -2116,7 +2101,6 @@
 0.0.0.0 minigametight.in
 0.0.0.0 ministerio-publi.info
 0.0.0.0 mir-syneris.ru
-0.0.0.0 miracema.rj.gov.br
 0.0.0.0 mirandolasrl.it
 0.0.0.0 misegundocuadro.com
 0.0.0.0 miserji.com
@@ -2473,7 +2457,6 @@
 0.0.0.0 philippine-embassy.ir
 0.0.0.0 phitenmy.com
 0.0.0.0 phones4wow.com
-0.0.0.0 photo.video.gay.free.fr
 0.0.0.0 photomoa.co.kr
 0.0.0.0 photos.vasilcastle.com
 0.0.0.0 photoscape.ch
@@ -2503,7 +2486,6 @@
 0.0.0.0 plengeh.wen.ru
 0.0.0.0 ploai.com
 0.0.0.0 plotonk.com
-0.0.0.0 plsderk.ddns.me.uk
 0.0.0.0 pltechnews.biz
 0.0.0.0 plumfinders.com
 0.0.0.0 plusbest.ru
@@ -2623,7 +2605,6 @@
 0.0.0.0 qzone6.com
 0.0.0.0 r0218.rsstatic.ru
 0.0.0.0 rabita-chorafa-adarissa.ma
-0.0.0.0 radfgerbs.ddns.me.uk
 0.0.0.0 radiomangalia.isthebe.st
 0.0.0.0 radiosouf.free.fr
 0.0.0.0 rahpublications.com
@@ -3101,7 +3082,6 @@
 0.0.0.0 supernewstuff.ru
 0.0.0.0 superore.ru
 0.0.0.0 supersupermall.ru
-0.0.0.0 support.semptoshiba.com.br
 0.0.0.0 suri-nicole.com
 0.0.0.0 survicetwoweeks.net
 0.0.0.0 svetfilmu.com
@@ -3239,7 +3219,6 @@
 0.0.0.0 topfreeproxy.com
 0.0.0.0 tophostbg.net
 0.0.0.0 toppstock.com
-0.0.0.0 toqd.friendshipapostolicchurch.org
 0.0.0.0 torvaldscallthat.info
 0.0.0.0 tottaldomain.cn
 0.0.0.0 tourindia.in
@@ -3398,7 +3377,6 @@
 0.0.0.0 uin1.cn
 0.0.0.0 uin2.cn
 0.0.0.0 uklucab.in
-0.0.0.0 ulfreqb.ddns.me.uk
 0.0.0.0 ulka-gallery.yoyo.pl
 0.0.0.0 unalbilgisayar.com
 0.0.0.0 undefined.it
@@ -3587,7 +3565,6 @@
 0.0.0.0 wittyvideos.com
 0.0.0.0 wizsearch.co.kr
 0.0.0.0 wjnjeryyzs.ce.ms
-0.0.0.0 wkdjfgka.ddns.me.uk
 0.0.0.0 wkmg.co.kr
 0.0.0.0 wleuih.qhigh.com
 0.0.0.0 wm.17wan.info
