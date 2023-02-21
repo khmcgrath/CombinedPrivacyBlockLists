@@ -356,6 +356,7 @@
 0.0.0.0 286813086616891.wt-eu02.net
 0.0.0.0 289931.com
 0.0.0.0 29730396.ranking.fc2.com
+0.0.0.0 2a0b5.calendar.wishmarkets.com
 0.0.0.0 2be431d7.ngrok.io
 0.0.0.0 2bunny.com
 0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
@@ -610,6 +611,7 @@
 0.0.0.0 579960529907681.wt-eu02.net
 0.0.0.0 590838755166551.wt-eu02.net
 0.0.0.0 598189357306993.wt-eu02.net
+0.0.0.0 59c19.distributor.techsavvyauto.com
 0.0.0.0 59cn7.com
 0.0.0.0 5advertise.com
 0.0.0.0 5aef.pw
@@ -725,6 +727,7 @@
 0.0.0.0 77tracking.com
 0.0.0.0 77xhxh.com
 0.0.0.0 77xxaa.com
+0.0.0.0 78196.calendar.wishmarkets.com
 0.0.0.0 785sou.xyz
 0.0.0.0 78sh68279.atspace.eu
 0.0.0.0 78tdd75.com
@@ -6128,7 +6131,6 @@
 0.0.0.0 aeros10.tk
 0.0.0.0 aeros11.tk
 0.0.0.0 aeros12.tk
-0.0.0.0 aesculapius.000webhostapp.com
 0.0.0.0 aetnaaetnaprod2018.112.2o7.net
 0.0.0.0 aetv.112.2o7.net
 0.0.0.0 aeventlog.beacon.qq.com
@@ -8439,7 +8441,6 @@
 0.0.0.0 aquarentboats.com
 0.0.0.0 aquatas.com
 0.0.0.0 aquaticowl.com
-0.0.0.0 aquilesarocaltda.000webhostapp.com
 0.0.0.0 aquireskill.site
 0.0.0.0 ar-energyservice.com
 0.0.0.0 ar.atelier-romeo.com
@@ -10054,6 +10055,7 @@
 0.0.0.0 bigrest.live
 0.0.0.0 bigrint.live
 0.0.0.0 bigs.bikershop.biz
+0.0.0.0 bigsale100.com
 0.0.0.0 bigsharkmedia.com
 0.0.0.0 bigtime.floridacitrussports.com
 0.0.0.0 bigtrading.ga
@@ -11290,6 +11292,7 @@
 0.0.0.0 c5.adalyser.com
 0.0.0.0 c5.statcounter.com
 0.0.0.0 c541f5d439a359.xyz
+0.0.0.0 c5675.distributor.techsavvyauto.com
 0.0.0.0 c6.statcounter.com
 0.0.0.0 c7.statcounter.com
 0.0.0.0 c8.statcounter.com
@@ -11303,6 +11306,7 @@
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca1.metrics.backtrace.io
 0.0.0.0 ca4-bid.adsrvr.org
+0.0.0.0 ca565.distributor.techsavvyauto.com
 0.0.0.0 caban.live
 0.0.0.0 cabed.live
 0.0.0.0 caber.live
@@ -11393,7 +11397,6 @@
 0.0.0.0 camstaterep.com
 0.0.0.0 camto.live
 0.0.0.0 can.goepson.com
-0.0.0.0 can25.000webhostapp.com
 0.0.0.0 canadaoneautoglobalproduction.112.2o7.net
 0.0.0.0 canadapost.112.2o7.net
 0.0.0.0 canadianposcorp.com
@@ -12975,7 +12978,6 @@
 0.0.0.0 codeonclick.com
 0.0.0.0 codin.live
 0.0.0.0 coding.1100011.ir
-0.0.0.0 codingguydev.000webhostapp.com
 0.0.0.0 cofent.live
 0.0.0.0 coffeeshopee.info
 0.0.0.0 coffeeshopee.shop
@@ -13878,7 +13880,6 @@
 0.0.0.0 cr.jpmchase.com
 0.0.0.0 cr6.yovoads.com
 0.0.0.0 cra-arc-gc-ca.noads.biz
-0.0.0.0 crabbier-airports.000webhostapp.com
 0.0.0.0 crabbychin.com
 0.0.0.0 crackpoint.xyz
 0.0.0.0 cracksmsa.ug
@@ -14740,7 +14741,6 @@
 0.0.0.0 defol.club
 0.0.0.0 defpush.com
 0.0.0.0 defshop01.webtrekk.net
-0.0.0.0 degengeneral.000webhostapp.com
 0.0.0.0 degers.live
 0.0.0.0 degh48.fnac.com
 0.0.0.0 degics.live
@@ -15841,7 +15841,6 @@
 0.0.0.0 douballkoreshy.net
 0.0.0.0 douballkoreshy.org
 0.0.0.0 double-berry.com
-0.0.0.0 double-minded-elect.000webhostapp.com
 0.0.0.0 doubleadserve.com
 0.0.0.0 doublecklick.net
 0.0.0.0 doubleclick.com
@@ -16340,6 +16339,7 @@
 0.0.0.0 e3rd15.eulerian.net
 0.0.0.0 e3rd16.eulerian.net
 0.0.0.0 e5019.e2.akamaiedge.net
+0.0.0.0 e6c2f.distributor.techsavvyauto.com
 0.0.0.0 e77lmzbqou0n-a.akamaihd.net
 0.0.0.0 e8.ssigu.ru
 0.0.0.0 ea.1001pneus.fr
@@ -18216,7 +18216,6 @@
 0.0.0.0 faktura24.cf
 0.0.0.0 faktura24.ml
 0.0.0.0 falcoware.com
-0.0.0.0 falernian-plane.000webhostapp.com
 0.0.0.0 falir.live
 0.0.0.0 fallaciousfifth.com
 0.0.0.0 falsefeet.com
@@ -21894,7 +21893,6 @@
 0.0.0.0 greenweez.eulerian.net
 0.0.0.0 greetz01.wt-eu02.net
 0.0.0.0 greetzebra.com
-0.0.0.0 gregoirius2015.000webhostapp.com
 0.0.0.0 gresdik.live
 0.0.0.0 greyinstrument.com
 0.0.0.0 greyrockland.com
@@ -21962,6 +21960,7 @@
 0.0.0.0 gtwxpq.restaurant.com
 0.0.0.0 guarana.pw
 0.0.0.0 guaranteelamp.com
+0.0.0.0 guarantepay.smart-it-partner.com
 0.0.0.0 guardedgovernor.com
 0.0.0.0 guardedschool.com
 0.0.0.0 guardsystem.click
@@ -22357,7 +22356,6 @@
 0.0.0.0 heias.com
 0.0.0.0 heise01.webtrekk.net
 0.0.0.0 heise02.webtrekk.net
-0.0.0.0 hellboylucy509.000webhostapp.com
 0.0.0.0 hello.bpost.be
 0.0.0.0 hello.heroku.com
 0.0.0.0 hello.nutter.com
@@ -25142,7 +25140,6 @@
 0.0.0.0 ka.display.ad.daum.net
 0.0.0.0 ka3ek.com
 0.0.0.0 ka4cv7yh4w.com
-0.0.0.0 kaaspersky.000webhostapp.com
 0.0.0.0 kabaka.ddns.net
 0.0.0.0 kabis.live
 0.0.0.0 kaboms.live
@@ -26140,6 +26137,7 @@
 0.0.0.0 lalitmumbai.net
 0.0.0.0 laman.live
 0.0.0.0 lamegaoffre.fr
+0.0.0.0 lameguard.ru
 0.0.0.0 lameletters.com
 0.0.0.0 lamid.live
 0.0.0.0 lamis.live
@@ -26719,7 +26717,6 @@
 0.0.0.0 livelyoffers.club
 0.0.0.0 liveme31.com
 0.0.0.0 livenation.122.2o7.net
-0.0.0.0 livenewscnn.000webhostapp.com
 0.0.0.0 liverail.com
 0.0.0.0 liverfook.ml
 0.0.0.0 livestream123.info
@@ -29812,7 +29809,6 @@
 0.0.0.0 miner.nimiq.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minerad.com
-0.0.0.0 mineramonday.com.py
 0.0.0.0 minerarog.xyz
 0.0.0.0 minercoinbox.com
 0.0.0.0 minercry.pt
@@ -29829,7 +29825,6 @@
 0.0.0.0 minishop.in
 0.0.0.0 ministedik.info
 0.0.0.0 ministere-elshaddai.org
-0.0.0.0 ministerioagape.net
 0.0.0.0 minmindough.com
 0.0.0.0 minormeeting.com
 0.0.0.0 minr.browsermine.com
@@ -33310,7 +33305,6 @@
 0.0.0.0 obtener-avance.gq
 0.0.0.0 obyst4.tk
 0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 occurrent-fatigues.000webhostapp.com
 0.0.0.0 ocdn.adsterra.com
 0.0.0.0 ocean2.authcaptcha.com
 0.0.0.0 oceancityrentalbyowner.com
@@ -33393,7 +33387,6 @@
 0.0.0.0 office.ad1.ru
 0.0.0.0 office.com.kz
 0.0.0.0 office.webxpo.us
-0.0.0.0 office2010.000webhostapp.com
 0.0.0.0 office365-cloud5.com
 0.0.0.0 office365-cloud5.space
 0.0.0.0 office365.bit
@@ -34854,6 +34847,7 @@
 0.0.0.0 osid.live
 0.0.0.0 osiete-k.com
 0.0.0.0 osiristrading.112.2o7.net
+0.0.0.0 osjovanmikic.edu.rs
 0.0.0.0 osmiumpalner.com
 0.0.0.0 osrsport.com
 0.0.0.0 osxmacservice.com
@@ -35908,7 +35902,6 @@
 0.0.0.0 pilarrakyat.com
 0.0.0.0 pilatylu.com
 0.0.0.0 pilen.live
-0.0.0.0 pilesfistulasurgery.com
 0.0.0.0 pilkics.com
 0.0.0.0 pillscrew.info
 0.0.0.0 piloms.live
@@ -36814,6 +36807,7 @@
 0.0.0.0 proxy-gbr-2.inf.nimiq.network
 0.0.0.0 proxy-pol-1.inf.nimiq.network
 0.0.0.0 proxy-pol-2.inf.nimiq.network
+0.0.0.0 proxy.akur.group
 0.0.0.0 proxyads.org
 0.0.0.0 proyectobasevirtual.com
 0.0.0.0 proyectobasevirtualcol.com
@@ -38350,7 +38344,6 @@
 0.0.0.0 rifat01.info
 0.0.0.0 rifat02.info
 0.0.0.0 rifen.live
-0.0.0.0 riftrebirth.000webhostapp.com
 0.0.0.0 rightstats.com
 0.0.0.0 rigneda.ru
 0.0.0.0 rigowh.life
@@ -42998,6 +42991,7 @@
 0.0.0.0 tip-ads.de
 0.0.0.0 tipp01.webtrekk.net
 0.0.0.0 tippcom01.webtrekk.net
+0.0.0.0 tiqany.net
 0.0.0.0 tiqcdn.com
 0.0.0.0 tiredu.life
 0.0.0.0 tirod.live
@@ -45061,7 +45055,6 @@
 0.0.0.0 um-bredirect.com
 0.0.0.0 umal.online
 0.0.0.0 umamistreet.analytics.qlook.net
-0.0.0.0 umber-mistrials.000webhostapp.com
 0.0.0.0 umbr.online
 0.0.0.0 umc-tech.com
 0.0.0.0 umeed.app
@@ -45128,7 +45121,6 @@
 0.0.0.0 unlockingdreamsfinancial.com
 0.0.0.0 unnaturalcaption.com
 0.0.0.0 unnews.freetcp.com
-0.0.0.0 unnourished-region.000webhostapp.com
 0.0.0.0 unoadsrv.com
 0.0.0.0 unogames.site
 0.0.0.0 unpaireddc.com
@@ -46156,7 +46148,6 @@
 0.0.0.0 vobyst9.gq
 0.0.0.0 vobyst9.ml
 0.0.0.0 vobyst9.tk
-0.0.0.0 vocational-age.000webhostapp.com
 0.0.0.0 vocoptions.net
 0.0.0.0 vod.adspruce.com
 0.0.0.0 vodafonegroup.122.2o7.net
@@ -46681,7 +46672,6 @@
 0.0.0.0 webapi.salamantex.com
 0.0.0.0 webapi.staging.salamantex.com
 0.0.0.0 webapp-mpp2.com
-0.0.0.0 webarconet.000webhostapp.com
 0.0.0.0 webassembly.stream
 0.0.0.0 webbelflax.pt
 0.0.0.0 webbserfer.ru
@@ -46885,7 +46875,6 @@
 0.0.0.0 whitegames.wepudas.guru
 0.0.0.0 whitelist.eu
 0.0.0.0 whitelisted.org
-0.0.0.0 whitewingsbaking.com
 0.0.0.0 whoawareness.com
 0.0.0.0 whoil.club
 0.0.0.0 whoisonline.net
@@ -47043,7 +47032,6 @@
 0.0.0.0 windows-defender-hub-1.downloadsgeeks.com
 0.0.0.0 windows-pcrepair.com
 0.0.0.0 windowsdefender.win
-0.0.0.0 windowservices9999.000webhostapp.com
 0.0.0.0 windowsupdates.bit
 0.0.0.0 winecom.112.2o7.net
 0.0.0.0 wineenthusiastcom.112.2o7.net
@@ -47298,6 +47286,7 @@
 0.0.0.0 world.popadscdn.net
 0.0.0.0 worldactualstories.com
 0.0.0.0 worldatdoor.in
+0.0.0.0 worldjetmachine.com
 0.0.0.0 worldnit.com
 0.0.0.0 worldnowboston.112.2o7.net
 0.0.0.0 worldsfinestservice.com
@@ -48094,6 +48083,7 @@
 0.0.0.0 www.chartbeat.com
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.cheap-ads.net
+0.0.0.0 www.chemsky.tn
 0.0.0.0 www.christianbusinessadvertising.com
 0.0.0.0 www.cialisforsalecialiscostcye.com
 0.0.0.0 www.cialismed.com
@@ -48765,7 +48755,6 @@
 0.0.0.0 wwwban.trokers.net
 0.0.0.0 wwwelectrum.org
 0.0.0.0 wwwpromoter.com
-0.0.0.0 wwwwwwwwwwwwwwwwwwwwww.000webhostapp.com
 0.0.0.0 wxhiojortldjyegtkx.bid
 0.0.0.0 wygust.cf
 0.0.0.0 wygust.gq
@@ -50243,5 +50232,4 @@
 0.0.0.0 zynga2-a.akamaihd.net
 0.0.0.0 zyq2.destinia.sk
 0.0.0.0 zytrox.tk
-0.0.0.0 zywuqcxtmqtz.000webhostapp.com
 0.0.0.0 zz.cqcounter.com
