@@ -78,6 +78,7 @@
 ^(www\.)?dropboxmail\.com$
 ^(www\.)?dropboxpartners\.com$
 ^(www\.)?dropboxstatic\.com$
+^(www\.)?drumcorpsplanet\.com$
 ^(www\.)?dshield\.org$
 ^(www\.)?duckdns\.org$
 ^(www\.)?duo\.nl$
@@ -122,6 +123,7 @@
 ^(www\.)?html5zombo\.com$
 ^(www\.)?icloud\.com$
 ^(www\.)?icscards\.nl$
+^(www\.)?idol-dvd\.com$
 ^(www\.)?imgtaxi\.com$
 ^(www\.)?imgtown\.pw$
 ^(www\.)?imgview\.pw$
@@ -147,13 +149,17 @@
 ^(www\.)?mail\.ru$
 ^(www\.)?malwaredomainlist\.com$
 ^(www\.)?malwaredomains\.com$
+^(www\.)?manga-news\.com$
 ^(www\.)?mcssl\.com$
 ^(www\.)?medium\.com$
+^(www\.)?miciudadreal\.es$
+^(www\.)?mladtehnik\.com$
 ^(www\.)?mradx\.net$
 ^(www\.)?msftncsi\.com$
 ^(www\.)?neocities\.org$
 ^(www\.)?neostrada\.nl$
 ^(www\.)?netflix\.com$
+^(www\.)?newbie\.com$
 ^(www\.)?newworldencyclopedia\.org$
 ^(www\.)?nextdns\.io$
 ^(www\.)?nitroflare\.com$
@@ -219,6 +225,7 @@
 ^(www\.)?termux\.net$
 ^(www\.)?teslathemes\.com$
 ^(www\.)?theguardian\.com$
+^(www\.)?theleader\.info$
 ^(www\.)?themoviedb\.com$
 ^(www\.)?thepiratebay\.org$
 ^(www\.)?thetvdb\.com$
