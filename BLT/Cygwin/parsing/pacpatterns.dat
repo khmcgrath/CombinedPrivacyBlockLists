@@ -98,6 +98,8 @@
 ^(www\.)?flipboard\.com$
 ^(www\.)?footlocker\.com$
 ^(www\.)?forbes\.com$
+^(www\.)?foxyhold\.io$
+^(www\.)?gab\.com$
 ^(www\.)?gameanalytics\.com$
 ^(www\.)?ge\.tt$
 ^(www\.)?gearbest\.com$
@@ -150,12 +152,18 @@
 ^(www\.)?malwaredomainlist\.com$
 ^(www\.)?malwaredomains\.com$
 ^(www\.)?manga-news\.com$
+^(www\.)?mas\.to$
+^(www\.)?mastodon\.cloud$
+^(www\.)?mastodon\.online$
+^(www\.)?mastodon\.social$
+^(www\.)?mastodon\.world$
 ^(www\.)?mcssl\.com$
 ^(www\.)?medium\.com$
 ^(www\.)?miciudadreal\.es$
 ^(www\.)?mladtehnik\.com$
 ^(www\.)?mradx\.net$
 ^(www\.)?msftncsi\.com$
+^(www\.)?mstdn\.social$
 ^(www\.)?neocities\.org$
 ^(www\.)?neostrada\.nl$
 ^(www\.)?netflix\.com$
@@ -178,6 +186,7 @@
 ^(www\.)?ow\.ly$
 ^(www\.)?paste\.ee$
 ^(www\.)?pastebin\.com$
+^(www\.)?pawoo\.net$
 ^(www\.)?pcmweb\.nl$
 ^(www\.)?phonearena\.com$
 ^(www\.)?plex\.tv$
@@ -206,6 +215,7 @@
 ^(www\.)?signal\.art$
 ^(www\.)?signal\.org$
 ^(www\.)?signalcaptchas\.org$
+^(www\.)?skyrisecities\.com$
 ^(www\.)?smartasset\.com$
 ^(www\.)?someonewhocares\.org$
 ^(www\.)?soundcloud\.com$
@@ -248,6 +258,7 @@
 ^(www\.)?unmineable\.com$
 ^(www\.)?unpkg\.com$
 ^(www\.)?urbanairship\.com$
+^(www\.)?urbantoronto\.ca$
 ^(www\.)?usps\.com$
 ^(www\.)?vidible\.tv$
 ^(www\.)?virtualearth\.net$

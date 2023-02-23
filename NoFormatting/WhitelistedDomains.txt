@@ -281,12 +281,14 @@ forbes.com
 forum.xda-developers.com
 forums.sonarr.tv
 foxnews.demdex.net
+foxyhold.io
 fpdownload.adobe.com
 fpdownload.macromedia.com
 ftpcontent.worldnow.com
 g.live.com
 g.msn.com
 g1.nyt.com
+gab.com
 game.weixin.qq.com
 gameanalytics.com
 gcs.sc-cdn.net
@@ -384,6 +386,11 @@ malwaredomainlist.com
 malwaredomains.com
 managemymove.usps.com
 manga-news.com
+mas.to
+mastodon.cloud
+mastodon.online
+mastodon.social
+mastodon.world
 mcssl.com
 medium.com
 miciudadreal.es
@@ -394,6 +401,7 @@ mparticle.weather.com
 mradx.net
 msa.akadns6.net
 msftncsi.com
+mstdn.social
 multiscreen.samsung.com
 my.mixtape.moe
 nab.demdex.net
@@ -435,6 +443,7 @@ p.typekit.net
 paper.dropbox.com
 paste.ee
 pastebin.com
+pawoo.net
 pbs.twimg.com
 pcmweb.nl
 pgl.yoyo.org
@@ -523,6 +532,7 @@ signal.org
 signalcaptchas.org
 silo.pluto.tv
 siloh.pluto.tv
+skyrisecities.com
 smartasset.com
 smetrics.cnn.com
 socialize.eu1.gigya.com
@@ -603,6 +613,7 @@ unmineable.com
 unpkg.com
 upload.twitter.com
 urbanairship.com
+urbantoronto.ca
 us-east-1.amazonaws.com
 us.i1.yimg.com
 usbank-app.quantummetric.com
