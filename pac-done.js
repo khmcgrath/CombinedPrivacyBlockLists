@@ -1,4 +1,4 @@
-// **** Fri Feb 24 08:00:34 PM UTC 2023
+// **** Fri Feb 24 08:08:49 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -35909,7 +35909,6 @@ shExpMatch(host, "*.pygyst7.tk") ||
 shExpMatch(host, "*.pymx5.com") ||
 shExpMatch(host, "*.pyrd5.xyz") ||
 shExpMatch(host, "*.pythagore.demdex.net") ||
-shExpMatch(host, "*.python-apps.com") ||
 shExpMatch(host, "*.pytopm.pw") ||
 shExpMatch(host, "*.q-stats.nl") ||
 shExpMatch(host, "*.q.azcentral.com") ||
@@ -84259,7 +84258,6 @@ shExpMatch(host, "pygyst7.tk") ||
 shExpMatch(host, "pymx5.com") ||
 shExpMatch(host, "pyrd5.xyz") ||
 shExpMatch(host, "pythagore.demdex.net") ||
-shExpMatch(host, "python-apps.com") ||
 shExpMatch(host, "pytopm.pw") ||
 shExpMatch(host, "q-stats.nl") ||
 shExpMatch(host, "q.azcentral.com") ||
