@@ -1133,6 +1133,7 @@
 0.0.0.0 epi-spa.com
 0.0.0.0 eplarine.com
 0.0.0.0 equip.yaroslavl.ru
+0.0.0.0 equitydefault.com
 0.0.0.0 eqw002.cn
 0.0.0.0 eqw009.cn
 0.0.0.0 eracou.com
@@ -1175,6 +1176,7 @@
 0.0.0.0 ewenhugi.ru
 0.0.0.0 ex.technor.com
 0.0.0.0 excitingmovs.com
+0.0.0.0 excretekings.com
 0.0.0.0 exelentmarketing.com
 0.0.0.0 exezaho.cn
 0.0.0.0 exiansik.ru
@@ -1226,6 +1228,7 @@
 0.0.0.0 fdp-stjohann-ost.de
 0.0.0.0 fecorom.in
 0.0.0.0 feenode.net
+0.0.0.0 feignthat.com
 0.0.0.0 feixiangpw.com
 0.0.0.0 feiyang163.com
 0.0.0.0 felixooriums.net
@@ -1284,6 +1287,7 @@
 0.0.0.0 follow247.xyz
 0.0.0.0 fondazioneciampi.org
 0.0.0.0 fopsl.cn
+0.0.0.0 for-j.com
 0.0.0.0 forgottencelebs.com
 0.0.0.0 foritalynews.it
 0.0.0.0 formessengers.com
@@ -2211,6 +2215,7 @@
 0.0.0.0 natebennettfleming.com
 0.0.0.0 nationalrealtyonline.com
 0.0.0.0 natural.buckeyeenergyforum.com
+0.0.0.0 naveljutmistress.com
 0.0.0.0 nb-huaheng.com
 0.0.0.0 nba1001.net
 0.0.0.0 nbnjki.com
@@ -2309,6 +2314,7 @@
 0.0.0.0 ntrfm.com
 0.0.0.0 nuclear3.com
 0.0.0.0 nudebeachgalleries.net
+0.0.0.0 nudgeworry.com
 0.0.0.0 nujqamdi.ru
 0.0.0.0 nw-cpm.cz.cc
 0.0.0.0 nylzudwo.ru
@@ -2832,6 +2838,7 @@
 0.0.0.0 sfhh46.cz.cc
 0.0.0.0 sgs.us.com
 0.0.0.0 sh-yuan.com
+0.0.0.0 shaggyselectmast.com
 0.0.0.0 shaliron.cz.cc
 0.0.0.0 shchaoneng.cn
 0.0.0.0 shcpa2011.com
@@ -2989,6 +2996,7 @@
 0.0.0.0 softtube.cn
 0.0.0.0 soidc.com
 0.0.0.0 soisokdomen.ru
+0.0.0.0 solemnvine.com
 0.0.0.0 solutionblue.us
 0.0.0.0 solutionnice.info
 0.0.0.0 solutionzip.us
@@ -3087,6 +3095,7 @@
 0.0.0.0 survicetwoweeks.net
 0.0.0.0 svetfilmu.com
 0.0.0.0 svetyivanrilski.com
+0.0.0.0 sweepfrequencydissolved.com
 0.0.0.0 sweepstakesandcontestsinfo.com
 0.0.0.0 sweepstakesandcontestsnow.com
 0.0.0.0 swhfinc.com
@@ -3243,6 +3252,7 @@
 0.0.0.0 traffics-inspector.cn
 0.0.0.0 traffok.cn
 0.0.0.0 trafgen.org
+0.0.0.0 tragicbeyond.com
 0.0.0.0 trakyareklam.net
 0.0.0.0 transportationrouter.net
 0.0.0.0 trenz.pl
@@ -3672,13 +3682,17 @@
 0.0.0.0 www.eivamos.com
 0.0.0.0 www.emrlogistics.com
 0.0.0.0 www.enchantier.com
+0.0.0.0 www.equitydefault.com
 0.0.0.0 www.ergotherapie-schleswig.de
+0.0.0.0 www.excretekings.com
 0.0.0.0 www.experiencesuite.it
 0.0.0.0 www.fabioalbini.com
 0.0.0.0 www.facebok.com.ba
 0.0.0.0 www.fasadobygg.com
+0.0.0.0 www.feignthat.com
 0.0.0.0 www.feiyang163.com
 0.0.0.0 www.flowtec.com.br
+0.0.0.0 www.for-j.com
 0.0.0.0 www.foritalynews.it
 0.0.0.0 www.fotoidea.com
 0.0.0.0 www.freemao.com
@@ -3737,11 +3751,13 @@
 0.0.0.0 www.motortecnica.org
 0.0.0.0 www.mountain-paradise.co.uk
 0.0.0.0 www.moviedownloader.net
+0.0.0.0 www.naveljutmistress.com
 0.0.0.0 www.nbyuxin.com
 0.0.0.0 www.nexusconsultoriacontabil.com.br
 0.0.0.0 www.nfscars.net
 0.0.0.0 www.notaverde.com
 0.0.0.0 www.nothingcompares.co.uk
+0.0.0.0 www.nudgeworry.com
 0.0.0.0 www.nuvon.com
 0.0.0.0 www.obyz.de
 0.0.0.0 www.offerent.com
@@ -3783,6 +3799,7 @@
 0.0.0.0 www.scantanzania.com
 0.0.0.0 www.seal-technicsag.ch
 0.0.0.0 www.secondome.com
+0.0.0.0 www.shaggyselectmast.com
 0.0.0.0 www.shoplinebd.com
 0.0.0.0 www.sieltre.it
 0.0.0.0 www.sitepalace.com
@@ -3790,6 +3807,7 @@
 0.0.0.0 www.smartscan.ro
 0.0.0.0 www.softtube.cn
 0.0.0.0 www.soidc.com
+0.0.0.0 www.solemnvine.com
 0.0.0.0 www.solo-juegos.com
 0.0.0.0 www.sonnoli.com
 0.0.0.0 www.straight-up.ca
@@ -3798,6 +3816,7 @@
 0.0.0.0 www.studiolegaleabbruzzese.com
 0.0.0.0 www.studiosipro.com
 0.0.0.0 www.super8service.de
+0.0.0.0 www.sweepfrequencydissolved.com
 0.0.0.0 www.t-gas.co.uk
 0.0.0.0 www.taichang.co.kr
 0.0.0.0 www.tangibledownload.com
@@ -3812,6 +3831,7 @@
 0.0.0.0 www.torgi.kz
 0.0.0.0 www.tourindia.in
 0.0.0.0 www.tpt.edu.in
+0.0.0.0 www.tragicbeyond.com
 0.0.0.0 www.truegritanimation.com
 0.0.0.0 www.tvnews.or.kr
 0.0.0.0 www.two-of-us.at
