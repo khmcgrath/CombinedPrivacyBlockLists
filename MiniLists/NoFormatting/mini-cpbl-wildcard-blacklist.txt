@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/24/23~20:23:55 -~
+# ~- 02/26/23~03:13:16 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -22481,6 +22481,7 @@
 *.covidbase.info
 *.covidflix19.xyz
 *.covidflix20.xyz
+*.covidguardeth.com
 *.covidsrc.com
 *.covidsvcrc.com
 *.covus.live
@@ -23709,7 +23710,6 @@
 *.d1wix2gc2cgqis.cloudfront.net
 *.d1wjz6mrey9f5v.cloudfront.net
 *.d1wv5x2u0qrvjw.cloudfront.net
-*.d1x3x.linkpc.net
 *.d1xfq2052q7thw.cloudfront.net
 *.d1xkyo9j4r7vnn.cloudfront.net
 *.d1ybdlg8aoufn.cloudfront.net
@@ -29006,7 +29006,6 @@
 *.ellads.com
 *.ellaysad.live
 *.ellcurvth.com
-*.elliert.github.io
 *.ellpaniers.com
 *.elmad.my.id
 *.elneemrrtorithum.com
@@ -32933,6 +32932,7 @@
 *.free-gluten.ru
 *.free-groupsex.com
 *.free-hairy-pussy.net
+*.free-progs.net
 *.free-stats.com
 *.free-video-movie.com
 *.free-website-statistics.com
@@ -34709,7 +34709,6 @@
 *.gitens.live
 *.giters.live
 *.gitgrub.pro
-*.gitlab2022.oss-cn-beijing.aliyuncs.com
 *.gitoku.com
 *.giturn.com
 *.gitwnd.cn
@@ -41248,7 +41247,6 @@
 *.invocacdn.com
 *.invoice-accounts.org
 *.invoice001.yolasite.com
-*.invoice4c.yolasite.com
 *.invoice7mukszq9nbpa7online.ru
 *.invoice9kat5ggmml0c6online.ru
 *.invoices.sappleserve.com
@@ -41884,7 +41882,6 @@
 *.izarc.fr
 *.izeltelekom.com
 *.izitrckr.com
-*.izlidemi.github.io
 *.izpcocomarfbrs.com
 *.izrnvo.com
 *.izuis.com
@@ -44643,7 +44640,6 @@
 *.koora2live.com
 *.kooshkan.ml
 *.koovapou.xyz
-*.kopadd.yunethosting.rs
 *.kopehngtragen.com
 *.kopenbar.ru
 *.kopent.live
@@ -52056,7 +52052,6 @@
 *.moratlefty.com
 *.morbidlocally.com
 *.morbitempus.com
-*.morcelik.github.io
 *.mordieuweeshee.com
 *.mordoops.com
 *.more.socialflow.com
@@ -55980,6 +55975,7 @@
 *.onlinedattingforlife.info
 *.onlinedisky.fun
 *.onlinegappo.fun
+*.onlinehome.us
 *.onlinekate.fun
 *.onlinelovest.site
 *.onlinemacraigs.site
@@ -72534,6 +72530,7 @@
 *.systemizecoat.com
 *.systemleadb.com
 *.systemswift.group
+*.systemupdate-microsoft.top
 *.systemupdatesy.life
 *.systemupdatix.club
 *.systic.duckdns.org
@@ -78886,7 +78883,6 @@
 *.updates-install.com
 *.updates.aem.org
 *.updates.conexpoconagg.com
-*.updates.ultimate-fakkers.co.network
 *.updateservice.work
 *.updatewin32.xyz
 *.updown.me
@@ -85037,7 +85033,6 @@
 *.yydwkkxhjb.com
 *.yyek3cdeo.cyou
 *.yyepa.cyou
-*.yyhdb.oss-cn-shenzhen.aliyuncs.com
 *.yyhhwt.com
 *.yyhqch.com
 *.yyi7.consobaby.de

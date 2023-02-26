@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/24/23~20:23:54 -~
+# ~- 02/26/23~03:13:15 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -29388,6 +29388,7 @@
 *.covidbase.info
 *.covidflix19.xyz
 *.covidflix20.xyz
+*.covidguardeth.com
 *.covidsrc.com
 *.covidsvcrc.com
 *.covivado.club
@@ -31405,7 +31406,6 @@
 *.d1wix2gc2cgqis.cloudfront.net
 *.d1wjz6mrey9f5v.cloudfront.net
 *.d1wv5x2u0qrvjw.cloudfront.net
-*.d1x3x.linkpc.net
 *.d1xfq2052q7thw.cloudfront.net
 *.d1xkyo9j4r7vnn.cloudfront.net
 *.d1ybdlg8aoufn.cloudfront.net
@@ -40015,7 +40015,6 @@
 *.ellaysad.live
 *.ellcurvth.com
 *.elle.alljournal.ru
-*.elliert.github.io
 *.ellpaniers.com
 *.elmad.my.id
 *.elmissouri.fr
@@ -45796,6 +45795,7 @@
 *.free-ourworld.com
 *.free-playstation-plus.com
 *.free-pokecoins.org
+*.free-progs.net
 *.free-psncards.com
 *.free-psncodegenerator.com
 *.free-psncodes.org
@@ -48871,7 +48871,6 @@
 *.gitens.live
 *.giters.live
 *.gitgrub.pro
-*.gitlab2022.oss-cn-beijing.aliyuncs.com
 *.gitmovies.com
 *.gitoku.com
 *.gitorm.info
@@ -58304,7 +58303,6 @@
 *.invoice-accounts.org
 *.invoice-myups.org
 *.invoice001.yolasite.com
-*.invoice4c.yolasite.com
 *.invoice7mukszq9nbpa7online.ru
 *.invoice9kat5ggmml0c6online.ru
 *.invoices.sappleserve.com
@@ -59197,7 +59195,6 @@
 *.izeltelekom.com
 *.izitizi.ru
 *.izitrckr.com
-*.izlidemi.github.io
 *.izlinix.com
 *.izooto.com
 *.izpcocomarfbrs.com
@@ -62617,7 +62614,6 @@
 *.koora2live.com
 *.kooshkan.ml
 *.koovapou.xyz
-*.kopadd.yunethosting.rs
 *.kopehngtragen.com
 *.kopenbar.ru
 *.kopent.live
@@ -73105,7 +73101,6 @@
 *.moratlefty.com
 *.morbidlocally.com
 *.morbitempus.com
-*.morcelik.github.io
 *.mordieuweeshee.com
 *.mordoops.com
 *.more-data.ru
@@ -78589,6 +78584,7 @@
 *.onlinehacks.us
 *.onlinehacks4you.com
 *.onlinehackzforyou.com
+*.onlinehome.us
 *.onlinekate.fun
 *.onlinelogodesigners.com
 *.onlinelovest.site
@@ -90942,7 +90938,6 @@
 *.s232.theintelligencer.com
 *.s24-analytics.com
 *.s24hc8xzag.com
-*.s268400504.onlinehome.us
 *.s2block.com
 *.s2blosh.com
 *.s2d6.com
@@ -103001,6 +102996,7 @@
 *.systemleadb.com
 *.systemswift.group
 *.systemtds.net
+*.systemupdate-microsoft.top
 *.systemupdatesy.life
 *.systemupdatix.club
 *.systic.duckdns.org
@@ -112433,7 +112429,6 @@
 *.updates.aem.org
 *.updates.conexpoconagg.com
 *.updates.gaylordhotels.com
-*.updates.ultimate-fakkers.co.network
 *.updateservice.work
 *.updatewin32.xyz
 *.updo.nl
@@ -121062,7 +121057,6 @@
 *.yydwkkxhjb.com
 *.yyek3cdeo.cyou
 *.yyepa.cyou
-*.yyhdb.oss-cn-shenzhen.aliyuncs.com
 *.yyhhwt.com
 *.yyhqch.com
 *.yyi7.consobaby.de
