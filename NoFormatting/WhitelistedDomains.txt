@@ -342,6 +342,7 @@ imgs.xkcd.com
 imgtaxi.com
 imgtown.pw
 imgview.pw
+insights.samsung.com
 instructorledlearning.dropboxbusiness.com
 international.bittrex.com
 ip-api.com
