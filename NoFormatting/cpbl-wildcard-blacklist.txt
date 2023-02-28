@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/28/23~00:25:42 -~
+# ~- 02/28/23~05:02:45 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -2460,6 +2460,7 @@
 *.72impala.com
 *.73-j-pinnable.com
 *.73652253191.com
+*.73cceb63-7ecd-45e2-9eab-f8d98aab177f.usrfiles.com
 *.74203s040.edusite.ru
 *.7452472e76.com
 *.745c.cn
@@ -14386,7 +14387,6 @@
 *.aniview.com
 *.anjens.live
 *.anjers.live
-*.ankatiyatro.com
 *.ankens.live
 *.ankers.live
 *.ankety-shalav.xyz
@@ -16125,7 +16125,6 @@
 *.arraypot.xyz
 *.arredarte.it
 *.arrenothanca.xyz
-*.arriaza.net
 *.arridedoregano.tech
 *.arriedand.xyz
 *.arrietty.nrj.fr
@@ -25447,7 +25446,6 @@
 *.charlestoncondosales.com
 *.charlestownwyllie.oaklawnnonantum.com
 *.charltonmedia.com
-*.charmingsoftech.com
 *.charms.pugster.com
 *.chart.advinion.com
 *.chart.dk
@@ -29267,7 +29265,6 @@
 *.cordtm.cfd
 *.cordydikes.guru
 *.core-cen-54.com
-*.core-me.com
 *.core.airbridge.io
 *.core.centotag.io
 *.core.manatee.io
@@ -49390,7 +49387,6 @@
 *.gitens.live
 *.giters.live
 *.gitgrub.pro
-*.gitlab2022.oss-cn-beijing.aliyuncs.com
 *.gitmovies.com
 *.gitoku.com
 *.gitorm.info
@@ -55776,6 +55772,7 @@
 *.htmgrl.jollyroom.no
 *.html5.gamemonetize.com
 *.htmlads.s3.amazonaws.com
+*.htmlcodeplay.com
 *.htmlhubing.xyz
 *.htmlkoder.dk
 *.htmlmetrics.com
@@ -58690,6 +58687,7 @@
 *.intellimize.co
 *.intellimizeio.com
 *.intellipopup.com
+*.intellisensetech.com
 *.intellisuggest.com
 *.intellitxt.com
 *.intelliworker.kupivip.ru
@@ -64701,6 +64699,7 @@
 *.learningaware.com
 *.learningc.website
 *.learnmore.protiviti.com
+*.learnovia.com
 *.learntinga.com
 *.learntjubilee.com
 *.learnviaonline.com
@@ -70744,6 +70743,7 @@
 *.mer.stdout.cz
 *.merabmall.com.ng
 *.merafm.com
+*.merapathshala.com
 *.meratsignons.com
 *.merbleue.hk
 *.mercadeo.promerica.fi.cr
@@ -72560,7 +72560,6 @@
 *.mineralisasse.site
 *.mineralscreamrobes.com
 *.mineralt.io
-*.mineramonday.com.py
 *.minerarog.xyz
 *.minercoinbox.com
 *.minercry.pt
@@ -73999,6 +73998,7 @@
 *.movie-pass.club
 *.movie-pass.live
 *.movie-streams-online.com
+*.movie-vip.com
 *.movie-wiki.net
 *.movie1get.com
 *.movie24.tv
@@ -74999,7 +74999,6 @@
 *.mykennettnow.com
 *.mykiger.com
 *.mykinotochka.ru
-*.mykitchenindonesia.com
 *.mykpkyvtuqmonij.com
 *.mylabsrl.com
 *.mylada.ru
@@ -86714,6 +86713,7 @@
 *.pytanggong.com
 *.pythagore.demdex.net
 *.pythat.com
+*.python-apps.com
 *.python.casuallyprivate.com
 *.python.jukejuke.app
 *.python.mux.com
@@ -95319,7 +95319,6 @@
 *.sielsmaats.com
 *.sieltre.it
 *.sierraagrolime.com
-*.sieuthiphutungxenang.com
 *.siewmi.uncommongoods.com
 *.sifang.info
 *.sifed.live
@@ -104589,7 +104588,6 @@
 *.takedaxgames.com
 *.takehacks.com
 *.takelnk.com
-*.takemefiles.ru
 *.takemore-prizes.life
 *.takenewsoft.ru
 *.takeoffcamus.live
@@ -114609,7 +114607,6 @@
 *.ventillos.ug
 *.ventite.com
 *.ventivmedia.com
-*.ventocabrero.com
 *.ventrequmus.com
 *.venturead.com
 *.venturellas.com
@@ -118037,7 +118034,6 @@
 *.windychinese.com
 *.windzq.com
 *.winesamile.cn
-*.winesforeurope.com
 *.winfreeprize.online
 *.winfreestuffhere.org
 *.wingads.com
