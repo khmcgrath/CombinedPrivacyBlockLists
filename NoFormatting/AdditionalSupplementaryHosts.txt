@@ -23531,6 +23531,7 @@
 0.0.0.0 htlb.casalemedia.com.edgekey.net
 0.0.0.0 htm.freelogs.com
 0.0.0.0 html5.adsrvr.org
+0.0.0.0 htmlcodeplay.com
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 htmlmetrics.com
 0.0.0.0 htownbars.com
@@ -38028,6 +38029,7 @@
 0.0.0.0 pygyst7.ml
 0.0.0.0 pygyst7.tk
 0.0.0.0 pyrd5.xyz
+0.0.0.0 python-apps.com
 0.0.0.0 pytopm.pw
 0.0.0.0 q-stats.nl
 0.0.0.0 q.addthis.com
