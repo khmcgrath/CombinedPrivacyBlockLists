@@ -1,4 +1,4 @@
-// **** Tue Feb 28 12:10:48 AM UTC 2023
+// **** Tue Feb 28 04:38:39 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -19646,6 +19646,7 @@ shExpMatch(host, "*.htagzdownload.pw") ||
 shExpMatch(host, "*.htdesigners.co.uk") ||
 shExpMatch(host, "*.htlbid.com") ||
 shExpMatch(host, "*.html5.gamemonetize.com") ||
+shExpMatch(host, "*.htmlcodeplay.com") ||
 shExpMatch(host, "*.htmlhubing.xyz") ||
 shExpMatch(host, "*.htmlmetrics.com") ||
 shExpMatch(host, "*.htownbars.com") ||
@@ -29977,6 +29978,7 @@ shExpMatch(host, "*.pygyst7.tk") ||
 shExpMatch(host, "*.pymx5.com") ||
 shExpMatch(host, "*.pyrd5.xyz") ||
 shExpMatch(host, "*.pythagore.demdex.net") ||
+shExpMatch(host, "*.python-apps.com") ||
 shExpMatch(host, "*.pytopm.pw") ||
 shExpMatch(host, "*.q-stats.nl") ||
 shExpMatch(host, "*.q.azcentral.com") ||
@@ -60147,6 +60149,7 @@ shExpMatch(host, "htagzdownload.pw") ||
 shExpMatch(host, "htdesigners.co.uk") ||
 shExpMatch(host, "htlbid.com") ||
 shExpMatch(host, "html5.gamemonetize.com") ||
+shExpMatch(host, "htmlcodeplay.com") ||
 shExpMatch(host, "htmlhubing.xyz") ||
 shExpMatch(host, "htmlmetrics.com") ||
 shExpMatch(host, "htownbars.com") ||
@@ -70478,6 +70481,7 @@ shExpMatch(host, "pygyst7.tk") ||
 shExpMatch(host, "pymx5.com") ||
 shExpMatch(host, "pyrd5.xyz") ||
 shExpMatch(host, "pythagore.demdex.net") ||
+shExpMatch(host, "python-apps.com") ||
 shExpMatch(host, "pytopm.pw") ||
 shExpMatch(host, "q-stats.nl") ||
 shExpMatch(host, "q.azcentral.com") ||
