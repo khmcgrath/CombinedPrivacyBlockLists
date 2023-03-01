@@ -1690,6 +1690,7 @@
 0.0.0.0 ad-vanx.com
 0.0.0.0 ad-verification.a8.net
 0.0.0.0 ad-vice.biz
+0.0.0.0 ad-volt.com
 0.0.0.0 ad-vortex.com
 0.0.0.0 ad-web-ad.com
 0.0.0.0 ad-wisteria.excite.co.jp
@@ -2351,6 +2352,7 @@
 0.0.0.0 ad2games-adserver-production.eu-west-1.elasticbeanstalk.com
 0.0.0.0 ad2games-adserver-production.us-west-2.elasticbeanstalk.com
 0.0.0.0 ad2games.com
+0.0.0.0 ad2iction.com
 0.0.0.0 ad3.adfarm1.adition.com
 0.0.0.0 ad3.atlas.cz
 0.0.0.0 ad3.bbmedia.cz
@@ -2417,6 +2419,7 @@
 0.0.0.0 adacus-cdn.placelocal.com
 0.0.0.0 adacus.placelocal.com
 0.0.0.0 adad.ir
+0.0.0.0 adadapted.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adagency1.com
 0.0.0.0 adaied.vegas.com
@@ -2621,6 +2624,8 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adecn-w.atdmt.com
 0.0.0.0 adecn.com
+0.0.0.0 adecosystems.net
+0.0.0.0 adecosystems.tech
 0.0.0.0 adelaidemotorshow.com.au
 0.0.0.0 adelogs.adobe.com
 0.0.0.0 adelphic-partners.tremorhub.com
@@ -2661,6 +2666,7 @@
 0.0.0.0 adflare.jp
 0.0.0.0 adflex.vn
 0.0.0.0 adflight.com
+0.0.0.0 adflores.com
 0.0.0.0 adflow.co.uk
 0.0.0.0 adflow.org
 0.0.0.0 adflownetworks.com
@@ -2901,6 +2907,7 @@
 0.0.0.0 adment.space
 0.0.0.0 admerize.be
 0.0.0.0 admeta.com
+0.0.0.0 admetix.com
 0.0.0.0 admex.com
 0.0.0.0 admicro.vn
 0.0.0.0 admicro1.vcmedia.vn
@@ -2980,6 +2987,7 @@
 0.0.0.0 admonitor.com
 0.0.0.0 admost.com
 0.0.0.0 admotion.com.ar
+0.0.0.0 admozartppc.com
 0.0.0.0 admozartxml.com
 0.0.0.0 admp-tc-bauer.adtlgc.com
 0.0.0.0 admp-tc-delfilt.adtlgc.com
@@ -3110,6 +3118,7 @@
 0.0.0.0 adp.adpies.com
 0.0.0.0 adp.propellerads.com
 0.0.0.0 adpacks.com
+0.0.0.0 adpalladium.com
 0.0.0.0 adparsa.com
 0.0.0.0 adpdx.com
 0.0.0.0 adpenguin.biz
@@ -3126,6 +3135,7 @@
 0.0.0.0 adpinfo.com
 0.0.0.0 adping.qq.com
 0.0.0.0 adpix.jp
+0.0.0.0 adpix.online
 0.0.0.0 adpix.ru
 0.0.0.0 adplaces.ir
 0.0.0.0 adplan-ds.com
@@ -4797,6 +4807,7 @@
 0.0.0.0 adsbid-click.adsbid.ru
 0.0.0.0 adsbid-sh-click.adghndou0sdh.ru
 0.0.0.0 adsbid-sh-click.sing.adghndou0sdh.ru
+0.0.0.0 adsbid.ru
 0.0.0.0 adsbing.com
 0.0.0.0 adsbingo.com
 0.0.0.0 adsblok.com
@@ -5558,6 +5569,7 @@
 0.0.0.0 adsupply.dsp.wtf
 0.0.0.0 adsupplyads.com
 0.0.0.0 adsupplyads.net
+0.0.0.0 adsupplyexchange.com
 0.0.0.0 adsupplyssl.com
 0.0.0.0 adsurve.com
 0.0.0.0 adsushi.de
@@ -5587,6 +5599,7 @@
 0.0.0.0 adsxyz.com
 0.0.0.0 adsy.mail.bg
 0.0.0.0 adsymptotic.com
+0.0.0.0 adsync.global
 0.0.0.0 adsync.tech
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 adsynergy.com
@@ -6009,6 +6022,7 @@
 0.0.0.0 adwmg.com
 0.0.0.0 adwo.com
 0.0.0.0 adwods.com
+0.0.0.0 adwooo.com
 0.0.0.0 adwords.google.com
 0.0.0.0 adwordsmarket.com
 0.0.0.0 adworldnetwork.com
@@ -8513,6 +8527,7 @@
 0.0.0.0 apps.epom.com
 0.0.0.0 apps.facebook.com.deroullatte.xyz.adx1.com
 0.0.0.0 apps.haraads.com
+0.0.0.0 apps.iocnt.de
 0.0.0.0 apps.saintsoporte.com
 0.0.0.0 apps.xapads.com
 0.0.0.0 apps5.oingo.com
@@ -9962,6 +9977,7 @@
 0.0.0.0 benwellgroup.co.uk
 0.0.0.0 benzinga.postaffiliatepro.com
 0.0.0.0 benzol.live
+0.0.0.0 beop.io
 0.0.0.0 bepodi.live
 0.0.0.0 bepoha.live
 0.0.0.0 bepuf.live
@@ -10193,7 +10209,10 @@
 0.0.0.0 bider.live
 0.0.0.0 biders.live
 0.0.0.0 bidfnt-asia.adsmoloco.com
+0.0.0.0 bidforclicks.com
 0.0.0.0 bidgear.com
+0.0.0.0 bidmyads.com
+0.0.0.0 bidmyadz.com
 0.0.0.0 bidr.io
 0.0.0.0 bids-nc-a.aaxads.com
 0.0.0.0 bids-nv-a.aaxads.com
@@ -10967,6 +10986,7 @@
 0.0.0.0 breakshoulder.com
 0.0.0.0 breakthroughtrend.com
 0.0.0.0 breakyboost.com
+0.0.0.0 breatheads.com
 0.0.0.0 breda.vanhiele.nl
 0.0.0.0 breezybath.com
 0.0.0.0 bremennetzwerk.com
@@ -12886,6 +12906,7 @@
 0.0.0.0 clickbux.ir
 0.0.0.0 clickcease.com
 0.0.0.0 clickcompare.co.uk
+0.0.0.0 clickcpcads.com
 0.0.0.0 clickdensity.com
 0.0.0.0 clicked.ebates.com
 0.0.0.0 clickedyclick.com
@@ -12900,6 +12921,7 @@
 0.0.0.0 clickintext.com
 0.0.0.0 clickirani.net
 0.0.0.0 clicklink.jp
+0.0.0.0 clickmenia.com
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clickopon.com
 0.0.0.0 clickpoint.it
@@ -12989,6 +13011,7 @@
 0.0.0.0 clit9.sextracker.com
 0.0.0.0 cliten.microdoctor.com.br
 0.0.0.0 clix.ir
+0.0.0.0 clixforads.com
 0.0.0.0 clixgalore.com
 0.0.0.0 clixsense.ir
 0.0.0.0 clixwells.com
@@ -16602,6 +16625,7 @@
 0.0.0.0 dynamicads.statsperformdev.com
 0.0.0.0 dynamicrosoft.com
 0.0.0.0 dynamictech.com.ng
+0.0.0.0 dynamicyield.com
 0.0.0.0 dynod.live
 0.0.0.0 dyntrk.com
 0.0.0.0 dypin.live
@@ -19441,6 +19465,7 @@
 0.0.0.0 fobyst9.gq
 0.0.0.0 fobyst9.ml
 0.0.0.0 fobyst9.tk
+0.0.0.0 focalink.com
 0.0.0.0 focas.jp
 0.0.0.0 focuscont.com.br
 0.0.0.0 focusin.ads.targetnet.com
@@ -23913,6 +23938,7 @@
 0.0.0.0 icq.chatovod.info
 0.0.0.0 ics.hitbox.com
 0.0.0.0 icubeswire.com
+0.0.0.0 icyads.com
 0.0.0.0 id-19190249012904912904190249129490219049129419.pro
 0.0.0.0 id-929734532482.com
 0.0.0.0 id-tiara.com
@@ -27095,6 +27121,7 @@
 0.0.0.0 leakim.click
 0.0.0.0 leanmobi.fusetracking.com
 0.0.0.0 leanplum.com
+0.0.0.0 leanplum.net
 0.0.0.0 leapfaucet.com
 0.0.0.0 leaplunchroom.com
 0.0.0.0 leapmobs.com
@@ -29739,6 +29766,7 @@
 0.0.0.0 marketingemails.marsh.com
 0.0.0.0 marketingsolutionbd.com
 0.0.0.0 marketingsolutions.yahoo.com
+0.0.0.0 marketiq.com
 0.0.0.0 marketlive.122.2o7.net
 0.0.0.0 marketo.com
 0.0.0.0 markets.kintengra.com
@@ -35879,6 +35907,7 @@
 0.0.0.0 outbound-245.aoscmt.com
 0.0.0.0 outbound.tpctraining.com
 0.0.0.0 outbrain.com
+0.0.0.0 outbrain.org
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 outcome-crash-report.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
@@ -44130,6 +44159,7 @@
 0.0.0.0 thekokokoupd.online
 0.0.0.0 thekukuaproject.com
 0.0.0.0 thelibraryofcongress.122.2o7.net
+0.0.0.0 themarketiq.com
 0.0.0.0 themayanprincess.com
 0.0.0.0 themecounter.com
 0.0.0.0 themeslime.com
@@ -44675,6 +44705,7 @@
 0.0.0.0 topblogarea.se
 0.0.0.0 topcashvibes.com
 0.0.0.0 topchefrecipe.com
+0.0.0.0 topclickpick.com
 0.0.0.0 topcustomessayhelp.com
 0.0.0.0 topems.live
 0.0.0.0 topens.live
@@ -47101,6 +47132,7 @@
 0.0.0.0 vecohgmpl.biz
 0.0.0.0 vecoso.com
 0.0.0.0 vectaury.io
+0.0.0.0 vectoranalytics.ru
 0.0.0.0 vectrabank.112.2o7.net
 0.0.0.0 vedus.live
 0.0.0.0 vedyg.online
@@ -50989,6 +51021,7 @@
 0.0.0.0 yh558877.com
 0.0.0.0 yibozf108.com
 0.0.0.0 yieldads.com
+0.0.0.0 yieldify-production.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldlab.net.edgekey.net
 0.0.0.0 yieldlove-ad-serving.net
