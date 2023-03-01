@@ -2627,6 +2627,7 @@
 0.0.0.0 adecosystems.net
 0.0.0.0 adecosystems.tech
 0.0.0.0 adelaidemotorshow.com.au
+0.0.0.0 adelement.com
 0.0.0.0 adelogs.adobe.com
 0.0.0.0 adelphic-partners.tremorhub.com
 0.0.0.0 adelva.com
@@ -2634,6 +2635,7 @@
 0.0.0.0 adenabler.com
 0.0.0.0 adengage.com
 0.0.0.0 adengine.telewebion.com
+0.0.0.0 adentifi.com
 0.0.0.0 ades.live
 0.0.0.0 adevents.msn.com
 0.0.0.0 adeventtracker.spotify.com
@@ -2704,6 +2706,7 @@
 0.0.0.0 adgear.com
 0.0.0.0 adgebra.in
 0.0.0.0 adgger.jp
+0.0.0.0 adghndou0sdh.ru
 0.0.0.0 adgjl13.com
 0.0.0.0 adglare.net
 0.0.0.0 adglaze.com
@@ -3104,6 +3107,7 @@
 0.0.0.0 adoperator.com
 0.0.0.0 adoperatorx.com
 0.0.0.0 adopexchange.com
+0.0.0.0 adoptim.com
 0.0.0.0 adoremetracksdk.optimove.net
 0.0.0.0 adoric-om.com
 0.0.0.0 adorigin.com
@@ -5286,6 +5290,7 @@
 0.0.0.0 adsfile.qq.com
 0.0.0.0 adsfirm.com
 0.0.0.0 adsflame.com
+0.0.0.0 adsfloow.net
 0.0.0.0 adsflourish.vnative.net
 0.0.0.0 adsforallmedia.com
 0.0.0.0 adsforce.net
@@ -5328,6 +5333,7 @@
 0.0.0.0 adsignals.com
 0.0.0.0 adsima.net
 0.0.0.0 adsimg.kompas.com
+0.0.0.0 adsimilate.com
 0.0.0.0 adsimilis.com
 0.0.0.0 adsinimages.com
 0.0.0.0 adsino24.com
@@ -6065,6 +6071,7 @@
 0.0.0.0 adx.com.ru
 0.0.0.0 adx.ephoto.sk
 0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 adx.io
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.lsosad.com
 0.0.0.0 adx.noahmob.com
@@ -6110,6 +6117,7 @@
 0.0.0.0 adzfun.info
 0.0.0.0 adzfun.me
 0.0.0.0 adzgame.com
+0.0.0.0 adziff.com
 0.0.0.0 adzincome.in
 0.0.0.0 adzip.s3.amazonaws.com
 0.0.0.0 adziran.gq
@@ -6494,6 +6502,7 @@
 0.0.0.0 ajzconsulting.pw
 0.0.0.0 ak-ads-ns.prisasd.com
 0.0.0.0 ak-events-collector.spot.im
+0.0.0.0 ak-is2.net
 0.0.0.0 ak-tracker.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak0gsh40.com
@@ -14763,6 +14772,7 @@
 0.0.0.0 danaevara.com
 0.0.0.0 danas.live
 0.0.0.0 danban.com
+0.0.0.0 danbo.org
 0.0.0.0 dancemistake.com
 0.0.0.0 dancingferrets.com
 0.0.0.0 dancy.live
@@ -38101,6 +38111,7 @@
 0.0.0.0 pv4u.com
 0.0.0.0 pvtechuae.cf
 0.0.0.0 pwikalsel.org
+0.0.0.0 pwr-ads.com
 0.0.0.0 pwrtds.com
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 px.a8.net
@@ -51022,6 +51033,7 @@
 0.0.0.0 yibozf108.com
 0.0.0.0 yieldads.com
 0.0.0.0 yieldify-production.com
+0.0.0.0 yieldify.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldlab.net.edgekey.net
 0.0.0.0 yieldlove-ad-serving.net
