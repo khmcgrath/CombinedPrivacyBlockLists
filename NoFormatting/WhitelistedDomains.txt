@@ -12,6 +12,8 @@
 4shared.com
 a.fsdn.com
 aan.amazon.com
+ablink.notice.hoopladigital.com
+ablink.notice.spriggy.com.au
 accounts.eu1.gigya.com
 activate.adobe.com
 activation.adobedtm.com
@@ -419,6 +421,8 @@ nj.com
 nmcheck.gnome.org
 no-ip.com
 nocdnrlly.xyz
+notice.hoopladigital.com
+notice.spriggy.com.au
 notify.xboxlive.com
 nu.nl
 obs.line-scdn.net
