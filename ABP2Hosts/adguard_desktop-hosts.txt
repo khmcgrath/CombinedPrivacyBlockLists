@@ -1,4 +1,4 @@
-# Wed Mar  1 12:04:02 PM UTC 2023
+# Wed Mar  1 09:52:10 PM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -4660,6 +4660,7 @@
 0.0.0.0 acmoldhuwsi.com
 0.0.0.0 acodes.b2b.cn
 0.0.0.0 acofrnsr44es3954b.com
+0.0.0.0 acollo.info
 0.0.0.0 acplat.online
 0.0.0.0 acq-au.americanexpress.com
 0.0.0.0 acq-hk.americanexpress.com
@@ -10190,6 +10191,7 @@
 0.0.0.0 beat.yourtv.jp
 0.0.0.0 beatbase.live
 0.0.0.0 beatifulapplabland.com
+0.0.0.0 beatricecathy.com
 0.0.0.0 beatsightcab.com
 0.0.0.0 beauhoneycomb.com
 0.0.0.0 beaumont.actonservice.com
@@ -10345,6 +10347,7 @@
 0.0.0.0 bemobpath.com
 0.0.0.0 bemobtrcks.com
 0.0.0.0 bemobtrk.com
+0.0.0.0 bemocksmunched.com
 0.0.0.0 bemusic.xyz
 0.0.0.0 ben.crxmouse.com
 0.0.0.0 benchastonishingstudying.com
@@ -15533,6 +15536,7 @@
 0.0.0.0 d3flai6f7brtcx.cloudfront.net
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
 0.0.0.0 d3frqqoat98cng.cloudfront.net
+0.0.0.0 d3g4s1p0bmuj5f.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
 0.0.0.0 d3h1v5cflrhzi4.cloudfront.net
 0.0.0.0 d3hib26r77jdus.cloudfront.net
@@ -24557,6 +24561,7 @@
 0.0.0.0 guixie.info
 0.0.0.0 guji.store
 0.0.0.0 gujiadayuan.top
+0.0.0.0 gujolwjidk.com
 0.0.0.0 gull.abilitiesinjobs.com
 0.0.0.0 gull.mayansmithgobat.com
 0.0.0.0 gullible-hope.com
@@ -25442,6 +25447,7 @@
 0.0.0.0 hk6kn.cn
 0.0.0.0 hk9600.com
 0.0.0.0 hkbmsb.fun
+0.0.0.0 hkbzl.hk
 0.0.0.0 hkedve.cn
 0.0.0.0 hkfuy.com
 0.0.0.0 hkilops.com
@@ -25665,6 +25671,7 @@
 0.0.0.0 hotchatdate.com
 0.0.0.0 hotchatdirect.com
 0.0.0.0 hotchedbearhug.com
+0.0.0.0 hotclips.mom
 0.0.0.0 hotclips.online
 0.0.0.0 hotclips.space
 0.0.0.0 hotel-marketing.hrs.com
@@ -26218,6 +26225,7 @@
 0.0.0.0 idqwqm.kkday.com
 0.0.0.0 idreamed.com
 0.0.0.0 idswinpole.casa
+0.0.0.0 idwithblaockbrok.xyz
 0.0.0.0 idy666.com
 0.0.0.0 ie-business.vodafone.com
 0.0.0.0 ie.facemanuptore.com
@@ -26326,6 +26334,7 @@
 0.0.0.0 iirpvchv.cn
 0.0.0.0 iistillstayherea.com
 0.0.0.0 iisymgs.cn
+0.0.0.0 iiuuahyuvcrm.com
 0.0.0.0 iixecczxqzy.com
 0.0.0.0 ijaabm.bravotv.com
 0.0.0.0 ijaabm.eonline.com
@@ -26738,6 +26747,7 @@
 0.0.0.0 in.unext.jp
 0.0.0.0 inabsolor.com
 0.0.0.0 inadmissibleinsensitive.com
+0.0.0.0 inaickoo.com
 0.0.0.0 inancukan.xyz
 0.0.0.0 inaneconstellationindistinct.com
 0.0.0.0 inanepercyfinancially.com
@@ -28587,6 +28597,7 @@
 0.0.0.0 ka185ly.site
 0.0.0.0 ka5188.com
 0.0.0.0 kaafu.cn
+0.0.0.0 kaan.kakao.com
 0.0.0.0 kablic.com
 0.0.0.0 kabobitacism.com
 0.0.0.0 kabokc.webuy.com
@@ -33428,6 +33439,7 @@
 0.0.0.0 midootib.net
 0.0.0.0 midpopedge.com
 0.0.0.0 mifeng.buzz
+0.0.0.0 mighes.com
 0.0.0.0 mightwhiskers.com
 0.0.0.0 mightyhulsjdk.com
 0.0.0.0 mightylottrembling.com
@@ -33508,6 +33520,7 @@
 0.0.0.0 misguidedstork.com
 0.0.0.0 mishapideal.com
 0.0.0.0 mishishoka.pro
+0.0.0.0 misjuyvcyrtohc.com
 0.0.0.0 misreputyso.xyz
 0.0.0.0 missgrand.beauty
 0.0.0.0 missingweighnapkin.com
@@ -34661,6 +34674,7 @@
 0.0.0.0 necessaryratio.pro
 0.0.0.0 necessarysheriff.com
 0.0.0.0 neckshrinevastly.com
+0.0.0.0 necmah.com
 0.0.0.0 necmdow.cn
 0.0.0.0 necsii.ivet.pl
 0.0.0.0 nectardoodled.com
@@ -35811,6 +35825,7 @@
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 ointmentaloofpincers.com
 0.0.0.0 oioiio.top
+0.0.0.0 oiqdjksgpo.com
 0.0.0.0 oisafnik.space
 0.0.0.0 oit4.destinia.com.br
 0.0.0.0 oiuqwppcsdf.com
@@ -48470,6 +48485,7 @@
 0.0.0.0 stt.thelott.com
 0.0.0.0 stt.tyro.com
 0.0.0.0 sttcc.top
+0.0.0.0 stthykerewasn.com
 0.0.0.0 sttrr.top
 0.0.0.0 stts.emplution.com
 0.0.0.0 stts.sgab-srfp.ch
@@ -53879,6 +53895,7 @@
 0.0.0.0 uniusclaws.com
 0.0.0.0 universal.wgplayer.com
 0.0.0.0 universityofinternetscience.com
+0.0.0.0 uniway.cn.com
 0.0.0.0 uniworldgroup.asia
 0.0.0.0 unjfcbriobpto.com
 0.0.0.0 unjointbobbed.com
@@ -55708,6 +55725,7 @@
 0.0.0.0 weieo.cyou
 0.0.0.0 weifengi.xyz
 0.0.0.0 weige666.asia
+0.0.0.0 weighcb.com
 0.0.0.0 weiguanwang888.com
 0.0.0.0 weiiii.com
 0.0.0.0 weijiakeji.top
@@ -55786,6 +55804,7 @@
 0.0.0.0 wffengtai.com.cn
 0.0.0.0 wfhuzaj.cn
 0.0.0.0 wfkspcs.cn
+0.0.0.0 wfndponfd.com
 0.0.0.0 wfnetwork.com
 0.0.0.0 wfpersonal.site
 0.0.0.0 wfwpok.impressionen.de

@@ -1,4 +1,4 @@
-# Wed Mar  1 12:04:31 PM UTC 2023
+# Wed Mar  1 09:52:45 PM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -3515,6 +3515,7 @@
 0.0.0.0 adrokt.com
 0.0.0.0 adrolays.de
 0.0.0.0 adroll.com
+0.0.0.0 adrooz.com
 0.0.0.0 adrotator.se
 0.0.0.0 adrs.sdo.com
 0.0.0.0 adrsp.net
@@ -5757,6 +5758,7 @@
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pixels.ai
 0.0.0.0 analytics.plaid.com
+0.0.0.0 analytics.plaza.ir
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pop2watch.com
@@ -8174,6 +8176,7 @@
 0.0.0.0 beat.yourtv.jp
 0.0.0.0 beatbase.live
 0.0.0.0 beatifulapplabland.com
+0.0.0.0 beatricecathy.com
 0.0.0.0 beatsightcab.com
 0.0.0.0 beauhoneycomb.com
 0.0.0.0 beautifulhobbies.com
@@ -21441,6 +21444,7 @@
 0.0.0.0 hk9600.com
 0.0.0.0 hkbmsb.fun
 0.0.0.0 hkbpt.com
+0.0.0.0 hkbzl.hk
 0.0.0.0 hkedve.cn
 0.0.0.0 hkeig.com
 0.0.0.0 hkfuy.com
@@ -24396,6 +24400,7 @@
 0.0.0.0 ka185ly.site
 0.0.0.0 ka5188.com
 0.0.0.0 kaafu.cn
+0.0.0.0 kaan.kakao.com
 0.0.0.0 kabbmedia.com
 0.0.0.0 kablic.com
 0.0.0.0 kabobitacism.com
@@ -24863,6 +24868,7 @@
 0.0.0.0 knightsstatuesteering.com
 0.0.0.0 knightsyllabusimprobable.com
 0.0.0.0 knigm.com
+0.0.0.0 knitstamp.com
 0.0.0.0 knittedcourthouse.com
 0.0.0.0 knja123.top
 0.0.0.0 knk95.cn
@@ -30805,6 +30811,7 @@
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 ointmentaloofpincers.com
 0.0.0.0 oioiio.top
+0.0.0.0 oiqdjksgpo.com
 0.0.0.0 oisafnik.space
 0.0.0.0 oiuqwppcsdf.com
 0.0.0.0 oivgqnt.cn
@@ -46240,6 +46247,7 @@
 0.0.0.0 weieo.cyou
 0.0.0.0 weifengi.xyz
 0.0.0.0 weige666.asia
+0.0.0.0 weighcb.com
 0.0.0.0 weiguanwang888.com
 0.0.0.0 weiiii.com
 0.0.0.0 weijiakeji.top
@@ -46314,6 +46322,7 @@
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0.0.0.0 wfhuzaj.cn
 0.0.0.0 wfkspcs.cn
+0.0.0.0 wfndponfd.com
 0.0.0.0 wfnetwork.com
 0.0.0.0 wfpersonal.site
 0.0.0.0 wfyqc.com
