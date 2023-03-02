@@ -1,4 +1,4 @@
-# Wed Mar  1 09:52:48 PM UTC 2023
+# Thu Mar  2 08:02:23 PM UTC 2023
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -3285,7 +3285,6 @@
 0.0.0.0 fundsdoge.org
 0.0.0.0 fungamecheats.com
 0.0.0.0 fungames.vip
-0.0.0.0 funinformatique.com
 0.0.0.0 funmazaapps.com
 0.0.0.0 funruncoinsgenerator.com
 0.0.0.0 funshared.com
