@@ -19,7 +19,7 @@ DNS Resolvers:
 - [AdGuard](https://adguard-dns.io/en/public-dns.html)
 - [Quad9](https://www.quad9.net/service/service-addresses-and-features)
 - [Rethink](https://rethinkdns.com/configure)
-- [DNS Warden](https://dnswarden.com/customfilter.html)
+- [DNSWarden](https://dnswarden.com/customfilter.html)
 
 <sub>These are simply my preferences. There are other fine resolvers out there, but I love the reliability of AdGuard and Quad9, along with the enormous amount of configurability that Rethink and DNS Warden offer. All four of these resolvers have fine privacy policies that range from minimal logging, to no logging at all. In very rare circumstances when I cannot use encrypted DNS, I tend toward [OpenNIC](https://www.opennic.org/) or [OpenDNS](https://www.opendns.com/).</sub>
 
