@@ -1,4 +1,4 @@
-# Sat Mar  4 07:20:36 AM UTC 2023
+# Sat Mar  4 09:23:42 AM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru

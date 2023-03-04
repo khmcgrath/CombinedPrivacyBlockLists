@@ -1184,6 +1184,7 @@
 0.0.0.0 aaaurgentcare.net
 0.0.0.0 aaavanca.xyz
 0.0.0.0 aab.adxxx.com
+0.0.0.0 aab.jaeiyg22.com
 0.0.0.0 aab94f698f36684c5a852a2ef272e031bb.com
 0.0.0.0 aac.ajyew33.com
 0.0.0.0 aacqx.shop
@@ -2582,7 +2583,6 @@
 0.0.0.0 additionant.com
 0.0.0.0 addkt-match.dotomi.com
 0.0.0.0 addlog.thuvienphapluat.vn
-0.0.0.0 addmantra.com
 0.0.0.0 addme.com
 0.0.0.0 addon.clixsense.com
 0.0.0.0 addressbooklocater.net
@@ -9406,7 +9406,6 @@
 0.0.0.0 banet.live
 0.0.0.0 baney.live
 0.0.0.0 banged.live
-0.0.0.0 bangplamahospital.com
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banis.live
 0.0.0.0 banit.live
@@ -10156,6 +10155,7 @@
 0.0.0.0 bigrest.live
 0.0.0.0 bigrint.live
 0.0.0.0 bigs.bikershop.biz
+0.0.0.0 bigsale100.com
 0.0.0.0 bigsharkmedia.com
 0.0.0.0 bigtime.floridacitrussports.com
 0.0.0.0 bigtrading.ga
@@ -19545,12 +19545,14 @@
 0.0.0.0 free-apps.me
 0.0.0.0 free-banners.com
 0.0.0.0 free-counter.co.uk
+0.0.0.0 free-counters.co.uk
 0.0.0.0 free-documents-hosting.com
 0.0.0.0 free-fililink.cf
 0.0.0.0 free-gay.de
 0.0.0.0 free-gluten.ru
 0.0.0.0 free-groupsex.com
 0.0.0.0 free-hairy-pussy.net
+0.0.0.0 free-progs.net
 0.0.0.0 free-video-movie.com
 0.0.0.0 free-website-statistics.com
 0.0.0.0 free.internetspeedtracker.com
@@ -30140,6 +30142,7 @@
 0.0.0.0 minishop.in
 0.0.0.0 ministedik.info
 0.0.0.0 ministere-elshaddai.org
+0.0.0.0 ministerioagape.net
 0.0.0.0 minmindough.com
 0.0.0.0 minormeeting.com
 0.0.0.0 minr.browsermine.com
@@ -37347,6 +37350,7 @@
 0.0.0.0 pultheworldlink.112.2o7.net
 0.0.0.0 puma.112.2o7.net
 0.0.0.0 puma01.webtrekk.net
+0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 punneli.com
 0.0.0.0 punyu01.shard.jp
 0.0.0.0 pupok.link
@@ -39131,7 +39135,6 @@
 0.0.0.0 roosterfirework.com
 0.0.0.0 root-mrx.tk
 0.0.0.0 root-top.com
-0.0.0.0 rootedlifeinc.ca
 0.0.0.0 rootkitsys.duckdns.org
 0.0.0.0 ropard.live
 0.0.0.0 ropegs.live
@@ -40800,6 +40803,7 @@
 0.0.0.0 sidewormpower.pics
 0.0.0.0 sidom.online
 0.0.0.0 sierraagrolime.com
+0.0.0.0 sieuthiphutungxenang.com
 0.0.0.0 sifed.live
 0.0.0.0 sifenews.com
 0.0.0.0 sigaingegneria.com
@@ -43492,7 +43496,6 @@
 0.0.0.0 theannoyingsite.com
 0.0.0.0 thebabsite.com
 0.0.0.0 thebusinessdrift.com
-0.0.0.0 thecentury.edu.vn
 0.0.0.0 thecontroversialfiles.net
 0.0.0.0 thecounter.com
 0.0.0.0 thedailystarcom.112.2o7.net
@@ -48946,6 +48949,7 @@
 0.0.0.0 www.cstrespsurvey.ca
 0.0.0.0 www.cyber-ad01.cc
 0.0.0.0 www.da-ads.com
+0.0.0.0 www.dacui.online
 0.0.0.0 www.damafinimmobiliare.it
 0.0.0.0 www.datasecu.download
 0.0.0.0 www.datingadvertising.com
@@ -49057,6 +49061,7 @@
 0.0.0.0 www.getmyads24.com
 0.0.0.0 www.girlporn.ru
 0.0.0.0 www.girlz-high.com
+0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.globetrotting-culture.ru
 0.0.0.0 www.globusdate.com
 0.0.0.0 www.glopages.ru
@@ -49171,7 +49176,6 @@
 0.0.0.0 www.infinite-ads.com
 0.0.0.0 www.infogiovanialtopavese.it
 0.0.0.0 www.infotop.jp
-0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.inleadership.co.nz
 0.0.0.0 www.inscname.net
 0.0.0.0 www.insnw.ne
