@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/04/23~06:38:45 -~
+# ~- 03/04/23~08:11:26 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -113,7 +113,6 @@
 *.0755rc.com
 *.07634.com
 *.076lvo.xyz
-*.078d9f6a6dc1.cdn4.forter.com
 *.0798ls.com
 *.07ab456fe8.com
 *.07tqqwem.ru
@@ -2531,7 +2530,6 @@
 *.9dd.fun
 *.9dmnv9z0gtoh.com
 *.9dot9.in
-*.9e97cf8b099a.cdn4.forter.com
 *.9ead.com
 *.9eb10b7a3d04a.com
 *.9eu7c.top
@@ -2554,6 +2552,7 @@
 *.9kkf51ovqex1.com
 *.9kkjfywjz50v.www.eventus.io
 *.9med.net
+*.9odes.ltd
 *.9purdfe9xg.com
 *.9r7i9bo06157.top
 *.9rendezvous-l.com
@@ -5200,7 +5199,6 @@
 *.adf.dahe.cn
 *.adf.ly
 *.adf.shinobi.jp
-*.adf0901f1861.cdn4.forter.com
 *.adfac.net
 *.adfactor.nl
 *.adfalcon.com
@@ -21272,7 +21270,6 @@
 *.cokils2ptys-3.com
 *.cokils2ptys-6.com
 *.cokxeoil.com
-*.col.eum-appdynamics.com
 *.col.idealista.com
 *.col.idealista.it
 *.col.idealista.pt
@@ -22717,6 +22714,7 @@
 *.crashchance.com
 *.crashdump.ciqe-gslb.spotify.com
 *.crashdump.spotify.com
+*.crashedff.xyz
 *.crashes.autodanger.ru
 *.crasheye.cn
 *.crashlytics.163.com
@@ -24966,6 +24964,7 @@
 *.dd-lightingshow.com
 *.dd.auspost.com.au
 *.dd.nytimes.com
+*.dd.softreserved.com
 *.dd09af1279.com
 *.dd1.diymianmo.com
 *.dd6zx4ibq538k.cloudfront.net
@@ -28066,7 +28065,6 @@
 *.e376ef28103177cc.com
 *.e3rd.net
 *.e44150775e.site
-*.e44177b6b805.cdn4.forter.com
 *.e499799158.com
 *.e4d3c228c4.com
 *.e4f820396d.com
@@ -28208,7 +28206,6 @@
 *.ea.warnerbros.fr
 *.ea.wonderbox.fr
 *.ea.youmaker.com
-*.ea.zebestof.com
 *.ea0e9526cf.com
 *.ea0jlu8jie.cn
 *.ea6353e47e0ab3f78.com
@@ -28494,7 +28491,6 @@
 *.ecommunication.mti.com
 *.econdus.com
 *.economicpizzas.com
-*.economisttestcollect.insightfirst.com
 *.economizesa.com.br
 *.economyobserver.com
 *.econth.com
@@ -30205,7 +30201,6 @@
 *.estoopsi.com
 *.estore.biscoind.com
 *.estoremkg.pl
-*.estream.to
 *.estuantunsnow.com
 *.estuousopalish.guru
 *.esty.com
@@ -30383,6 +30378,7 @@
 *.euleriancdn.net
 *.euliglsp.space
 *.eultech.fnac.com
+*.eum-appdynamics.com
 *.eum-orange-saas.instana.io
 *.eumnxwvp.ink
 *.euniverseads.com
@@ -31556,7 +31552,6 @@
 *.fdelphaswcealifornica.com
 *.fdf1aacd86.com
 *.fdf4.com
-*.fdfe4ed62699.cdn4.forter.com
 *.fdfghgfdd.yunqishi.net
 *.fdfwefwefsdfwersdfegdfgre.com
 *.fdgdfgdf.space
@@ -32848,6 +32843,7 @@
 *.fortdaukthw.hair
 *.forted.live
 *.forteol.com
+*.forter.com
 *.fortes.live
 *.fortet.live
 *.forthcomingpropelwho.com
@@ -32983,7 +32979,6 @@
 *.fqtag.com
 *.fqtra.com
 *.fqujub.hema.com
-*.fra-col.eum-appdynamics.com
 *.fra.pg.com
 *.frabwiccy.com
 *.fracs.xyz
@@ -41125,6 +41120,7 @@
 *.insightexpress.com
 *.insightexpressai.com.edgekey.net
 *.insightexpressai.com
+*.insightfirst.com
 *.insights-collector.newrelic.com
 *.insights.academy.com
 *.insights.algolia.io
@@ -51699,7 +51695,6 @@
 *.mobile.activeshopper.com
 *.mobile.appchina.com
 *.mobile.confsettings.com
-*.mobile.eum-appdynamics.com
 *.mobile.events.data.microsoft.com
 *.mobile.log.hunantv.com
 *.mobile.measurelib.com
@@ -57131,6 +57126,7 @@
 *.p.classroombookings.com
 *.p.data.cctv.com
 *.p.e-bot7.com
+*.p.estream.to
 *.p.fairspot.host
 *.p.gazeta.pl
 *.p.ifvictr.com
@@ -58013,7 +58009,6 @@
 *.pdt.navinavi-hoken.com
 *.pdtqjd.cn
 *.pdvacde.com
-*.pdx-col.eum-appdynamics.com
 *.pdxgfnnoan.com
 *.pdxor02.com
 *.pdxubxc.cn
@@ -59253,6 +59248,7 @@
 *.play.besstahete.info
 *.play.entretenimientolz.com
 *.play.estream.nu
+*.play.estream.to
 *.play.estream.xyz
 *.play.feesocrald.com
 *.play.istlandoll.com
@@ -67642,7 +67638,6 @@
 *.siejp.cyou
 *.sielsmaats.com
 *.sierraagrolime.com
-*.sieuthiphutungxenang.com
 *.siewmi.uncommongoods.com
 *.sifang.info
 *.sifed.live
@@ -72848,7 +72843,6 @@
 *.sycbbs.com
 *.sychost.com
 *.sycrgc.xyz
-*.syd-col.eum-appdynamics.com
 *.sydneygfpink.com
 *.sydswxx.com
 *.sydz.tw
@@ -78592,6 +78586,7 @@
 *.uads.shop
 *.uadsaa.com
 *.uadx.com
+*.uaery.top
 *.uahora.com
 *.uaid-linkage.imrworldwide.com
 *.uakmufcniaki.xyz
@@ -80495,6 +80490,7 @@
 *.video-streaming.ezoic.com
 *.video-view-api.varzesh3.com
 *.video-watch1.com
+*.video.streaming.estream.to
 *.video.upqzfile.com
 *.video.videonow.ru
 *.video.videos.vidto.me
@@ -85816,6 +85812,7 @@
 *.zealotsick.com
 *.zealousfield.com
 *.zealso.com
+*.zebestof.com
 *.zebigmail.com
 *.zebigoffre.com
 *.zebraicrudista.com

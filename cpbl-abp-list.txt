@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sat Mar  4 07:00:05 AM UTC 2023
+! Updated: Sat Mar  4 07:57:58 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -3056,6 +3056,7 @@
 ||9kz9cttz76.antonsten.com^
 ||9med.net^
 ||9nl.eu^
+||9odes.ltd^
 ||9purdfe9xg.com^
 ||9r7i9bo06157.top^
 ||9rendezvous-l.com^
@@ -29813,6 +29814,7 @@
 ||crashchance.com^
 ||crashdump.ciqe-gslb.spotify.com^
 ||crashdump.spotify.com^
+||crashedff.xyz^
 ||crashes.autodanger.ru^
 ||crasheye.cn^
 ||crashlytics.163.com^
@@ -34565,6 +34567,7 @@
 ||dd-lightingshow.com^
 ||dd.auspost.com.au^
 ||dd.nytimes.com^
+||dd.softreserved.com^
 ||dd.zillahhayers.com^
 ||dd09af1279.com^
 ||dd1.diymianmo.com^
@@ -39234,7 +39237,6 @@
 ||econdus.com^
 ||economicpizzas.com^
 ||economies.adp.ca^
-||economisttestcollect.insightfirst.com^
 ||economizesa.com.br^
 ||economyobserver.com^
 ||econrus.ru^
@@ -57917,6 +57919,7 @@
 ||insightexpress.com^
 ||insightexpressai.com^
 ||insightexpressai.com.edgekey.net^
+||insightfirst.com^
 ||insightgrit.com^
 ||insights-collector.newrelic.com^
 ||insights.academy.com^
@@ -94562,7 +94565,6 @@
 ||sielsmaats.com^
 ||sieltre.it^
 ||sierraagrolime.com^
-||sieuthiphutungxenang.com^
 ||siewmi.uncommongoods.com^
 ||sifang.info^
 ||sifed.live^
@@ -111621,6 +111623,7 @@
 ||uads.store^
 ||uadsaa.com^
 ||uadx.com^
+||uaery.top^
 ||uahora.com^
 ||uaid-linkage.imrworldwide.com^
 ||uakmufcniaki.xyz^
