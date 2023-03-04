@@ -377,10 +377,13 @@
 ^choice\.microsoft\.com$
 ^chrome\.google\.com$
 ^click\.bible\.com$
+^click\.discord\.com$
 ^click\.drizly\.com$
 ^click\.e\.affirm\.com$
+^click\.e\.bbcmail\.co\.uk$
 ^click\.e\.progressive\.com$
 ^click\.e\.tdbank\.com$
+^click\.em\.blizzard\.com$
 ^click\.email-stubhub\.com$
 ^click\.email\.bbc\.com$
 ^click\.email\.chope\.co$
@@ -390,6 +393,7 @@
 ^click\.engage\.xbox\.com$
 ^click\.instacartemail\.com$
 ^click\.justwatch\.com$
+^click\.mail\.hotels\.com$
 ^click\.official\.nike\.com$
 ^click\.oneplus\.com$
 ^click\.redditmail\.com$
