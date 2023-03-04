@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/04/23~09:33:21 -~
+# ~- 03/04/23~19:56:47 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -34112,12 +34112,9 @@
 0.0.0.0 click.digiato.com
 0.0.0.0 click.digital.metaquestmail.com
 0.0.0.0 click.directrankcl.com
-0.0.0.0 click.discord.com
 0.0.0.0 click.dracking.com
 0.0.0.0 click.dtiserv2.com
 0.0.0.0 click.duga.jp
-0.0.0.0 click.e.bbcmail.co.uk
-0.0.0.0 click.em.blizzard.com
 0.0.0.0 click.em.soothe.com
 0.0.0.0 click.email.houndapp.com
 0.0.0.0 click.epcinsights.com
@@ -34161,7 +34158,6 @@
 0.0.0.0 click.lobbyguard.com
 0.0.0.0 click.lovltrzwzqeux.info
 0.0.0.0 click.mail.carousell.com
-0.0.0.0 click.mail.hotels.com
 0.0.0.0 click.mail.thecarousell.com
 0.0.0.0 click.mail.theknot.com
 0.0.0.0 click.marketing.carousell.com

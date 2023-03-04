@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/04/23~09:35:31 -~
+# ~- 03/04/23~19:58:02 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -26246,11 +26246,8 @@ ff02::2 ip6-allrouters
 :: click.dice.com
 :: click.digiato.com
 :: click.digital.metaquestmail.com
-:: click.discord.com
 :: click.dtiserv2.com
 :: click.duga.jp
-:: click.e.bbcmail.co.uk
-:: click.em.blizzard.com
 :: click.em.soothe.com
 :: click.email.houndapp.com
 :: click.execrank.com
@@ -26280,7 +26277,6 @@ ff02::2 ip6-allrouters
 :: click.liftoff.io
 :: click.lobbyguard.com
 :: click.mail.carousell.com
-:: click.mail.hotels.com
 :: click.mail.thecarousell.com
 :: click.mail.theknot.com
 :: click.marketing.carousell.com

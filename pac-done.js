@@ -1,4 +1,4 @@
-// **** Sat Mar  4 09:37:45 AM UTC 2023
+// **** Sat Mar  4 07:57:27 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -11448,11 +11448,8 @@ shExpMatch(host, "*.click.dealshark.com") ||
 shExpMatch(host, "*.click.depop.com") ||
 shExpMatch(host, "*.click.digiato.com") ||
 shExpMatch(host, "*.click.digital.metaquestmail.com") ||
-shExpMatch(host, "*.click.discord.com") ||
 shExpMatch(host, "*.click.dtiserv2.com") ||
 shExpMatch(host, "*.click.duga.jp") ||
-shExpMatch(host, "*.click.e.bbcmail.co.uk") ||
-shExpMatch(host, "*.click.em.blizzard.com") ||
 shExpMatch(host, "*.click.execrank.com") ||
 shExpMatch(host, "*.click.favordelivery.com") ||
 shExpMatch(host, "*.click.fool.com") ||
@@ -11467,7 +11464,6 @@ shExpMatch(host, "*.click.ivy.com") ||
 shExpMatch(host, "*.click.khingtracking.com") ||
 shExpMatch(host, "*.click.kmindex.ru") ||
 shExpMatch(host, "*.click.lobbyguard.com") ||
-shExpMatch(host, "*.click.mail.hotels.com") ||
 shExpMatch(host, "*.click.mkt.grab.com") ||
 shExpMatch(host, "*.click.news.vans.com") ||
 shExpMatch(host, "*.click.nl.npr.org") ||
@@ -55563,11 +55559,8 @@ shExpMatch(host, "click.dealshark.com") ||
 shExpMatch(host, "click.depop.com") ||
 shExpMatch(host, "click.digiato.com") ||
 shExpMatch(host, "click.digital.metaquestmail.com") ||
-shExpMatch(host, "click.discord.com") ||
 shExpMatch(host, "click.dtiserv2.com") ||
 shExpMatch(host, "click.duga.jp") ||
-shExpMatch(host, "click.e.bbcmail.co.uk") ||
-shExpMatch(host, "click.em.blizzard.com") ||
 shExpMatch(host, "click.execrank.com") ||
 shExpMatch(host, "click.favordelivery.com") ||
 shExpMatch(host, "click.fool.com") ||
@@ -55582,7 +55575,6 @@ shExpMatch(host, "click.ivy.com") ||
 shExpMatch(host, "click.khingtracking.com") ||
 shExpMatch(host, "click.kmindex.ru") ||
 shExpMatch(host, "click.lobbyguard.com") ||
-shExpMatch(host, "click.mail.hotels.com") ||
 shExpMatch(host, "click.mkt.grab.com") ||
 shExpMatch(host, "click.news.vans.com") ||
 shExpMatch(host, "click.nl.npr.org") ||
