@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sat Mar  4 07:57:58 AM UTC 2023
+! Updated: Sat Mar  4 09:43:39 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -4355,6 +4355,7 @@
 ||aaavanca.xyz^
 ||aab-check.me^
 ||aab.devicetests.com^
+||aab.jaeiyg22.com^
 ||aab94f698f36684c5a852a2ef272e031bb.com^
 ||aabproxytests.top^
 ||aabproxytestsdomain.top^
@@ -45778,6 +45779,7 @@
 ||free-ourworld.com^
 ||free-playstation-plus.com^
 ||free-pokecoins.org^
+||free-progs.net^
 ||free-psncards.com^
 ||free-psncodegenerator.com^
 ||free-psncodes.org^
@@ -94565,6 +94567,7 @@
 ||sielsmaats.com^
 ||sieltre.it^
 ||sierraagrolime.com^
+||sieuthiphutungxenang.com^
 ||siewmi.uncommongoods.com^
 ||sifang.info^
 ||sifed.live^

@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/04/23~08:11:26 -~
+# ~- 03/04/23~09:54:43 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -36,7 +36,6 @@
 *.004fsdljasd.xyz
 *.00689.net
 *.007angels.com
-*.008.free-counters.co.uk
 *.008844.cc
 *.008ex.com
 *.00aaa2d81c1d174.com
@@ -3280,6 +3279,7 @@
 *.aaaurgentcare.net
 *.aaavanca.xyz
 *.aab-check.me
+*.aab.jaeiyg22.com
 *.aab94f698f36684c5a852a2ef272e031bb.com
 *.aabproxytests.top
 *.aabproxytestsdomain.top
@@ -33023,6 +33023,7 @@
 *.free-banners.com
 *.free-cdn.oss-cn-shanghai.aliyuncs.com
 *.free-counter.co.uk
+*.free-counters.co.uk
 *.free-counters.net
 *.free-documents-hosting.com
 *.free-domain.net
@@ -33031,6 +33032,7 @@
 *.free-gluten.ru
 *.free-groupsex.com
 *.free-hairy-pussy.net
+*.free-progs.net
 *.free-stats.com
 *.free-video-movie.com
 *.free-website-statistics.com
@@ -67638,6 +67640,7 @@
 *.siejp.cyou
 *.sielsmaats.com
 *.sierraagrolime.com
+*.sieuthiphutungxenang.com
 *.siewmi.uncommongoods.com
 *.sifang.info
 *.sifed.live

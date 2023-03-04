@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sat Mar  4 07:58:04 AM UTC 2023
+! Updated: Sat Mar  4 09:43:45 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -22,7 +22,6 @@
 ||004fsdljasd.xyz^
 ||00689.net^
 ||007angels.com^
-||008.free-counters.co.uk^
 ||008844.cc^
 ||008ex.com^
 ||00aaa2d81c1d174.com^
@@ -3266,6 +3265,7 @@
 ||aaaurgentcare.net^
 ||aaavanca.xyz^
 ||aab-check.me^
+||aab.jaeiyg22.com^
 ||aab94f698f36684c5a852a2ef272e031bb.com^
 ||aabproxytests.top^
 ||aabproxytestsdomain.top^
@@ -33009,6 +33009,7 @@
 ||free-banners.com^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||free-counter.co.uk^
+||free-counters.co.uk^
 ||free-counters.net^
 ||free-documents-hosting.com^
 ||free-domain.net^
@@ -33017,6 +33018,7 @@
 ||free-gluten.ru^
 ||free-groupsex.com^
 ||free-hairy-pussy.net^
+||free-progs.net^
 ||free-stats.com^
 ||free-video-movie.com^
 ||free-website-statistics.com^
@@ -67622,6 +67624,7 @@
 ||siejp.cyou^
 ||sielsmaats.com^
 ||sierraagrolime.com^
+||sieuthiphutungxenang.com^
 ||siewmi.uncommongoods.com^
 ||sifang.info^
 ||sifed.live^

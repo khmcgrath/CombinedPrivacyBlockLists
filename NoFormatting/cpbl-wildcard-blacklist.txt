@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/04/23~08:11:25 -~
+# ~- 03/04/23~09:54:41 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -4369,6 +4369,7 @@
 *.aaavanca.xyz
 *.aab-check.me
 *.aab.devicetests.com
+*.aab.jaeiyg22.com
 *.aab94f698f36684c5a852a2ef272e031bb.com
 *.aabproxytests.top
 *.aabproxytestsdomain.top
@@ -45792,6 +45793,7 @@
 *.free-ourworld.com
 *.free-playstation-plus.com
 *.free-pokecoins.org
+*.free-progs.net
 *.free-psncards.com
 *.free-psncodegenerator.com
 *.free-psncodes.org
@@ -94582,6 +94584,7 @@
 *.sielsmaats.com
 *.sieltre.it
 *.sierraagrolime.com
+*.sieuthiphutungxenang.com
 *.siewmi.uncommongoods.com
 *.sifang.info
 *.sifed.live
