@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sat Mar  4 09:43:45 AM UTC 2023
+! Updated: Sat Mar  4 08:01:02 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -20348,11 +20348,8 @@
 ||click.dice.com^
 ||click.digiato.com^
 ||click.digital.metaquestmail.com^
-||click.discord.com^
 ||click.dtiserv2.com^
 ||click.duga.jp^
-||click.e.bbcmail.co.uk^
-||click.em.blizzard.com^
 ||click.em.soothe.com^
 ||click.email.houndapp.com^
 ||click.execrank.com^
@@ -20373,7 +20370,6 @@
 ||click.kmindex.ru^
 ||click.lobbyguard.com^
 ||click.mail.carousell.com^
-||click.mail.hotels.com^
 ||click.mail.thecarousell.com^
 ||click.mail.theknot.com^
 ||click.marketing.carousell.com^
