@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sat Mar  4 06:26:05 AM UTC 2023
+! Updated: Sat Mar  4 07:00:05 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -41546,7 +41546,6 @@
 ||estores.interstatebatteries.com^
 ||estra-fida.ru^
 ||estrack.net^
-||estream.to^
 ||estuantunsnow.com^
 ||estuousopalish.guru^
 ||esty.com^
@@ -79828,6 +79827,7 @@
 ||p.e-bot7.com^
 ||p.eikuaitao.com^
 ||p.ejs.dev^
+||p.estream.to^
 ||p.fairspot.host^
 ||p.gazeta.pl^
 ||p.gm99.com^
@@ -83008,6 +83008,7 @@
 ||play-voice.com^
 ||play.entretenimientolz.com^
 ||play.estream.nu^
+||play.estream.to^
 ||play.estream.xyz^
 ||play.feesocrald.com^
 ||play.leadzuaf.com^
@@ -114158,6 +114159,7 @@
 ||video.market-place.su^
 ||video.oms.eu^
 ||video.razvratu.net^
+||video.streaming.estream.to^
 ||video.upqzfile.com^
 ||video.videonow.ru^
 ||video.videos.vidto.me^
