@@ -1,4 +1,4 @@
-# Sat Mar  4 01:05:30 AM UTC 2023
+# Sat Mar  4 07:20:55 AM UTC 2023
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0-owazo4.net.zooplus.de
@@ -1902,6 +1902,7 @@
 0.0.0.0 9js6.icu
 0.0.0.0 9kkf51ovqex1.com
 0.0.0.0 9kkjfywjz50v.www.eventus.io
+0.0.0.0 9odes.ltd
 0.0.0.0 9purdfe9xg.com
 0.0.0.0 9r7i9bo06157.top
 0.0.0.0 9rendezvous-l.com

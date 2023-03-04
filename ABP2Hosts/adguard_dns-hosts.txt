@@ -1,4 +1,4 @@
-# Sat Mar  4 01:05:39 AM UTC 2023
+# Sat Mar  4 07:21:05 AM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -1849,6 +1849,7 @@
 0.0.0.0 9kh5b.cn
 0.0.0.0 9kkf51ovqex1.com
 0.0.0.0 9nl.eu
+0.0.0.0 9odes.ltd
 0.0.0.0 9purdfe9xg.com
 0.0.0.0 9r7i9bo06157.top
 0.0.0.0 9rendezvous-l.com
@@ -37934,6 +37935,7 @@
 0.0.0.0 shamining.com
 0.0.0.0 shamodesha.com
 0.0.0.0 shanaurg.net
+0.0.0.0 shandiankuaixi.in
 0.0.0.0 shandongaosen.cn
 0.0.0.0 shangguan.fun
 0.0.0.0 shanghuitianxia.cn

@@ -1,4 +1,4 @@
-# Sat Mar  4 01:05:10 AM UTC 2023
+# Sat Mar  4 07:20:36 AM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -2398,6 +2398,7 @@
 0.0.0.0 9kkf51ovqex1.com
 0.0.0.0 9kkjfywjz50v.www.eventus.io
 0.0.0.0 9kz9cttz76.antonsten.com
+0.0.0.0 9odes.ltd
 0.0.0.0 9purdfe9xg.com
 0.0.0.0 9r7i9bo06157.top
 0.0.0.0 9rendezvous-l.com
@@ -12800,6 +12801,7 @@
 0.0.0.0 choahees.net
 0.0.0.0 chocohjuanfhdhf.com
 0.0.0.0 chocolate521.online
+0.0.0.0 chocolatebushbunny.com
 0.0.0.0 choconart.com
 0.0.0.0 chokertraffic.com
 0.0.0.0 choksail.com
@@ -13685,6 +13687,7 @@
 0.0.0.0 colossal-bear.pro
 0.0.0.0 colossalrate.com
 0.0.0.0 colour5.top
+0.0.0.0 coloursstandard.com
 0.0.0.0 colsuchy.com
 0.0.0.0 coltagainst.pro
 0.0.0.0 coltseaman.com
@@ -14749,6 +14752,7 @@
 0.0.0.0 ctrhfd.top
 0.0.0.0 ctrlaltdel99.com
 0.0.0.0 cts.tradepub.com
+0.0.0.0 ctsau.xyz
 0.0.0.0 ctsccrxfaqiq.xyz
 0.0.0.0 ctsjackupspete.com
 0.0.0.0 cttngldfpjuct.com
@@ -17770,6 +17774,7 @@
 0.0.0.0 datingtorrid.top
 0.0.0.0 datoporn.com
 0.0.0.0 datum.appfleet.com
+0.0.0.0 daubierbatties.uno
 0.0.0.0 daudejuw.com
 0.0.0.0 daughterinlawrib.com
 0.0.0.0 daughtersanything.com
@@ -22745,6 +22750,7 @@
 0.0.0.0 francetobaccotrading.com
 0.0.0.0 franchisemarketing.beavertails.com
 0.0.0.0 franchising.pizzapizza.ca
+0.0.0.0 francisunbeget.com
 0.0.0.0 francoistsjacqu.info
 0.0.0.0 franecki.net
 0.0.0.0 franeski.net
@@ -22932,6 +22938,7 @@
 0.0.0.0 fulltraffic.net
 0.0.0.0 fullwhile.pro
 0.0.0.0 fultraightdec.xyz
+0.0.0.0 fulvenebocca.com
 0.0.0.0 fumarinpest.com
 0.0.0.0 fun.relationshipone.com
 0.0.0.0 funcats.info
@@ -25141,6 +25148,7 @@
 0.0.0.0 heevaush.com
 0.0.0.0 heewuque.com
 0.0.0.0 hefeltlonely.one
+0.0.0.0 heftymynah.com
 0.0.0.0 hegdcrxavrtk.cdnvideo3.com
 0.0.0.0 heglosuty.com
 0.0.0.0 heguoya.work
@@ -29860,6 +29868,7 @@
 0.0.0.0 letzgr.cn
 0.0.0.0 letzonke.com
 0.0.0.0 leucan3thegm6um.com
+0.0.0.0 leucomamissive.com
 0.0.0.0 leukemianarrow.com
 0.0.0.0 leukemiarussianarmies.com
 0.0.0.0 levemyiasis.tech
@@ -37560,6 +37569,7 @@
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 pathloaded.com
 0.0.0.0 pathosacetals.com
+0.0.0.0 pathswreaths.guru
 0.0.0.0 patibe.com
 0.0.0.0 patienceboostboss.com
 0.0.0.0 patioeasternopera.com
@@ -37974,6 +37984,7 @@
 0.0.0.0 phoaraut.com
 0.0.0.0 phoawhap.net
 0.0.0.0 phocidabioses.store
+0.0.0.0 phoebb.com
 0.0.0.0 phokruhefeki.com
 0.0.0.0 phokukse.com
 0.0.0.0 phone-analyzer.com
@@ -43479,6 +43490,7 @@
 0.0.0.0 shamelessspank.com
 0.0.0.0 shamodesha.com
 0.0.0.0 shanaurg.net
+0.0.0.0 shandiankuaixi.in
 0.0.0.0 shandongaosen.cn
 0.0.0.0 shangguan.fun
 0.0.0.0 shanghuitianxia.cn

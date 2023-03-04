@@ -24,7 +24,6 @@
 0.0.0.0 017gj.com
 0.0.0.0 01apple.com
 0.0.0.0 022802bcfcb3dbcd1a224f29537f6ac0.host
-0.0.0.0 02coverlab.com
 0.0.0.0 03e.info
 0.0.0.0 03p.info
 0.0.0.0 07634.com
@@ -8413,6 +8412,7 @@
 0.0.0.0 appbrain.com
 0.0.0.0 appcpi.net
 0.0.0.0 appdev.addthis.com
+0.0.0.0 appdynamics.com
 0.0.0.0 appex-bing.net
 0.0.0.0 appex-bing.org
 0.0.0.0 appfly.mobi
@@ -10156,7 +10156,6 @@
 0.0.0.0 bigrest.live
 0.0.0.0 bigrint.live
 0.0.0.0 bigs.bikershop.biz
-0.0.0.0 bigsale100.com
 0.0.0.0 bigsharkmedia.com
 0.0.0.0 bigtime.floridacitrussports.com
 0.0.0.0 bigtrading.ga
@@ -14044,6 +14043,7 @@
 0.0.0.0 crash-metrics.sdk.inmobi.com
 0.0.0.0 crashdump.ciqe-gslb.spotify.com
 0.0.0.0 crashdump.spotify.com
+0.0.0.0 crashedff.xyz
 0.0.0.0 crashlytics.163.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlytics.twimg.com
@@ -14779,6 +14779,7 @@
 0.0.0.0 dcs.plussizetech.com
 0.0.0.0 dcshoes.eulerian.net
 0.0.0.0 dctracking.com
+0.0.0.0 dd.softreserved.com
 0.0.0.0 ddbapp01.wt-eu02.net
 0.0.0.0 ddbelib01.wt-eu02.net
 0.0.0.0 ddbreg01.wt-eu02.net
@@ -17960,6 +17961,7 @@
 0.0.0.0 eulerian.wiki
 0.0.0.0 euleriancdn.net
 0.0.0.0 eultech.fnac.com
+0.0.0.0 eum-appdynamics.com
 0.0.0.0 euniverseads.com
 0.0.0.0 euphe-gun.com
 0.0.0.0 eupornstar.info
@@ -19461,6 +19463,7 @@
 0.0.0.0 fortcoin.net
 0.0.0.0 forted.live
 0.0.0.0 forteol.com
+0.0.0.0 forter.com
 0.0.0.0 fortes.live
 0.0.0.0 fortet.live
 0.0.0.0 fortisbank01.webtrekk.net
@@ -24075,6 +24078,7 @@
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
+0.0.0.0 insightfirst.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 insights.hotjar.com
 0.0.0.0 insnw.net
@@ -30136,7 +30140,6 @@
 0.0.0.0 minishop.in
 0.0.0.0 ministedik.info
 0.0.0.0 ministere-elshaddai.org
-0.0.0.0 ministerioagape.net
 0.0.0.0 minmindough.com
 0.0.0.0 minormeeting.com
 0.0.0.0 minr.browsermine.com
@@ -37344,7 +37347,6 @@
 0.0.0.0 pultheworldlink.112.2o7.net
 0.0.0.0 puma.112.2o7.net
 0.0.0.0 puma01.webtrekk.net
-0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 punneli.com
 0.0.0.0 punyu01.shard.jp
 0.0.0.0 pupok.link
@@ -38378,7 +38380,6 @@
 0.0.0.0 rekons.live
 0.0.0.0 rekurigo.com
 0.0.0.0 related-ads.com
-0.0.0.0 relaxindulge.co.nz
 0.0.0.0 relems.live
 0.0.0.0 relens.live
 0.0.0.0 relevantknowledge.com
@@ -40799,7 +40800,6 @@
 0.0.0.0 sidewormpower.pics
 0.0.0.0 sidom.online
 0.0.0.0 sierraagrolime.com
-0.0.0.0 sieuthiphutungxenang.com
 0.0.0.0 sifed.live
 0.0.0.0 sifenews.com
 0.0.0.0 sigaingegneria.com
@@ -43751,7 +43751,6 @@
 0.0.0.0 tm1.hoiplay.com
 0.0.0.0 tm2.r-ad.ne.jp
 0.0.0.0 tmbux.ir
-0.0.0.0 tmglawpalawan.com
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 tmp.adflex.vn
 0.0.0.0 tmslexus.112.2o7.net
@@ -45633,6 +45632,7 @@
 0.0.0.0 ua.zenadservices.net
 0.0.0.0 uaalgee33.com
 0.0.0.0 uac.advertising.com
+0.0.0.0 uaery.top
 0.0.0.0 uahora.com
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 uapi.ads.oppomobile.com
@@ -47489,7 +47489,6 @@
 0.0.0.0 webreseau.com
 0.0.0.0 webroot.112.2o7.net
 0.0.0.0 webs-net-techie-app.win
-0.0.0.0 webs-up.com
 0.0.0.0 webseoanalytics.com
 0.0.0.0 websitesponsor.de
 0.0.0.0 websocket.55online.news
@@ -48947,7 +48946,6 @@
 0.0.0.0 www.cstrespsurvey.ca
 0.0.0.0 www.cyber-ad01.cc
 0.0.0.0 www.da-ads.com
-0.0.0.0 www.dacui.online
 0.0.0.0 www.damafinimmobiliare.it
 0.0.0.0 www.datasecu.download
 0.0.0.0 www.datingadvertising.com
@@ -49059,7 +49057,6 @@
 0.0.0.0 www.getmyads24.com
 0.0.0.0 www.girlporn.ru
 0.0.0.0 www.girlz-high.com
-0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.globetrotting-culture.ru
 0.0.0.0 www.globusdate.com
 0.0.0.0 www.glopages.ru
@@ -50627,6 +50624,7 @@
 0.0.0.0 zdert.xyz
 0.0.0.0 zdi0.destinia.cr
 0.0.0.0 zealousfield.com
+0.0.0.0 zebestof.com
 0.0.0.0 zebigmail.com
 0.0.0.0 zebigoffre.com
 0.0.0.0 zedo.com
