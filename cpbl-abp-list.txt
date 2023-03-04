@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sat Mar  4 01:26:52 AM UTC 2023
+! Updated: Sat Mar  4 06:26:05 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -10109,10 +10109,16 @@
 ||adticker.net^
 ||adtiger.de^
 ||adtilt.com^
+||adtima-common.zadn.vn^
 ||adtima-common.zascdn.me^
+||adtima-media-td.zadn.vn^
+||adtima-media.zadn.vn^
 ||adtima-media.zascdn.me^
+||adtima-static-td.zadn.vn^
 ||adtima-static.aka.zdn.vn^
+||adtima-static.zadn.vn^
 ||adtima-static.zascdn.me^
+||adtima-video.zadn.vn^
 ||adtima-video.zascdn.me^
 ||adtima.net.vn^
 ||adtima.org^
@@ -65656,34 +65662,51 @@
 ||loftusinghorizon.com^
 ||lofv.xyz^
 ||lofvkxaqsw.com^
+||log-anninhthudo.zadn.vn^
 ||log-api.aillis.net^
 ||log-api.newrelic.com^
 ||log-api.pangolin-sdk-toutiao.com^
+||log-baobackan.zadn.vn^
 ||log-baodauthau.epicdn.me^
 ||log-baogialai.epicdn.me^
+||log-baonghean.zadn.vn^
+||log-baophapluat.zadn.vn^
+||log-bizlive.zadn.vn^
 ||log-collector.shopee.vn^
 ||log-collectors-73517960.us-east-1.elb.amazonaws.com^
 ||log-eap-sg.coloros.com^
 ||log-gateway.zoom.us^
+||log-giacngo.zadn.vn^
 ||log-giaoduc.epicdn.me^
+||log-giaoduc.zadn.vn^
 ||log-giaoducthoidai.epicdn.me^
+||log-giaoducthoidai.zadn.vn^
 ||log-hl.snssdk.com^
 ||log-kienthucnet.epicdn.me^
+||log-kienthucnet.zadn.vn^
 ||log-live.direct.ly^
 ||log-marketing.jp^
 ||log-nhandan.epicdn.me^
+||log-nhandan.zadn.vn^
 ||log-player.arte.tv^
+||log-plo.zadn.vn^
 ||log-sg.bytegsdk.com^
+||log-sggp.zadn.vn^
 ||log-stats.weathercn.com^
 ||log-tb.sgsnssdk.com^
 ||log-thanhnien.epicdn.me^
+||log-thanhnien.zadn.vn^
+||log-tienphong.zadn.vn^
 ||log-tinnhanhchungkhoan.epicdn.me^
+||log-tinnhanhchungkhoan.zadn.vn^
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
 ||log-upload.mihoyo.com^
 ||log-va.tiktokv.com^
+||log-vietnamdaily.zadn.vn^
 ||log-vietnamplus-vn.cdn.ampproject.org^
+||log-vovworld.zadn.vn^
 ||log.ads-m.net^
 ||log.advalue.com.vn^
 ||log.aebn.net^
@@ -69283,6 +69306,7 @@
 ||md.m-space.jp^
 ||md.tvzhe.com^
 ||md5s.ru^
+||mda.zadn.vn^
 ||mdadx.com^
 ||mdbteam.com^
 ||mdcxyo.xyz^
@@ -73408,6 +73432,7 @@
 ||mpio.io^
 ||mpj3.ciaoisolecanarie.com^
 ||mpk01.com^
+||mplaylist-ads.zadn.vn^
 ||mplaylist-ads.zascdn.me^
 ||mplnrm.mister-auto.it^
 ||mployeesihi.xyz^
@@ -92542,6 +92567,7 @@
 ||sdk.wesdk.co^
 ||sdk.yolanda.hk^
 ||sdk.youappi.com^
+||sdk.zadn.vn^
 ||sdk.zapr.in^
 ||sdk1.ibm.xtify.com^
 ||sdk1.resu.io^
@@ -121506,7 +121532,6 @@
 ||zaczvk.pl^
 ||zadauque.net^
 ||zadbit.com^
-||zadn.vn^
 ||zads.me.zing.vn^
 ||zaeavr.com^
 ||zaebaladblock.ru^
@@ -121543,6 +121568,12 @@
 ||zakuparelyt.com^
 ||zalawqsahn.com^
 ||zalmips.com^
+||zalo-ads-240-td.zadn.vn^
+||zalo-ads-240.zadn.vn^
+||zalo-ads-480-td.zadn.vn^
+||zalo-ads-480.zadn.vn^
+||zalo-ads-td.zadn.vn^
+||zalo-ads.zadn.vn^
 ||zaloads-480.zdn.vn^
 ||zam.nextinpact.com^
 ||zamhuxnh.cz.cc^
