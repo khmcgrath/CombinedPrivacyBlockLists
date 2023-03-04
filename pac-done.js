@@ -1,4 +1,4 @@
-// **** Sat Mar  4 06:22:37 AM UTC 2023
+// **** Sat Mar  4 06:55:44 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -16783,7 +16783,6 @@ shExpMatch(host, "*.estesparkwiki.org") ||
 shExpMatch(host, "*.estiloymadera.com.py") ||
 shExpMatch(host, "*.estore.biscoind.com") ||
 shExpMatch(host, "*.estoremkg.pl") ||
-shExpMatch(host, "*.estream.to") ||
 shExpMatch(host, "*.esty.com") ||
 shExpMatch(host, "*.esupportbest005.info") ||
 shExpMatch(host, "*.esurf.info") ||
@@ -33579,6 +33578,7 @@ shExpMatch(host, "*.p.alcmpn.com") ||
 shExpMatch(host, "*.p.asks.jp") ||
 shExpMatch(host, "*.p.bokecc.com") ||
 shExpMatch(host, "*.p.brid.tv") ||
+shExpMatch(host, "*.p.estream.to") ||
 shExpMatch(host, "*.p.nag.ru") ||
 shExpMatch(host, "*.p.po.st") ||
 shExpMatch(host, "*.p.posventa.info") ||
@@ -34704,6 +34704,7 @@ shExpMatch(host, "*.play-voice.com") ||
 shExpMatch(host, "*.play.besstahete.info") ||
 shExpMatch(host, "*.play.entretenimientolz.com") ||
 shExpMatch(host, "*.play.estream.nu") ||
+shExpMatch(host, "*.play.estream.to") ||
 shExpMatch(host, "*.play.estream.xyz") ||
 shExpMatch(host, "*.play.feesocrald.com") ||
 shExpMatch(host, "*.play.istlandoll.com") ||
@@ -45304,6 +45305,7 @@ shExpMatch(host, "*.video-id.org") ||
 shExpMatch(host, "*.video-stats.video.google.com") ||
 shExpMatch(host, "*.video-view-api.varzesh3.com") ||
 shExpMatch(host, "*.video-watch1.com") ||
+shExpMatch(host, "*.video.streaming.estream.to") ||
 shExpMatch(host, "*.video.upqzfile.com") ||
 shExpMatch(host, "*.video.videos.vidto.me") ||
 shExpMatch(host, "*.videoadex.com") ||
@@ -65230,7 +65232,6 @@ shExpMatch(host, "estesparkwiki.org") ||
 shExpMatch(host, "estiloymadera.com.py") ||
 shExpMatch(host, "estore.biscoind.com") ||
 shExpMatch(host, "estoremkg.pl") ||
-shExpMatch(host, "estream.to") ||
 shExpMatch(host, "esty.com") ||
 shExpMatch(host, "esupportbest005.info") ||
 shExpMatch(host, "esurf.info") ||
@@ -82026,6 +82027,7 @@ shExpMatch(host, "p.alcmpn.com") ||
 shExpMatch(host, "p.asks.jp") ||
 shExpMatch(host, "p.bokecc.com") ||
 shExpMatch(host, "p.brid.tv") ||
+shExpMatch(host, "p.estream.to") ||
 shExpMatch(host, "p.nag.ru") ||
 shExpMatch(host, "p.po.st") ||
 shExpMatch(host, "p.posventa.info") ||
@@ -83151,6 +83153,7 @@ shExpMatch(host, "play-voice.com") ||
 shExpMatch(host, "play.besstahete.info") ||
 shExpMatch(host, "play.entretenimientolz.com") ||
 shExpMatch(host, "play.estream.nu") ||
+shExpMatch(host, "play.estream.to") ||
 shExpMatch(host, "play.estream.xyz") ||
 shExpMatch(host, "play.feesocrald.com") ||
 shExpMatch(host, "play.istlandoll.com") ||
@@ -93751,6 +93754,7 @@ shExpMatch(host, "video-id.org") ||
 shExpMatch(host, "video-stats.video.google.com") ||
 shExpMatch(host, "video-view-api.varzesh3.com") ||
 shExpMatch(host, "video-watch1.com") ||
+shExpMatch(host, "video.streaming.estream.to") ||
 shExpMatch(host, "video.upqzfile.com") ||
 shExpMatch(host, "video.videos.vidto.me") ||
 shExpMatch(host, "videoadex.com") ||
