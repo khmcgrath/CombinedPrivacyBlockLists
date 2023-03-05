@@ -1,4 +1,4 @@
-# Sat Mar  4 09:23:42 AM UTC 2023
+# Sun Mar  5 12:58:53 AM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -616,6 +616,7 @@
 0.0.0.0 2e718yf5jypb.test.digitalsurge.io
 0.0.0.0 2e7zgbpky6h.chinese.freecodecamp.org
 0.0.0.0 2e8dgn8n0e0l.com
+0.0.0.0 2eb3f134fb.com
 0.0.0.0 2efj.economies.cheque-dejeuner.com
 0.0.0.0 2efj.up.coop
 0.0.0.0 2f488993d1.com
@@ -2394,6 +2395,7 @@
 0.0.0.0 9go.mobi
 0.0.0.0 9itmr1lzaltn.com
 0.0.0.0 9j1y.cn
+0.0.0.0 9j5e.top
 0.0.0.0 9js6.icu
 0.0.0.0 9kkf51ovqex1.com
 0.0.0.0 9kkjfywjz50v.www.eventus.io
@@ -5006,6 +5008,7 @@
 0.0.0.0 adaptv.advertising.com
 0.0.0.0 adaranth.com
 0.0.0.0 adaround.net
+0.0.0.0 adarutoad.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx4ae.ut.taobao.com
@@ -14121,6 +14124,7 @@
 0.0.0.0 conurs.com
 0.0.0.0 convdlink.com
 0.0.0.0 conveniencehotel.com
+0.0.0.0 convenientcertificate.com
 0.0.0.0 conventforgotten.com
 0.0.0.0 convers.link
 0.0.0.0 conversation-app.alcatel-lucent.com
@@ -15743,6 +15747,7 @@
 0.0.0.0 dabao.run
 0.0.0.0 dacfusm.cn
 0.0.0.0 dacmaiss.com
+0.0.0.0 dacyh.cyou
 0.0.0.0 dacyptepa.pro
 0.0.0.0 dadawm.cc
 0.0.0.0 daddychess.online
@@ -23190,6 +23195,7 @@
 0.0.0.0 ganjituiguang.ganji.com
 0.0.0.0 gannett.gcion.com
 0.0.0.0 ganyiedosage.website
+0.0.0.0 gaoai.wang
 0.0.0.0 gaojiedesign.cn
 0.0.0.0 gaoyuhu.top
 0.0.0.0 gaozhuang.xyz
@@ -34692,6 +34698,7 @@
 0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 nbstatic.com
 0.0.0.0 nbyggk.jocee.jp
+0.0.0.0 nbzabd.xyz
 0.0.0.0 nc.nominaturfy.com
 0.0.0.0 ncc.nip-col.jp
 0.0.0.0 nccaer.xyz
@@ -35158,6 +35165,7 @@
 0.0.0.0 nmu3.destinia.be
 0.0.0.0 nmwbank.cn
 0.0.0.0 nndiscov.cfd
+0.0.0.0 nnfeibao.cn
 0.0.0.0 nngzfd.cn
 0.0.0.0 nnllupyu.top
 0.0.0.0 nnocsin.cn
@@ -36041,6 +36049,7 @@
 0.0.0.0 omclacrv.com
 0.0.0.0 omclyzyapf.com
 0.0.0.0 omding.com
+0.0.0.0 omegabest.cn
 0.0.0.0 omegatrak.com
 0.0.0.0 omfiydlbmy.com
 0.0.0.0 omg2.com
@@ -39712,6 +39721,7 @@
 0.0.0.0 pwrads.net
 0.0.0.0 pwrbpgapi.xyz
 0.0.0.0 pwssuj.com
+0.0.0.0 pwxueuocf.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 px.mountain.com
@@ -39847,6 +39857,7 @@
 0.0.0.0 qdchunyu.com
 0.0.0.0 qdglzx.com
 0.0.0.0 qdhhdsw.cn
+0.0.0.0 qdiwbhjpo.com
 0.0.0.0 qdkwaz.laredoute.fr
 0.0.0.0 qdmil.com
 0.0.0.0 qdqasd.nicks.com
@@ -39904,6 +39915,7 @@
 0.0.0.0 qgoqkcpw.xyz
 0.0.0.0 qgss8.com
 0.0.0.0 qgxbluhsgad.com
+0.0.0.0 qhapp.top
 0.0.0.0 qhdbfjx.com
 0.0.0.0 qhdhtd.com
 0.0.0.0 qheoy.cn
@@ -50183,6 +50195,7 @@
 0.0.0.0 theonlins.com
 0.0.0.0 theplayadvisor.com
 0.0.0.0 thepopads.com
+0.0.0.0 thepsusiwho.com
 0.0.0.0 therapistpopulationcommentary.com
 0.0.0.0 therapistpresumegooseberry.com
 0.0.0.0 theraprecramp.com
@@ -53958,6 +53971,7 @@
 0.0.0.0 unevenmankind.com
 0.0.0.0 unevenobjective.com
 0.0.0.0 unevenregime.com
+0.0.0.0 unevwe.xyz
 0.0.0.0 unfainfraseirs.org
 0.0.0.0 unfaithfulmakeryearly.com
 0.0.0.0 unfinishedheir.com
