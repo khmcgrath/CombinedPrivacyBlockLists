@@ -47329,7 +47329,6 @@
 0.0.0.0 vobyst9.gq
 0.0.0.0 vobyst9.ml
 0.0.0.0 vobyst9.tk
-0.0.0.0 vocoptions.net
 0.0.0.0 vod.adspruce.com
 0.0.0.0 vodafonegroup.122.2o7.net
 0.0.0.0 vodafonenz.122.2o7.net
