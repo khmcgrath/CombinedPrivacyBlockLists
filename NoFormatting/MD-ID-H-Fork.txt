@@ -43,7 +43,6 @@
 0.0.0.0 2009dddd.cn
 0.0.0.0 2009llll.cn
 0.0.0.0 2009mmmm.cn
-0.0.0.0 200ecad.com
 0.0.0.0 2011verygood.ru
 0.0.0.0 2013-verygoods.ru
 0.0.0.0 2013supas.ru
@@ -762,7 +761,6 @@
 0.0.0.0 ckidkina.ru
 0.0.0.0 ckt4.cn
 0.0.0.0 classicallyabsurdphotography.com
-0.0.0.0 classicpastries.com
 0.0.0.0 classicspeedway.com
 0.0.0.0 cleanfile.net
 0.0.0.0 cleansite.biz
@@ -834,7 +832,6 @@
 0.0.0.0 crackspider.us
 0.0.0.0 crackzone.net
 0.0.0.0 crafttech.com.au
-0.0.0.0 crazymasya.com
 0.0.0.0 creaciones-mary.com.ar
 0.0.0.0 creatives.co.in
 0.0.0.0 creativitygap.com
@@ -870,7 +867,6 @@
 0.0.0.0 d4.cumshots.ws
 0.0.0.0 d99q.cn
 0.0.0.0 dabbaservice.com
-0.0.0.0 dacenete.com
 0.0.0.0 dackjongyi.net
 0.0.0.0 daddybigtop.cn
 0.0.0.0 daehaegroup.com
@@ -883,7 +879,6 @@
 0.0.0.0 darxk.com
 0.0.0.0 dating.majorwap.com
 0.0.0.0 datumer.com
-0.0.0.0 davtraff.com
 0.0.0.0 dawnframing.com
 0.0.0.0 dawnsworld.mysticalgateway.com
 0.0.0.0 daxflow.com
@@ -1131,6 +1126,7 @@
 0.0.0.0 enlargement4.pro
 0.0.0.0 ensenadasportfishing.com
 0.0.0.0 enswdzq112aazz.com
+0.0.0.0 epac.to
 0.0.0.0 epi-spa.com
 0.0.0.0 eplarine.com
 0.0.0.0 equip.yaroslavl.ru
@@ -1235,7 +1231,6 @@
 0.0.0.0 felixooriums.net
 0.0.0.0 femalewrestlingnow.com
 0.0.0.0 festival.cocobau.com
-0.0.0.0 fetishfitnessbabes.com
 0.0.0.0 fetishlocator.com
 0.0.0.0 few.ijssalonlekker.nl
 0.0.0.0 fffddd11.cn
@@ -1253,7 +1248,6 @@
 0.0.0.0 files.dsnetwb.com
 0.0.0.0 fileserver.co.kr
 0.0.0.0 filloutsme.com
-0.0.0.0 filmschoolsforum.com
 0.0.0.0 filmseyretsene.org
 0.0.0.0 finalions.ru
 0.0.0.0 findbigbearproperty.cn
@@ -1277,7 +1271,6 @@
 0.0.0.0 flash-player-updates.com
 0.0.0.0 flash.360edu.com
 0.0.0.0 flash8.co.in
-0.0.0.0 flashsrealm.com
 0.0.0.0 flashupdatenow.co
 0.0.0.0 flipsphere.ru
 0.0.0.0 flowercare.biz
@@ -1535,7 +1528,6 @@
 0.0.0.0 hbckissimmee.org
 0.0.0.0 hbhybw888.com
 0.0.0.0 hbweiner.org
-0.0.0.0 hdrart.co.uk
 0.0.0.0 hdreceivermitfestplatte.com
 0.0.0.0 hdyj168.com.cn
 0.0.0.0 healthisp.net
@@ -1746,8 +1738,6 @@
 0.0.0.0 jdm-uk.com
 0.0.0.0 jdownloaderitalia.netsons.org
 0.0.0.0 jdsemnan.ac.ir
-0.0.0.0 jdyunfeng.com
-0.0.0.0 jeansvixens.com
 0.0.0.0 jefaerosol.free.fr
 0.0.0.0 jeikungjapani.com
 0.0.0.0 jeremyandcasey.com
@@ -3074,7 +3064,6 @@
 0.0.0.0 strmyy.com
 0.0.0.0 studioai.kr
 0.0.0.0 studiosipro.com
-0.0.0.0 successcontinued.com
 0.0.0.0 successtest.co.kr
 0.0.0.0 succubinsodalla.paladin-global.net
 0.0.0.0 sudanartists.org
@@ -3381,7 +3370,6 @@
 0.0.0.0 u9b.ru
 0.0.0.0 u9k.ru
 0.0.0.0 uaza-melax.ru
-0.0.0.0 uci.securesoft.info
 0.0.0.0 ucomsoft.cn
 0.0.0.0 uduoduo.com
 0.0.0.0 uegnytqslcm.myfw.us
@@ -3830,7 +3818,6 @@
 0.0.0.0 www.thoosje.com
 0.0.0.0 www.tiergestuetzt.de
 0.0.0.0 www.tomtomnavigation.org
-0.0.0.0 www.toochattoo.com
 0.0.0.0 www.torgi.kz
 0.0.0.0 www.tourindia.in
 0.0.0.0 www.tpt.edu.in
