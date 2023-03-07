@@ -330,6 +330,7 @@ here.com
 hostsfile.org
 howtogeek.com
 html5zombo.com
+hugedomains.com
 i.ibb.co
 i.imgbox.com
 i.ytimg.com
@@ -597,6 +598,7 @@ thetvdb.com
 time.samsungcloudsolution.com
 timeinc.net
 tindersparks.com
+tinypass.com
 tinyurl.com
 tn.com.ar
 todo-ta-g7g.amazon.com

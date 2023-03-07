@@ -123,6 +123,7 @@
 ^(www\.)?hostsfile\.org$
 ^(www\.)?howtogeek\.com$
 ^(www\.)?html5zombo\.com$
+^(www\.)?hugedomains\.com$
 ^(www\.)?icloud\.com$
 ^(www\.)?icscards\.nl$
 ^(www\.)?idol-dvd\.com$
@@ -241,6 +242,7 @@
 ^(www\.)?thetvdb\.com$
 ^(www\.)?timeinc\.net$
 ^(www\.)?tindersparks\.com$
+^(www\.)?tinypass\.com$
 ^(www\.)?tinyurl\.com$
 ^(www\.)?tomshardware\.com$
 ^(www\.)?travelzoo\.com$

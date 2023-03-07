@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Mar  6 11:17:00 PM UTC 2023
+! Updated: Tue Mar  7 03:21:05 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -14710,6 +14710,7 @@
 ||api-proxy.bee7.com^
 ||api-sdk.datadome.co^
 ||api-telemetry.servers.getgo.com^
+||api-v3.tinypass.com^
 ||api.52kkg.com^
 ||api.557400.com^
 ||api.aalbbh84.info^
@@ -22747,6 +22748,7 @@
 ||buy-cheap-phentermine.blogspot.com^
 ||buy-link.ru^
 ||buy-traffic.org^
+||buy.tinypass.com^
 ||buy404s.com^
 ||buycheapadvertising.com^
 ||buycheaphost.net^
@@ -24378,6 +24380,7 @@
 ||cdn.steambets.net^
 ||cdn.teamskeetimages.com^
 ||cdn.teleportapi.com^
+||cdn.tinypass.com^
 ||cdn.topmind.io^
 ||cdn.trackjs.netdna-cdn.com^
 ||cdn.trafficexchangelist.com^
@@ -32170,6 +32173,7 @@
 ||dashboard.adcalls.nl^
 ||dashboard.io^
 ||dashboard.khholdings.co.za^
+||dashboard.tinypass.com^
 ||dashboardnew.adcalls.nl^
 ||dashet.com^
 ||dashgreen.online^
@@ -42051,6 +42055,7 @@
 ||experience.phenomenex.com^
 ||experience.rochesterregional.org^
 ||experience.rrd.com^
+||experience.tinypass.com^
 ||experienceeggs.com^
 ||experienceford.me^
 ||experiences.cibc.com^
@@ -55806,6 +55811,7 @@
 ||id-tiara.com^
 ||id-visitors.com^
 ||id.cxense.com^
+||id.tinypass.com^
 ||id001.jp^
 ||id08.top^
 ||id1.cn^
@@ -91598,6 +91604,7 @@
 ||sandbox-cloudapp.com^
 ||sandbox-cloudapp.org^
 ||sandbox-connectlp.keysight.com^
+||sandbox.tinypass.com^
 ||sandelf.com^
 ||sandensi.ru^
 ||sandokan66.no-ip.info^
@@ -105680,7 +105687,6 @@
 ||tinyfileshost.com^
 ||tinymarket.store^
 ||tinynedu.xyz^
-||tinypass.com^
 ||tinypic.info^
 ||tinystat.ir^
 ||tinytendency.com^

@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/06/23~23:26:45 -~
+# ~- 03/07/23~03:36:44 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -11767,6 +11767,7 @@
 *.api-proxy.bee7.com
 *.api-sdk.datadome.co
 *.api-telemetry.servers.getgo.com
+*.api-v3.tinypass.com
 *.api.247-inc.net
 *.api.52kkg.com
 *.api.557400.com
@@ -17667,6 +17668,7 @@
 *.buy-cheap-phentermine.blogspot.com
 *.buy-link.ru
 *.buy-traffic.org
+*.buy.tinypass.com
 *.buy404s.com
 *.buycheapadvertising.com
 *.buydee.org
@@ -18778,6 +18780,7 @@
 *.cdn.streambeam.io
 *.cdn.targetfuel.com
 *.cdn.teamskeetimages.com
+*.cdn.tinypass.com
 *.cdn.total-media.net
 *.cdn.trackjs.netdna-cdn.com
 *.cdn.unduhfile.my.id
@@ -24177,6 +24180,7 @@
 *.dashbida.com
 *.dashboard.adcalls.nl
 *.dashboard.khholdings.co.za
+*.dashboard.tinypass.com
 *.dashboardnew.adcalls.nl
 *.dashet.com
 *.dashgreen.online
@@ -30411,6 +30415,7 @@
 *.experience.erblearn.org
 *.experience.goudengids.be
 *.experience.rrd.com
+*.experience.tinypass.com
 *.experienceeggs.com
 *.experimentalconcerningsuck.com
 *.experimentmelting.com
@@ -39695,6 +39700,7 @@
 *.id-929734532482.com
 *.id-tiara.com
 *.id.cxense.com
+*.id.tinypass.com
 *.id001.jp
 *.id08.top
 *.id1.cn
@@ -65375,6 +65381,7 @@
 *.sanctumware.net
 *.sandbox-cloudapp.com
 *.sandbox-cloudapp.org
+*.sandbox.tinypass.com
 *.sandelf.com
 *.sandokan66.no-ip.info
 *.sange20221226.xyz
@@ -74577,7 +74584,6 @@
 *.tinybar.com
 *.tinymarket.store
 *.tinynedu.xyz
-*.tinypass.com
 *.tinytendency.com
 *.tiodmw.com
 *.tioew.cyou
