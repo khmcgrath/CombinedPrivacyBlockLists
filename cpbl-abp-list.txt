@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Tue Mar  7 04:03:49 AM UTC 2023
+! Updated: Tue Mar  7 03:11:35 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -5959,6 +5959,7 @@
 ||ad4cash.de^
 ||ad4game.com^
 ||ad4m.at^
+||ad4mat-3cab.kxcdn.com^
 ||ad4mat.com^
 ||ad4mat.de^
 ||ad4mat.it^
@@ -6965,6 +6966,7 @@
 ||admd.housefun.com.tw^
 ||admd.ir^
 ||admd.yam.com^
+||admdspc-2429.kxcdn.com^
 ||admdspc.com^
 ||adme-net.com^
 ||admeasure.hh-online.jp^
@@ -7520,6 +7522,7 @@
 ||adrun.ru^
 ||adrunner.pricerunner.se^
 ||adrunnr.com^
+||ads-3711.kxcdn.com^
 ||ads-6686.top^
 ||ads-816899299.ap-southeast-1.elb.amazonaws.com^
 ||ads-adaptv.vidible.tv^
@@ -9623,6 +9626,7 @@
 ||adsinimages.com^
 ||adsino24.com^
 ||adsinstant.com^
+||adsinteractive-794b.kxcdn.com^
 ||adsister.com^
 ||adsixmedia.fr^
 ||adsjumbo.com^
@@ -9870,6 +9874,7 @@
 ||adsvolume.com^
 ||adsvork.com^
 ||adsvr.deviantart.com^
+||adsvstream-a930.kxcdn.com^
 ||adswakeup.com^
 ||adswam.com^
 ||adsweb.vn^
@@ -35432,6 +35437,7 @@
 ||dialgold.com^
 ||dialistico.net^
 ||diallyblogs.com^
+||dialog-4a78.kxcdn.com^
 ||dialog.dqs.de^
 ||dialog.usatek.eu^
 ||dialog.wob.ag^
@@ -50519,6 +50525,7 @@
 ||gold2762.com^
 ||goldads.info^
 ||goldalternateattributed.com^
+||goldapp-bcf4.kxcdn.com^
 ||goldbach.com^
 ||goldbye.vicp.net^
 ||goldchainsblue.com^
@@ -62911,7 +62918,6 @@
 ||kwzme.net^
 ||kx4.firstsexfilm.com^
 ||kxapctq.cn^
-||kxcdn.com^
 ||kxgo.xyz^
 ||kxizloe.cn^
 ||kxji.com^
@@ -72053,6 +72059,7 @@
 ||mnvrwq.xyz^
 ||mnwj0t.g7e6.com^
 ||mnwor.xuanlishi.com^
+||mny-3f29.kxcdn.com^
 ||mo-tuo.com^
 ||mo.freeindoapp.com^
 ||mo.gushiji.cc^
@@ -88216,7 +88223,9 @@
 ||remote-data.asnapieu.com^
 ||remote-data.urbanairship.com^
 ||remotead.cnet.com^
+||remoteapp-3d8f.kxcdn.com^
 ||remotequeen.pro^
+||remotesettings-3f29.kxcdn.com^
 ||remove-ads.xyz^
 ||remove-this.com^
 ||removeads.workers.dev^
@@ -103723,6 +103732,7 @@
 ||tapnative.com^
 ||tapnetwork.ru^
 ||tapone.jp^
+||taponejs-184e.kxcdn.com^
 ||tappedoutdonuthack.com^
 ||tapprove.buzz^
 ||tappx.com^
@@ -113090,6 +113100,7 @@
 ||v09.xyz^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||v0hs81ev3vepjr.ru^
+||v1-c73e.kxcdn.com^
 ||v1.19purify.com^
 ||v1.addthisedge.com.edgekey.net^
 ||v1.kwpewga.cn^

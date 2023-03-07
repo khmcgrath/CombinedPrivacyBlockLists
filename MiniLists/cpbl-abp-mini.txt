@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Tue Mar  7 04:03:47 AM UTC 2023
+! Updated: Tue Mar  7 03:11:41 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -4593,6 +4593,7 @@
 ||ad49.atlas.cz^
 ||ad4game.com^
 ||ad4m.at^
+||ad4mat-3cab.kxcdn.com^
 ||ad4mat.com^
 ||ad4mat.de^
 ||ad4mat.net^
@@ -5345,6 +5346,7 @@
 ||admd.housefun.com.tw^
 ||admd.ir^
 ||admd.yam.com^
+||admdspc-2429.kxcdn.com^
 ||adme-net.com^
 ||admeasure.hh-online.jp^
 ||admeasurement.com^
@@ -5755,6 +5757,7 @@
 ||adrtx.net^
 ||adru.net^
 ||adrunnr.com^
+||ads-3711.kxcdn.com^
 ||ads-6686.top^
 ||ads-816899299.ap-southeast-1.elb.amazonaws.com^
 ||ads-adaptv.vidible.tv^
@@ -7892,6 +7895,7 @@
 ||adsinimages.com^
 ||adsino24.com^
 ||adsinstant.com^
+||adsinteractive-794b.kxcdn.com^
 ||adsixmedia.fr^
 ||adsjumbo.com^
 ||adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com^
@@ -8135,6 +8139,7 @@
 ||adsvolume.com^
 ||adsvork.com^
 ||adsvr.deviantart.com^
+||adsvstream-a930.kxcdn.com^
 ||adswakeup.com^
 ||adswam.com^
 ||adsweb.vn^
@@ -25527,6 +25532,7 @@
 ||dialerporn.com^
 ||dialgold.com^
 ||diallyblogs.com^
+||dialog-4a78.kxcdn.com^
 ||dialog.usatek.eu^
 ||dialogue.de.mazda.ch^
 ||dialogue.fr.mazda.be^
@@ -36081,6 +36087,7 @@
 ||gold2762.com^
 ||goldads.info^
 ||goldalternateattributed.com^
+||goldapp-bcf4.kxcdn.com^
 ||goldbye.vicp.net^
 ||goldchainsblue.com^
 ||golden-gateway.com^
@@ -44866,7 +44873,6 @@
 ||kwwvxn.uniqlo.com^
 ||kwzme.net^
 ||kxapctq.cn^
-||kxcdn.com^
 ||kxgo.xyz^
 ||kxizloe.cn^
 ||kxji.com^
@@ -51279,6 +51285,7 @@
 ||mnvrwq.xyz^
 ||mnwj0t.g7e6.com^
 ||mnwor.xuanlishi.com^
+||mny-3f29.kxcdn.com^
 ||mo-tuo.com^
 ||mo.freeindoapp.com^
 ||mo.gushiji.cc^
@@ -62832,7 +62839,9 @@
 ||remote-data.asnapieu.com^
 ||remote-data.urbanairship.com^
 ||remotead.cnet.com^
+||remoteapp-3d8f.kxcdn.com^
 ||remotequeen.pro^
+||remotesettings-3f29.kxcdn.com^
 ||remove-this.com^
 ||removeads.workers.dev^
 ||removed8.xyz^
@@ -73160,6 +73169,7 @@
 ||tapjoyads.com^
 ||taplytics.com^
 ||tapone.jp^
+||taponejs-184e.kxcdn.com^
 ||tapprove.buzz^
 ||tappx.com^
 ||tapresearch.com^
