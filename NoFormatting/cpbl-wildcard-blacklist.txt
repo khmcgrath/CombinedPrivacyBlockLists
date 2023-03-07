@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/07/23~03:36:39 -~
+# ~- 03/07/23~04:05:16 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -30632,7 +30632,6 @@
 *.cutopporting.com
 *.cutos.live
 *.cutox.info
-*.cutt.ly
 *.cuttingstrikingtells.com
 *.cuttla.site
 *.cuttooscete.com

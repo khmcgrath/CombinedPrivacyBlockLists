@@ -5,7 +5,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/07/23~03:36:58 -~
+# ~- 03/07/23~04:05:34 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -22913,7 +22913,6 @@ address=/cuteturkey.com/#
 address=/cutlersbahaism.com/#
 address=/cutos.live/#
 address=/cutox.info/#
-address=/cutt.ly/#
 address=/cuttingstrikingtells.com/#
 address=/cuttooscete.com/#
 address=/cuttuberaxis.com/#

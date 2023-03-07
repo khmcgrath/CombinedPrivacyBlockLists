@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Tue Mar  7 03:21:05 AM UTC 2023
+! Updated: Tue Mar  7 04:03:49 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -30618,7 +30618,6 @@
 ||cutopporting.com^
 ||cutos.live^
 ||cutox.info^
-||cutt.ly^
 ||cuttingstrikingtells.com^
 ||cuttla.site^
 ||cuttooscete.com^
