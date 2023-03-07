@@ -1,4 +1,4 @@
-// **** Tue Mar  7 03:16:24 AM UTC 2023
+// **** Tue Mar  7 03:57:50 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -12909,7 +12909,6 @@ shExpMatch(host, "*.cutepopcorn.com") ||
 shExpMatch(host, "*.cuteturkey.com") ||
 shExpMatch(host, "*.cutos.live") ||
 shExpMatch(host, "*.cutox.info") ||
-shExpMatch(host, "*.cutt.ly") ||
 shExpMatch(host, "*.cuved.live") ||
 shExpMatch(host, "*.cuvir.live") ||
 shExpMatch(host, "*.cuxheaveninvestmentltd.com") ||
@@ -57219,7 +57218,6 @@ shExpMatch(host, "cutepopcorn.com") ||
 shExpMatch(host, "cuteturkey.com") ||
 shExpMatch(host, "cutos.live") ||
 shExpMatch(host, "cutox.info") ||
-shExpMatch(host, "cutt.ly") ||
 shExpMatch(host, "cuved.live") ||
 shExpMatch(host, "cuvir.live") ||
 shExpMatch(host, "cuxheaveninvestmentltd.com") ||

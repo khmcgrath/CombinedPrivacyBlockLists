@@ -205,6 +205,7 @@ cs.dds.microsoft.com
 cse.google.com
 csi.gstatic.com
 ctldl.windowsupdate.com
+cutt.ly
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
