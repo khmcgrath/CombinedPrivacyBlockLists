@@ -1,4 +1,4 @@
-// **** Mon Mar  6 11:10:42 PM UTC 2023
+// **** Tue Mar  7 03:17:17 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -6507,6 +6507,7 @@ shExpMatch(host, "*.api-proxy.bee7.com") ||
 shExpMatch(host, "*.api-sdk.datadome.co") ||
 shExpMatch(host, "*.api-telemetry.servers.getgo.com") ||
 shExpMatch(host, "*.api-us.appodealx.com") ||
+shExpMatch(host, "*.api-v3.tinypass.com") ||
 shExpMatch(host, "*.api.247-inc.net") ||
 shExpMatch(host, "*.api.52kkg.com") ||
 shExpMatch(host, "*.api.aalbbh84.info") ||
@@ -9125,6 +9126,7 @@ shExpMatch(host, "*.buxnet.ir") ||
 shExpMatch(host, "*.buxstar.ir") ||
 shExpMatch(host, "*.buy-adipex.aca.ru") ||
 shExpMatch(host, "*.buy-cheap-phentermine.blogspot.com") ||
+shExpMatch(host, "*.buy.tinypass.com") ||
 shExpMatch(host, "*.buycheapadvertising.com") ||
 shExpMatch(host, "*.buyers-inn.de") ||
 shExpMatch(host, "*.buyertm.cfd") ||
@@ -9649,6 +9651,7 @@ shExpMatch(host, "*.cdn.stat-rock.com") ||
 shExpMatch(host, "*.cdn.static-cnt.bid") ||
 shExpMatch(host, "*.cdn.steepto.com") ||
 shExpMatch(host, "*.cdn.streambeam.io") ||
+shExpMatch(host, "*.cdn.tinypass.com") ||
 shExpMatch(host, "*.cdn.tpdads.com") ||
 shExpMatch(host, "*.cdn.trackjs.netdna-cdn.com") ||
 shExpMatch(host, "*.cdn.unduhfile.my.id") ||
@@ -11820,6 +11823,7 @@ shExpMatch(host, "*.darwinistic.com") ||
 shExpMatch(host, "*.dasems.live") ||
 shExpMatch(host, "*.dasers.live") ||
 shExpMatch(host, "*.dashboard.adcalls.nl") ||
+shExpMatch(host, "*.dashboard.tinypass.com") ||
 shExpMatch(host, "*.dashboardnew.adcalls.nl") ||
 shExpMatch(host, "*.dashingdirt.com") ||
 shExpMatch(host, "*.dashingdrop.com") ||
@@ -14584,6 +14588,7 @@ shExpMatch(host, "*.experianmarketingservices.digital") ||
 shExpMatch(host, "*.experience.erblearn.org") ||
 shExpMatch(host, "*.experience.goudengids.be") ||
 shExpMatch(host, "*.experience.rrd.com") ||
+shExpMatch(host, "*.experience.tinypass.com") ||
 shExpMatch(host, "*.experienceeggs.com") ||
 shExpMatch(host, "*.expert-top.com") ||
 shExpMatch(host, "*.expert.smalley.com") ||
@@ -19534,6 +19539,7 @@ shExpMatch(host, "*.id-929734532482.com") ||
 shExpMatch(host, "*.id-tiara.com") ||
 shExpMatch(host, "*.id.cxense.com") ||
 shExpMatch(host, "*.id.sv.rkdms.com") ||
+shExpMatch(host, "*.id.tinypass.com") ||
 shExpMatch(host, "*.id001.jp") ||
 shExpMatch(host, "*.id1.cn") ||
 shExpMatch(host, "*.id5-sync.com") ||
@@ -31364,6 +31370,7 @@ shExpMatch(host, "*.sanalytics.verizonenterprise.com") ||
 shExpMatch(host, "*.sanalytics.verizonwireless.com") ||
 shExpMatch(host, "*.sandbox-cloudapp.com") ||
 shExpMatch(host, "*.sandbox-cloudapp.org") ||
+shExpMatch(host, "*.sandbox.tinypass.com") ||
 shExpMatch(host, "*.sandokan66.no-ip.info") ||
 shExpMatch(host, "*.sanir.live") ||
 shExpMatch(host, "*.sanit.live") ||
@@ -34729,7 +34736,6 @@ shExpMatch(host, "*.timun.live") ||
 shExpMatch(host, "*.tiner.live") ||
 shExpMatch(host, "*.tinkoff.llc") ||
 shExpMatch(host, "*.tinybar.com") ||
-shExpMatch(host, "*.tinypass.com") ||
 shExpMatch(host, "*.tinytendency.com") ||
 shExpMatch(host, "*.tiodmw.com") ||
 shExpMatch(host, "*.tip-ads.de") ||
@@ -46379,6 +46385,7 @@ shExpMatch(host, "api-proxy.bee7.com") ||
 shExpMatch(host, "api-sdk.datadome.co") ||
 shExpMatch(host, "api-telemetry.servers.getgo.com") ||
 shExpMatch(host, "api-us.appodealx.com") ||
+shExpMatch(host, "api-v3.tinypass.com") ||
 shExpMatch(host, "api.247-inc.net") ||
 shExpMatch(host, "api.52kkg.com") ||
 shExpMatch(host, "api.aalbbh84.info") ||
@@ -48997,6 +49004,7 @@ shExpMatch(host, "buxnet.ir") ||
 shExpMatch(host, "buxstar.ir") ||
 shExpMatch(host, "buy-adipex.aca.ru") ||
 shExpMatch(host, "buy-cheap-phentermine.blogspot.com") ||
+shExpMatch(host, "buy.tinypass.com") ||
 shExpMatch(host, "buycheapadvertising.com") ||
 shExpMatch(host, "buyers-inn.de") ||
 shExpMatch(host, "buyertm.cfd") ||
@@ -49521,6 +49529,7 @@ shExpMatch(host, "cdn.stat-rock.com") ||
 shExpMatch(host, "cdn.static-cnt.bid") ||
 shExpMatch(host, "cdn.steepto.com") ||
 shExpMatch(host, "cdn.streambeam.io") ||
+shExpMatch(host, "cdn.tinypass.com") ||
 shExpMatch(host, "cdn.tpdads.com") ||
 shExpMatch(host, "cdn.trackjs.netdna-cdn.com") ||
 shExpMatch(host, "cdn.unduhfile.my.id") ||
@@ -51692,6 +51701,7 @@ shExpMatch(host, "darwinistic.com") ||
 shExpMatch(host, "dasems.live") ||
 shExpMatch(host, "dasers.live") ||
 shExpMatch(host, "dashboard.adcalls.nl") ||
+shExpMatch(host, "dashboard.tinypass.com") ||
 shExpMatch(host, "dashboardnew.adcalls.nl") ||
 shExpMatch(host, "dashingdirt.com") ||
 shExpMatch(host, "dashingdrop.com") ||
@@ -54456,6 +54466,7 @@ shExpMatch(host, "experianmarketingservices.digital") ||
 shExpMatch(host, "experience.erblearn.org") ||
 shExpMatch(host, "experience.goudengids.be") ||
 shExpMatch(host, "experience.rrd.com") ||
+shExpMatch(host, "experience.tinypass.com") ||
 shExpMatch(host, "experienceeggs.com") ||
 shExpMatch(host, "expert-top.com") ||
 shExpMatch(host, "expert.smalley.com") ||
@@ -59406,6 +59417,7 @@ shExpMatch(host, "id-929734532482.com") ||
 shExpMatch(host, "id-tiara.com") ||
 shExpMatch(host, "id.cxense.com") ||
 shExpMatch(host, "id.sv.rkdms.com") ||
+shExpMatch(host, "id.tinypass.com") ||
 shExpMatch(host, "id001.jp") ||
 shExpMatch(host, "id1.cn") ||
 shExpMatch(host, "id5-sync.com") ||
@@ -71236,6 +71248,7 @@ shExpMatch(host, "sanalytics.verizonenterprise.com") ||
 shExpMatch(host, "sanalytics.verizonwireless.com") ||
 shExpMatch(host, "sandbox-cloudapp.com") ||
 shExpMatch(host, "sandbox-cloudapp.org") ||
+shExpMatch(host, "sandbox.tinypass.com") ||
 shExpMatch(host, "sandokan66.no-ip.info") ||
 shExpMatch(host, "sanir.live") ||
 shExpMatch(host, "sanit.live") ||
@@ -74601,7 +74614,6 @@ shExpMatch(host, "timun.live") ||
 shExpMatch(host, "tiner.live") ||
 shExpMatch(host, "tinkoff.llc") ||
 shExpMatch(host, "tinybar.com") ||
-shExpMatch(host, "tinypass.com") ||
 shExpMatch(host, "tinytendency.com") ||
 shExpMatch(host, "tiodmw.com") ||
 shExpMatch(host, "tip-ads.de") ||
