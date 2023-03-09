@@ -92,7 +92,6 @@
 ^(www\.)?embedly\.com$
 ^(www\.)?emptyloop\.com$
 ^(www\.)?ethermine\.org$
-^(www\.)?extratorrent\.cc$
 ^(www\.)?fanboy\.co\.nz$
 ^(www\.)?fide\.com$
 ^(www\.)?fiverr\.com$
@@ -243,7 +242,6 @@
 ^(www\.)?thetvdb\.com$
 ^(www\.)?timeinc\.net$
 ^(www\.)?tindersparks\.com$
-^(www\.)?tinypass\.com$
 ^(www\.)?tinyurl\.com$
 ^(www\.)?tomshardware\.com$
 ^(www\.)?travelzoo\.com$
@@ -429,7 +427,6 @@
 ^cse\.google\.com$
 ^csi\.gstatic\.com$
 ^ctldl\.windowsupdate\.com$
-^cws\.conviva\.com$
 ^cwtv-mrss-akamai\.cwtv\.com$
 ^cwtv-prod-elb\.digitalsmiths\.net$
 ^d2c8v52ll5s99u\.cloudfront\.net$
@@ -576,7 +573,6 @@
 ^publishers\.basicattentiontoken\.org$
 ^query1\.finance\.yahoo\.com$
 ^query2\.finance\.yahoo\.com$
-^ratas\.sanoma\.fi$
 ^raw\.githubusercontent\.com$
 ^reach-api\.urbanairship\.com$
 ^redirector\.googlevideo\.com$
@@ -675,5 +671,4 @@
 ^yap\.yahoo\.com$
 ^yql\.yahoo\.com$
 ^yui\.yahooapis\.com$
-^zee\.cws\.conviva\.com$
 ^ztd\.dds\.microsoft\.com$

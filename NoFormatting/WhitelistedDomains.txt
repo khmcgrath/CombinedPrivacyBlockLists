@@ -206,7 +206,6 @@ cse.google.com
 csi.gstatic.com
 ctldl.windowsupdate.com
 cutt.ly
-cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.getpocket.com
@@ -274,7 +273,6 @@ eu1.ethermine.org
 events.gfe.nvidia.com
 events.mapbox.com
 evergreen.segment.com
-extratorrent.cc
 f1.media.brightcove.com
 fanboy.co.nz
 fast.fonts.net
@@ -487,7 +485,6 @@ query1.finance.yahoo.com
 query2.finance.yahoo.com
 rackcdn.com
 rapidgator.net
-ratas.sanoma.fi
 raw.githubusercontent.com
 reach-api.urbanairship.com
 redditstatic.com
@@ -599,7 +596,6 @@ thetvdb.com
 time.samsungcloudsolution.com
 timeinc.net
 tindersparks.com
-tinypass.com
 tinyurl.com
 tn.com.ar
 todo-ta-g7g.amazon.com
@@ -668,6 +664,5 @@ yql.yahoo.com
 ytimg.com
 ytmnd.com
 yui.yahooapis.com
-zee.cws.conviva.com
 zombo.com
 ztd.dds.microsoft.com
