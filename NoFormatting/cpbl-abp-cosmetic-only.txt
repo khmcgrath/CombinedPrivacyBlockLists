@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Tue Feb  7 09:46:56 PM UTC 2023
+! Updated: Thu Mar  9 09:21:43 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -77,6 +77,9 @@ coingecko.com##.tw-flex.rounded-0.card.d-sm-none.d-block
 coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
 coinpedia.org##.footer-popup-ad
 coinpedia.org##.footerstickyimg
+coinpedia.org###first-advertise
+coinpedia.org##[class*=banner_ad]
+cointelegraph.com##[class*=banner-youtube]
 connectwww.com##DIV#an-Modal.reveal-modal
 connectwww.com##DIV.reveal-modal-bg
 cryptopotato.com##[class*="ai-close-fit"]
@@ -141,6 +144,7 @@ fxstreet.com##.fxs_txt_center.fxs_stickyAd-mobile
 fxstreet.com###tracking-gtm-global-alert
 gab.com##[aria-label*="Sponsored"]
 gab.com##[href*="grow.gab.com"]
+gab.com##[href*="shop.dissenter.com/product"]
 gab.com##[poster*="grow.gab.com"]
 gab.com##[src*="grow.gab.com"]
 gamatotv.info##[href*="/links/ads"]
@@ -158,7 +162,8 @@ grubhub.com##[class*="ppx-upsell-wrapper"]
 haaretz.com##.footer-ruler
 hackintosh.zone###document_modal
 hackintosh.zone###some_ad_block_key_inner
-huffingtonpost.com##DIV#top_news_inner
+huffpost.com##[class*=social-buttons]
+huffpost.com##DIV#top_news_inner
 huffpost.com##.js-entry-promo.small.entry-promo
 huffpost.com##.modal-content
 imgur.com##.AppBanner-text
@@ -188,6 +193,8 @@ khou.com##[class*="header__tooltip"]
 last.fm##.auth-dropdown-pro-text.auth-dropdown-menu-item
 last.fm##.listening-report-brick--upsell
 last.fm##.nag-bar--new-feature.nag-bar
+lifewire.com##[class$=dialog__content]
+lifewire.com##[class$=dialog__overlay]
 linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
 linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
 linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
@@ -352,6 +359,7 @@ vapecentric.com##.fomo-notification-content-wrapper
 vapordna.com###age-check-prompt
 vapordna.com###prompt-background
 vapordna.com##.top_header_banner > p
+vigilantcitizen.com##[class*=paywall]
 washingtonpost.com##.z-eyei-bvs
 website2.me##[id^="ws-bottom-banner-"]
 website2.me##[id^="ws-side-banner-"]
@@ -537,6 +545,7 @@ babylonbee.com##body,html:style(overflow: auto !important)
 finance.yahoo.com##body,html:style(overflow: auto !important)
 glassdoor.com##body,html:style(overflow: auto !important)
 indeed.com##body,html:style(overflow: auto !important)
+lifewire.com##body,html:style(overflow: auto !important)
 m.imgur.com#$#body { overflow-y: visible!important; }
 mondoweiss.net##body,html:style(overflow: auto !important)
 news.yahoo.com##body,html:style(overflow: auto !important)

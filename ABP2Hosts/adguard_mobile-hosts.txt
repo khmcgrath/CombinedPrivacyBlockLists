@@ -1,4 +1,4 @@
-# Thu Mar  9 06:36:59 AM UTC 2023
+# Thu Mar  9 11:26:26 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1374,7 +1374,9 @@
 0.0.0.0 api.beaconsinspace.com
 0.0.0.0 api.bee7.com
 0.0.0.0 api.bitmango.com
+0.0.0.0 api.bluecore.com
 0.0.0.0 api.bounceexchange.com
+0.0.0.0 api.branch.io
 0.0.0.0 api.britepool.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bttrack.com
@@ -1678,6 +1680,7 @@
 0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 app-sn01.marketo.com
 0.0.0.0 app-trackings.com
+0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.adroll.com
@@ -2502,6 +2505,7 @@
 0.0.0.0 cdn.rlcdn.com
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.scarabresearch.com
+0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segmentify.com
 0.0.0.0 cdn.selectablemedia.com
 0.0.0.0 cdn.siftscience.com
@@ -5247,6 +5251,7 @@
 0.0.0.0 next.lenzmx.com
 0.0.0.0 nextclick.pl
 0.0.0.0 nextgen.guardianapps.co.uk
+0.0.0.0 nexus.ensighten.com
 0.0.0.0 nfiuerwtftasnuk.com
 0.0.0.0 nginxborder-server.naiadsystems.com
 0.0.0.0 nickhel.com
@@ -7632,6 +7637,7 @@
 0.0.0.0 uk-tracking.nextdoor.com
 0.0.0.0 uk.ads.justpremium.com
 0.0.0.0 ul.a.mobimagic.com
+0.0.0.0 ulink.adjust.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ultraadserver.com

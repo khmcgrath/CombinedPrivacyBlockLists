@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2023-03-09T00:12:18Z
+# Updated: 2023-03-09T12:11:51Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -9,7 +9,6 @@
 0.0.0.0 189dom.com
 0.0.0.0 1ecosolution.it
 0.0.0.0 2021new.lietuzhe.com
-0.0.0.0 2023foco.com.br
 0.0.0.0 20thstreetcoc.com
 0.0.0.0 2308.prvalps.net
 0.0.0.0 3313v.com
@@ -27,7 +26,6 @@
 0.0.0.0 ac.rodefermoss.com
 0.0.0.0 acellr.co.uk
 0.0.0.0 acfs-brisbane.org.au
-0.0.0.0 addmantra.com
 0.0.0.0 admartshops.com
 0.0.0.0 admin.classified.pointsource.ng
 0.0.0.0 affito.amiyon.com
@@ -75,10 +73,8 @@
 0.0.0.0 bbc-s.news
 0.0.0.0 bbia.co.uk
 0.0.0.0 beachwood.ug
-0.0.0.0 beeabouttown.com
 0.0.0.0 bem.unja.ac.id
 0.0.0.0 benwellgroup.co.uk
-0.0.0.0 besthome.kz
 0.0.0.0 bestmagento.com
 0.0.0.0 bethelmbcarvada.org
 0.0.0.0 beyond.psiloveyou.co.za
@@ -91,6 +87,7 @@
 0.0.0.0 blog.perio.com.tr
 0.0.0.0 bmasdigital.com
 0.0.0.0 bocasislandexpress.com
+0.0.0.0 bonita.pro
 0.0.0.0 bontiakhotel.net
 0.0.0.0 bookkeepingagents.com
 0.0.0.0 borntobefree.org.za
@@ -120,6 +117,7 @@
 0.0.0.0 cfs9.blog.daum.net
 0.0.0.0 ch1.spacermodem.com
 0.0.0.0 chawkyfrenn.com
+0.0.0.0 chefshop.kz
 0.0.0.0 chemsky.tn
 0.0.0.0 chuckozeas.com
 0.0.0.0 ciadecompras.com
@@ -157,6 +155,7 @@
 0.0.0.0 danoblab.com
 0.0.0.0 daohang1.oss-cn-beijing.aliyuncs.com
 0.0.0.0 darwinistic.com
+0.0.0.0 davidkujawa.com
 0.0.0.0 davidmcguinness.info
 0.0.0.0 ddlakava.ac.ug
 0.0.0.0 deine-bewerbung.com
@@ -169,10 +168,10 @@
 0.0.0.0 destinocuenca.com
 0.0.0.0 destinymc.co.za
 0.0.0.0 detail-booking.com.br
+0.0.0.0 dev.goodstuffdist.com
 0.0.0.0 dev.sebpo.net
 0.0.0.0 dev2-admin.ycbnt.net
 0.0.0.0 dhnconstrucciones.com.ar
-0.0.0.0 diagnostic.net
 0.0.0.0 dist.discoappio.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.198424.com
@@ -181,6 +180,7 @@
 0.0.0.0 dmequest.com
 0.0.0.0 dnautik.com
 0.0.0.0 dom.daf.free.fr
+0.0.0.0 dominiqueimmora.com
 0.0.0.0 dongnaitw.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.udashi.com
@@ -193,6 +193,7 @@
 0.0.0.0 drhanneserasmus.co.za
 0.0.0.0 dterttyt.com
 0.0.0.0 dukaree.com
+0.0.0.0 dwf72.go.th
 0.0.0.0 e-commerce.saleensuporte.com.br
 0.0.0.0 e-hemsire.net
 0.0.0.0 easybrand.vn
@@ -214,7 +215,6 @@
 0.0.0.0 evilsoftware.vip
 0.0.0.0 evolve-adv.com
 0.0.0.0 evrookna.spb.ru
-0.0.0.0 expertstraders.com
 0.0.0.0 expressionsofwood.ca
 0.0.0.0 eznetb.synology.me
 0.0.0.0 f0717246.xsph.ru
@@ -248,7 +248,6 @@
 0.0.0.0 goofygoob.cf
 0.0.0.0 gotovacoil.com
 0.0.0.0 greenlizard.co.za
-0.0.0.0 grimmcm.com
 0.0.0.0 gsmobile.es
 0.0.0.0 gsslofxh.page.link
 0.0.0.0 gtn.cl
@@ -288,7 +287,6 @@
 0.0.0.0 indigonails.ie
 0.0.0.0 indrani-therapy.com
 0.0.0.0 ingonherbal.com
-0.0.0.0 inthbc.com
 0.0.0.0 invoice001.yolasite.com
 0.0.0.0 invoice4c.yolasite.com
 0.0.0.0 izeltelekom.com
@@ -309,6 +307,9 @@
 0.0.0.0 justplay.asia
 0.0.0.0 jx2tulinh.com
 0.0.0.0 k6027.eu
+0.0.0.0 kabile-art.net
+0.0.0.0 kakadu.by
+0.0.0.0 kanzler-style.com
 0.0.0.0 karer.by
 0.0.0.0 karimgousa.ug
 0.0.0.0 kevinley.com
@@ -320,7 +321,6 @@
 0.0.0.0 kiss.a-dog.top
 0.0.0.0 kitdigital.tecoinfor.com
 0.0.0.0 kopadd.yunethosting.rs
-0.0.0.0 kpc.com.ph
 0.0.0.0 ks.cn
 0.0.0.0 kutegiagoc.com
 0.0.0.0 kwinglobal.dothome.co.kr
@@ -349,7 +349,7 @@
 0.0.0.0 madicon.co.za
 0.0.0.0 main.cloudfronts.net
 0.0.0.0 makeupuccino.com
-0.0.0.0 marcowine.com
+0.0.0.0 mama-mia.su
 0.0.0.0 mario-sunjic.com
 0.0.0.0 marksidfgs.ug
 0.0.0.0 marquesvogt.com
@@ -362,12 +362,13 @@
 0.0.0.0 medicalbillingandtelehealth.com
 0.0.0.0 medktech.com
 0.0.0.0 meeweb.com
-0.0.0.0 megaproxy.beget.tech
 0.0.0.0 mehtikahrizi.ir
 0.0.0.0 mendezplumbingservicellc.com
 0.0.0.0 meonhanong.com
 0.0.0.0 mepstein.com
+0.0.0.0 meridianites.com
 0.0.0.0 microsecurityupdate.com
+0.0.0.0 mindfree.co.za
 0.0.0.0 mineramonday.com.py
 0.0.0.0 ministerioagape.net
 0.0.0.0 mistitis.ug
@@ -376,7 +377,6 @@
 0.0.0.0 moarkgcc.com
 0.0.0.0 mobiles-photostudio.com
 0.0.0.0 modern-city.by
-0.0.0.0 moiki.online
 0.0.0.0 moninediy.com
 0.0.0.0 moodle.corplearning.net
 0.0.0.0 morcelik.github.io
@@ -385,7 +385,6 @@
 0.0.0.0 movesc.top
 0.0.0.0 movescx.top
 0.0.0.0 mtp.evotek.vn
-0.0.0.0 mugigr.eu
 0.0.0.0 multivisionapps.com
 0.0.0.0 mumgee.co.za
 0.0.0.0 musicaondemand.com
@@ -403,7 +402,6 @@
 0.0.0.0 news.coin.su
 0.0.0.0 nhatheptienchebinhduong.com
 0.0.0.0 nhorangtreem.com
-0.0.0.0 niancr.world
 0.0.0.0 nienkz.nl
 0.0.0.0 nipunpharmaskill.com
 0.0.0.0 noithathoanggiatn.com
@@ -419,6 +417,7 @@
 0.0.0.0 oceancityrentalbyowner.com
 0.0.0.0 oceaniccolor.com
 0.0.0.0 ogumeta.github.io
+0.0.0.0 ohcalls.click2clock.com
 0.0.0.0 oilneycosmetics.com
 0.0.0.0 olivnakercheast.com
 0.0.0.0 olugun.co.za
@@ -444,7 +443,6 @@
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 parallel.rockvideos.at
 0.0.0.0 paris.newemprirez.com
-0.0.0.0 parnas.rent
 0.0.0.0 parrotbay.net
 0.0.0.0 paste-bin.xyz
 0.0.0.0 payonservice.com
@@ -460,10 +458,10 @@
 0.0.0.0 ppfatahillah.com
 0.0.0.0 pravashluitel.com.np
 0.0.0.0 prestigehomeautomation.net
-0.0.0.0 pretorlex.com
 0.0.0.0 primaflor-sby.com
 0.0.0.0 primusth.com
 0.0.0.0 privacy-tools-for-you-453.com
+0.0.0.0 procraft.com
 0.0.0.0 protechasia.com
 0.0.0.0 psychologistsindia.net
 0.0.0.0 punjabdevelopersassociation.com.pk
@@ -472,7 +470,6 @@
 0.0.0.0 qmsled.com
 0.0.0.0 qrroom.com
 0.0.0.0 radiantneetacademy.in
-0.0.0.0 radiomarket.shop
 0.0.0.0 rainbowscans.com
 0.0.0.0 ramactools.net
 0.0.0.0 ramdungexpedition.com
@@ -492,6 +489,7 @@
 0.0.0.0 rogerschultz.com
 0.0.0.0 roofing.galacticleads.com
 0.0.0.0 rootedlifeinc.ca
+0.0.0.0 rref.su
 0.0.0.0 saf-oil.ru
 0.0.0.0 safetygear.pk
 0.0.0.0 sainzim.co.za
@@ -499,6 +497,7 @@
 0.0.0.0 sanubix.vip
 0.0.0.0 scarletespinal.com
 0.0.0.0 scglobal.co.th
+0.0.0.0 schaublorenz.su
 0.0.0.0 schoolofspanish.co.za
 0.0.0.0 scientific.pk
 0.0.0.0 sd-1093121-h00002.ferozo.net
@@ -542,7 +541,7 @@
 0.0.0.0 stayinoceancitymd.com
 0.0.0.0 storage.replain.cc
 0.0.0.0 streamtvbox.net
-0.0.0.0 stuniquehospital.com
+0.0.0.0 sugandhvatika.com
 0.0.0.0 sunglassesninja.com
 0.0.0.0 sunpos.in
 0.0.0.0 superstar.tibolts.co.uk
@@ -550,13 +549,13 @@
 0.0.0.0 t.honker.info
 0.0.0.0 takemefiles.ru
 0.0.0.0 tara.globodyinc.biz
-0.0.0.0 tatianka.com
 0.0.0.0 tcbdining.com
 0.0.0.0 tdznofh5.beget.tech
 0.0.0.0 tecni-soft.com
 0.0.0.0 temptmag.com
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.typoten.com
+0.0.0.0 thedashami.com
 0.0.0.0 thedoctorsgym.net
 0.0.0.0 thehomeharvest.com
 0.0.0.0 thekassia.co.uk
@@ -574,7 +573,6 @@
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 tridencheats.com
 0.0.0.0 trungtambaohanhmaylanh.com
-0.0.0.0 truongnoivu-phqn.edu.vn
 0.0.0.0 tupperware.michaelroberge.ca
 0.0.0.0 tvculturaourofino.com.br
 0.0.0.0 uaery.top
@@ -600,7 +598,6 @@
 0.0.0.0 vocoptions.net
 0.0.0.0 vqgnril5.beget.tech
 0.0.0.0 walkindrivetoday.com
-0.0.0.0 wandmaster.net
 0.0.0.0 weathermaps.ir
 0.0.0.0 web.geomegasoft.net
 0.0.0.0 webs-up.com

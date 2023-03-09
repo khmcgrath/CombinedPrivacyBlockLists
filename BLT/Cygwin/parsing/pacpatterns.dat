@@ -204,7 +204,6 @@
 ^(www\.)?safelinking\.net$
 ^(www\.)?samsungcloudsolution\.com$
 ^(www\.)?sc-static\.net$
-^(www\.)?segment\.com$
 ^(www\.)?segment\.io$
 ^(www\.)?sentry\.io$
 ^(www\.)?serials\.ws$
@@ -306,8 +305,6 @@
 ^api-staging\.backup\.signal\.org$
 ^api-staging\.directory\.signal\.org$
 ^api\.amplitude\.com$
-^api\.bluecore\.com$
-^api\.branch\.io$
 ^api\.coinbase\.com$
 ^api\.cxense\.com$
 ^api\.ethermine\.org$
@@ -317,7 +314,6 @@
 ^api\.pluto\.tv$
 ^api\.rollbar\.com$
 ^api\.twitter\.com$
-^app\.adjust\.com$
 ^appboot\.netflix\.com$
 ^appldnld\.apple\.com$
 ^appleid\.apple\.com$
@@ -365,7 +361,6 @@
 ^cdn\.optimizely\.com$
 ^cdn\.ravenjs\.com$
 ^cdn\.samsungcloudsolution\.com$
-^cdn\.segment\.com$
 ^cdn\.segment\.io$
 ^cdn\.shortpixel\.ai$
 ^cdn\.sports-streams-online\.best$
@@ -465,7 +460,6 @@
 ^eu1\.ethermine\.org$
 ^events\.gfe\.nvidia\.com$
 ^events\.mapbox\.com$
-^evergreen\.segment\.com$
 ^f1\.media\.brightcove\.com$
 ^fast\.fonts\.net$
 ^firefox\.settings\.services\.mozilla\.com$
@@ -533,7 +527,6 @@
 ^my\.mixtape\.moe$
 ^nab\.demdex\.net$
 ^news\.ebc\.net\.tw$
-^nexus\.ensighten\.com$
 ^nmcheck\.gnome\.org$
 ^notice\.hoopladigital\.com$
 ^notice\.spriggy\.com\.au$
@@ -644,7 +637,6 @@
 ^typeface\.nyt\.com$
 ^ubiservices\.data\.ubi\.com$
 ^ui\.skype\.com$
-^ulink\.adjust\.com$
 ^unagi-na\.amazon\.com$
 ^upload\.twitter\.com$
 ^us-east-1\.amazonaws\.com$

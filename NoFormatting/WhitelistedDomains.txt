@@ -54,8 +54,6 @@ api-global.netflix.com
 api-staging.backup.signal.org
 api-staging.directory.signal.org
 api.amplitude.com
-api.bluecore.com
-api.branch.io
 api.coinbase.com
 api.cxense.com
 api.ethermine.org
@@ -65,7 +63,6 @@ api.parsely.com
 api.pluto.tv
 api.rollbar.com
 api.twitter.com
-app.adjust.com
 app.link
 appboot.netflix.com
 appboy-images.com
@@ -130,7 +127,6 @@ cdn.jsdelivr.net
 cdn.optimizely.com
 cdn.ravenjs.com
 cdn.samsungcloudsolution.com
-cdn.segment.com
 cdn.segment.io
 cdn.shortpixel.ai
 cdn.sports-streams-online.best
@@ -272,7 +268,6 @@ etl.tindersparks.com
 eu1.ethermine.org
 events.gfe.nvidia.com
 events.mapbox.com
-evergreen.segment.com
 f1.media.brightcove.com
 fanboy.co.nz
 fast.fonts.net
@@ -419,7 +414,6 @@ newbie.com
 news.ebc.net.tw
 newworldencyclopedia.org
 nextdns.io
-nexus.ensighten.com
 nitroflare.com
 nj.com
 nmcheck.gnome.org
@@ -522,7 +516,6 @@ secure.eloqua.com
 secure.netflix.com
 secure.skypeassets.com
 secure.surveymonkey.com
-segment.com
 segment.io
 self.events.data.microsoft.com
 sentry.io
@@ -614,7 +607,6 @@ typography.com
 ubiservices.data.ubi.com
 udemy.com
 ui.skype.com
-ulink.adjust.com
 unagi-na.amazon.com
 unity3d.com
 unmineable.com
