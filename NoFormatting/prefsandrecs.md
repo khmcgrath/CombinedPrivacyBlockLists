@@ -30,11 +30,12 @@ Dedicated Ad-Block / Filtering Software & Plugins:
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [AdBlock Plus](https://adblockplus.org/)
 - [Rethink DNS + Firewall](https://rethinkdns.com/app)
+- [Personal DNS Filter](https://github.com/IngoZenz/personaldnsfilter)
 - [Simple-AdBlock for OpenWrt](https://docs.openwrt.melmac.net/simple-adblock/)
 - [AdBlock for OpenWrt](https://github.com/openwrt/packages/tree/master/net/adblock/files)
 - [banIP for OpenWrt](https://github.com/openwrt/packages/tree/master/net/banip)
 
-<sub>My preferred ad-blocking extension is uBO, though AdGuard's flexibility is beyond impressive (this applies to both their stand-alone applications and the browser extension). ABP - while it has generated controversy in the past - is the most widely available Ad-blocking extension, has always been an open source project, and its lasting influence on other ad-blocking projects is undeniable. The infrastructure which ABP provides to list maintainers for issue reporting and feedback is profoundly useful as well. In terms of mobile software I find that AdAway is the simplest option for rooted Android devices, and Rethink offers the most flexible and performant option for Android devices without root (it is also a DNS Client for multiple protocols to boot).</sub>
+<sub>My preferred ad-blocking extension is uBO, though AdGuard's flexibility is beyond impressive (this applies to both their stand-alone applications and the browser extension). ABP - while it has generated controversy in the past - is the most widely available Ad-blocking extension, has always been an open source project, and its lasting influence on other ad-blocking projects is undeniable. The infrastructure which ABP provides to list maintainers for issue reporting and feedback is profoundly useful as well. In terms of mobile software I find that AdAway is the simplest option for rooted Android devices, and Rethink offers the most flexible and performant option for Android devices without root (it is also a DNS Client for multiple protocols to boot), though Personal DNS Filter is great for older devices and for those who don't mind editing a config file.</sub>
 
 
 <sub>In regard to the OpenWrt plugins, I use Simple-AdBlock on low spec routers, AdBlock on higher spec routers, and banIP on anything that runs OpenWrt. All three plugins are fantastic. On the topic, I have used PiHole in my home network at different points in time, and while it is superb, I have found that using OpenWrt on my routers (wired and wireless) - with some combination of the aforementioned plugins - is more than sufficient for my network-wide filtering needs.</sub>
