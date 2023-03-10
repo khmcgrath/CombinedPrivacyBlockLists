@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Fri Mar 10 05:04:35 AM UTC 2023
+! Updated: Fri Mar 10 01:10:05 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -86874,11 +86874,12 @@ gamatotv.info##.spu-content
 gamatotv.info##.spu-total-.spu-bottom-right.spu-box
 ghacks.net###stackcommerce_widget-4 > .pb--6.mb--10.border--bottom--gray.heading--tiny
 ghacks.net##.stackCommerceItemWrap
+gizmodo.com##[class*="sticky.instream"]
+gizmodo.com##[class*="instream-permalink"]
+gizmodo.com##[class*="related-stories-inset"]
+glassdoor.com##[class*="hardsell"]
 glassdoor.com##.actionBarMt0.modal_main
 glassdoor.com##.background-overlay
-glassdoor.com##.gdGrid.hardsellOverlay
-glassdoor.com##.hardsellContainer.flex-column.align-items-center.justify-content-center.d-flex
-glassdoor.com##.pt-xxl.pb-m-std.pb-72.hardsell
 golang.org##.Header-banner
 grubhub.com##[class*="ppx-upsell-wrapper"]
 haaretz.com##.footer-ruler
