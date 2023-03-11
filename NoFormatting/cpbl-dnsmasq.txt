@@ -5,7 +5,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/10/23~05:14:51 -~
+# ~- 03/11/23~21:50:47 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -8981,6 +8981,7 @@ address=/ads.zdn.vn/#
 address=/ads.zdnet.com/#
 address=/ads.zilesinopti.ro/#
 address=/ads.ztod.com/#
+address=/ads.zynga.com/#
 address=/ads01.com/#
 address=/ads03.redtube.com/#
 address=/ads1-adnow.com/#
@@ -65590,6 +65591,7 @@ address=/log-baonghean.zadn.vn/#
 address=/log-baophapluat.zadn.vn/#
 address=/log-bizlive.zadn.vn/#
 address=/log-collector.shopee.vn/#
+address=/log-collector.svctr.zynga.com/#
 address=/log-collectors-73517960.us-east-1.elb.amazonaws.com/#
 address=/log-eap-sg.coloros.com/#
 address=/log-gateway.zoom.us/#
@@ -122393,7 +122395,6 @@ address=/zymerget.win/#
 address=/zymro.com/#
 address=/zynga-poker-hack.net/#
 address=/zynga-poker-hacks.com/#
-address=/zynga.com/#
 address=/zynga2-a.akamaihd.net/#
 address=/zyngapoker.hackfree.us/#
 address=/zyngapokerchips4free.com/#

@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/10/23~05:14:38 -~
+# ~- 03/11/23~21:50:33 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -8981,6 +8981,7 @@
 *.ads.zdnet.com
 *.ads.zilesinopti.ro
 *.ads.ztod.com
+*.ads.zynga.com
 *.ads01.com
 *.ads03.redtube.com
 *.ads1-adnow.com
@@ -65590,6 +65591,7 @@
 *.log-baophapluat.zadn.vn
 *.log-bizlive.zadn.vn
 *.log-collector.shopee.vn
+*.log-collector.svctr.zynga.com
 *.log-collectors-73517960.us-east-1.elb.amazonaws.com
 *.log-eap-sg.coloros.com
 *.log-gateway.zoom.us
@@ -122393,7 +122395,6 @@
 *.zymro.com
 *.zynga-poker-hack.net
 *.zynga-poker-hacks.com
-*.zynga.com
 *.zynga2-a.akamaihd.net
 *.zyngapoker.hackfree.us
 *.zyngapokerchips4free.com

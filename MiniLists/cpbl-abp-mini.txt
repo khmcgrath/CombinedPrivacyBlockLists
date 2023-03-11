@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Fri Mar 10 01:10:05 PM UTC 2023
+! Updated: Sat Mar 11 09:39:18 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -7227,6 +7227,7 @@
 ||ads.zdnet.com^
 ||ads.zilesinopti.ro^
 ||ads.ztod.com^
+||ads.zynga.com^
 ||ads01.com^
 ||ads03.redtube.com^
 ||ads1-adnow.com^
@@ -46995,6 +46996,7 @@
 ||log-baophapluat.zadn.vn^
 ||log-bizlive.zadn.vn^
 ||log-collector.shopee.vn^
+||log-collector.svctr.zynga.com^
 ||log-collectors-73517960.us-east-1.elb.amazonaws.com^
 ||log-eap-sg.coloros.com^
 ||log-gateway.zoom.us^
@@ -86676,7 +86678,6 @@
 ||zymerget.stream^
 ||zymerget.win^
 ||zymro.com^
-||zynga.com^
 ||zynga2-a.akamaihd.net^
 ||zypanafo.pro^
 ||zypenetwork.com^

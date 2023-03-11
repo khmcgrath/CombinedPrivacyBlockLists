@@ -7219,6 +7219,7 @@ ads.zdn.vn
 ads.zdnet.com
 ads.zilesinopti.ro
 ads.ztod.com
+ads.zynga.com
 ads01.com
 ads03.redtube.com
 ads1-adnow.com
@@ -46989,6 +46990,7 @@ log-baonghean.zadn.vn
 log-baophapluat.zadn.vn
 log-bizlive.zadn.vn
 log-collector.shopee.vn
+log-collector.svctr.zynga.com
 log-collectors-73517960.us-east-1.elb.amazonaws.com
 log-eap-sg.coloros.com
 log-gateway.zoom.us
@@ -86670,7 +86672,6 @@ zymerget.party
 zymerget.stream
 zymerget.win
 zymro.com
-zynga.com
 zynga2-a.akamaihd.net
 zypanafo.pro
 zypenetwork.com
