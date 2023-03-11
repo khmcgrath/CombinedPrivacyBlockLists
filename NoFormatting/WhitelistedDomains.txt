@@ -541,7 +541,6 @@ pro.ip-api.com
 production-cmp.isgprivacy.cbsi.com
 progressive.com
 proxy.novafusion.ea.com
-public.vilynx.com
 publish0x.com
 publishers.basicattentiontoken.org
 purch.com
