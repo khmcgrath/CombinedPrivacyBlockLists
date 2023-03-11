@@ -1,4 +1,4 @@
-// **** Fri Mar 10 04:59:33 AM UTC 2023
+// **** Sat Mar 11 09:36:10 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -3723,6 +3723,7 @@ shExpMatch(host, "*.ads.zdn.vn") ||
 shExpMatch(host, "*.ads.zdnet.com") ||
 shExpMatch(host, "*.ads.zilesinopti.ro") ||
 shExpMatch(host, "*.ads.ztod.com") ||
+shExpMatch(host, "*.ads.zynga.com") ||
 shExpMatch(host, "*.ads01.com") ||
 shExpMatch(host, "*.ads04.tapsense.com") ||
 shExpMatch(host, "*.ads1-adnow.com") ||
@@ -22894,6 +22895,7 @@ shExpMatch(host, "*.log-baonghean.zadn.vn") ||
 shExpMatch(host, "*.log-baophapluat.zadn.vn") ||
 shExpMatch(host, "*.log-bizlive.zadn.vn") ||
 shExpMatch(host, "*.log-collector.shopee.vn") ||
+shExpMatch(host, "*.log-collector.svctr.zynga.com") ||
 shExpMatch(host, "*.log-collectors-73517960.us-east-1.elb.amazonaws.com") ||
 shExpMatch(host, "*.log-eap-sg.coloros.com") ||
 shExpMatch(host, "*.log-giacngo.zadn.vn") ||
@@ -40052,7 +40054,6 @@ shExpMatch(host, "*.zymerget.faith") ||
 shExpMatch(host, "*.zymerget.party") ||
 shExpMatch(host, "*.zymerget.stream") ||
 shExpMatch(host, "*.zymerget.win") ||
-shExpMatch(host, "*.zynga.com") ||
 shExpMatch(host, "*.zynga2-a.akamaihd.net") ||
 shExpMatch(host, "*.zyq2.destinia.sk") ||
 shExpMatch(host, "*.zytrox.tk") ||
@@ -43778,6 +43779,7 @@ shExpMatch(host, "ads.zdn.vn") ||
 shExpMatch(host, "ads.zdnet.com") ||
 shExpMatch(host, "ads.zilesinopti.ro") ||
 shExpMatch(host, "ads.ztod.com") ||
+shExpMatch(host, "ads.zynga.com") ||
 shExpMatch(host, "ads01.com") ||
 shExpMatch(host, "ads04.tapsense.com") ||
 shExpMatch(host, "ads1-adnow.com") ||
@@ -62949,6 +62951,7 @@ shExpMatch(host, "log-baonghean.zadn.vn") ||
 shExpMatch(host, "log-baophapluat.zadn.vn") ||
 shExpMatch(host, "log-bizlive.zadn.vn") ||
 shExpMatch(host, "log-collector.shopee.vn") ||
+shExpMatch(host, "log-collector.svctr.zynga.com") ||
 shExpMatch(host, "log-collectors-73517960.us-east-1.elb.amazonaws.com") ||
 shExpMatch(host, "log-eap-sg.coloros.com") ||
 shExpMatch(host, "log-giacngo.zadn.vn") ||
@@ -80107,7 +80110,6 @@ shExpMatch(host, "zymerget.faith") ||
 shExpMatch(host, "zymerget.party") ||
 shExpMatch(host, "zymerget.stream") ||
 shExpMatch(host, "zymerget.win") ||
-shExpMatch(host, "zynga.com") ||
 shExpMatch(host, "zynga2-a.akamaihd.net") ||
 shExpMatch(host, "zyq2.destinia.sk") ||
 shExpMatch(host, "zytrox.tk") ||
