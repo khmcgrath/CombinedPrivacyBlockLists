@@ -763,3 +763,4 @@ yui.yahooapis.com
 zendesk.com
 zombo.com
 ztd.dds.microsoft.com
+zynga.com

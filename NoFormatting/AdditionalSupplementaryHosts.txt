@@ -51732,7 +51732,6 @@
 0.0.0.0 zymerget.party
 0.0.0.0 zymerget.stream
 0.0.0.0 zymerget.win
-0.0.0.0 zynga.com
 0.0.0.0 zynga2-a.akamaihd.net
 0.0.0.0 zyq2.destinia.sk
 0.0.0.0 zytrox.tk

@@ -383,6 +383,7 @@
 ^(www\.)?ytmnd\.com$
 ^(www\.)?zendesk\.com$
 ^(www\.)?zombo\.com$
+^(www\.)?zynga\.com$
 ^0\.client-channel\.google\.com$
 ^2\.android\.pool\.ntp\.org$
 ^a\.fsdn\.com$
