@@ -47,7 +47,6 @@
 ^(www\.)?babbel\.com$
 ^(www\.)?basicattentiontoken\.org$
 ^(www\.)?bbc\.com$
-^(www\.)?bblck\.me$
 ^(www\.)?beforeitsnews\.com$
 ^(www\.)?bet365\.com$
 ^(www\.)?beyondsecurity\.com$
@@ -714,7 +713,6 @@
 ^spclient\.spotify\.com$
 ^spclient\.wg\.spotify\.com$
 ^src\.litix\.io$
-^ssl\.bblck\.me$
 ^ssl\.o\.auspost\.com\.au$
 ^ssl\.o\.webmd\.com$
 ^ssl\.reddit\.com$
