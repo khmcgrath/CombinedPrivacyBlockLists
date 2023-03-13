@@ -5,7 +5,7 @@ The [update-pac.sh file](https://github.com/bongochong/CombinedPrivacyBlockLists
 
 - You must have the dependencies mentioned on the main readme installed to utilize this script.
 
-- This script processes both **plain domain lists** and **hosts files**. Though the former is preferred, both types of lists should work just fine.
+- This script processes both **plain domain lists** and **hosts files** (including entries which are **followed** by comments on the same line). Though the former is preferred, both types of lists should work just fine.
 
 - Domain list subscriptions can be modified directly in the script itself. All of them are prepended with the `wget` command. You may add and remove whatever sources you wish.
 
