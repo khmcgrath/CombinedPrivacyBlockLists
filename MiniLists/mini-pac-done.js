@@ -1,4 +1,4 @@
-// **** Sun Mar 12 12:33:24 AM UTC 2023
+// **** Mon Mar 13 06:18:35 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -4216,19 +4216,6 @@ shExpMatch(host, "*.adsring.com") ||
 shExpMatch(host, "*.adsrocket.net") ||
 shExpMatch(host, "*.adsroller.com") ||
 shExpMatch(host, "*.adsroute.com") ||
-shExpMatch(host, "*.adsrv.deviantart.com") ||
-shExpMatch(host, "*.adsrv.dispatch.com") ||
-shExpMatch(host, "*.adsrv.hpg.com.br") ||
-shExpMatch(host, "*.adsrv.io") ||
-shExpMatch(host, "*.adsrv.iol.co.za") ||
-shExpMatch(host, "*.adsrv.kamehameha.click") ||
-shExpMatch(host, "*.adsrv.kobi.tv") ||
-shExpMatch(host, "*.adsrv.lua.pl") ||
-shExpMatch(host, "*.adsrv.me") ||
-shExpMatch(host, "*.adsrv.moebelmarkt.tv") ||
-shExpMatch(host, "*.adsrv.tuscaloosanews.com") ||
-shExpMatch(host, "*.adsrv.wilmingtonstar.com") ||
-shExpMatch(host, "*.adsrv.wtf") ||
 shExpMatch(host, "*.adsrv2.swidnica24.pl") ||
 shExpMatch(host, "*.adsrv2.wilmingtonstar.com") ||
 shExpMatch(host, "*.adsrv4k.com") ||
@@ -35854,6 +35841,7 @@ shExpMatch(host, "*.tracking.5-47737-bi.co.uk") ||
 shExpMatch(host, "*.tracking.adgoon.it") ||
 shExpMatch(host, "*.tracking.ads.global-fashion-group.com") ||
 shExpMatch(host, "*.tracking.adsbot.kr") ||
+shExpMatch(host, "*.tracking.adsrv.io") ||
 shExpMatch(host, "*.tracking.adweb.co.kr") ||
 shExpMatch(host, "*.tracking.aegpresents.com") ||
 shExpMatch(host, "*.tracking.affiliateclub.cz") ||
@@ -44264,19 +44252,6 @@ shExpMatch(host, "adsring.com") ||
 shExpMatch(host, "adsrocket.net") ||
 shExpMatch(host, "adsroller.com") ||
 shExpMatch(host, "adsroute.com") ||
-shExpMatch(host, "adsrv.deviantart.com") ||
-shExpMatch(host, "adsrv.dispatch.com") ||
-shExpMatch(host, "adsrv.hpg.com.br") ||
-shExpMatch(host, "adsrv.io") ||
-shExpMatch(host, "adsrv.iol.co.za") ||
-shExpMatch(host, "adsrv.kamehameha.click") ||
-shExpMatch(host, "adsrv.kobi.tv") ||
-shExpMatch(host, "adsrv.lua.pl") ||
-shExpMatch(host, "adsrv.me") ||
-shExpMatch(host, "adsrv.moebelmarkt.tv") ||
-shExpMatch(host, "adsrv.tuscaloosanews.com") ||
-shExpMatch(host, "adsrv.wilmingtonstar.com") ||
-shExpMatch(host, "adsrv.wtf") ||
 shExpMatch(host, "adsrv2.swidnica24.pl") ||
 shExpMatch(host, "adsrv2.wilmingtonstar.com") ||
 shExpMatch(host, "adsrv4k.com") ||
@@ -75902,6 +75877,7 @@ shExpMatch(host, "tracking.5-47737-bi.co.uk") ||
 shExpMatch(host, "tracking.adgoon.it") ||
 shExpMatch(host, "tracking.ads.global-fashion-group.com") ||
 shExpMatch(host, "tracking.adsbot.kr") ||
+shExpMatch(host, "tracking.adsrv.io") ||
 shExpMatch(host, "tracking.adweb.co.kr") ||
 shExpMatch(host, "tracking.aegpresents.com") ||
 shExpMatch(host, "tracking.affiliateclub.cz") ||
@@ -80098,6 +80074,7 @@ shExpMatch(host, "zynga2-a.akamaihd.net") ||
 shExpMatch(host, "zyq2.destinia.sk") ||
 shExpMatch(host, "zytrox.tk") ||
 shExpMatch(host, "admob.*") ||
+shExpMatch(host, "adsrv.*") ||
 shExpMatch(host, "adserv.*") ||
 shExpMatch(host, "adserve.*") ||
 shExpMatch(host, "adserver.*") ||
