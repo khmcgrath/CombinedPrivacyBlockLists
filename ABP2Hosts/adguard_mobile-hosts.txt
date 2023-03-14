@@ -1,4 +1,4 @@
-# Mon Mar 13 07:32:01 AM UTC 2023
+# Tue Mar 14 06:25:43 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3871,6 +3871,7 @@
 0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 ext-inv-cdn.prod.cloud.ogury.io
 0.0.0.0 extend.tv
+0.0.0.0 external-api.impression-neo.naver.com
 0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 extremereach.io
 0.0.0.0 exuberanteyes.com
