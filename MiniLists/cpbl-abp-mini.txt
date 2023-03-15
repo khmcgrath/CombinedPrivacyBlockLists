@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Tue Mar 14 06:46:34 PM UTC 2023
+! Updated: Wed Mar 15 02:43:03 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -87260,6 +87260,7 @@ mondoweiss.net##[class*="hustle-layout"]
 mondoweiss.net##[class*="hustle-optin"]
 mondoweiss.net##[class*="hustle-popup"]
 mondoweiss.net##[class*="mondo-ads"]
+msn.com##[data-t*="sponsored"]
 my.indeed.com##.MicroContentCard > .icl-Card--hasBorder.icl-Card
 my.indeed.com##.floating-tooltip.tooltip-type--SPELLING.resume-tooltip > div
 my.indeed.com##.icl-Alert--info.icl-Alert
