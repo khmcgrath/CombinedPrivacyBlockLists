@@ -13,4 +13,4 @@ The [update-btp2p.sh script](https://github.com/bongochong/CombinedPrivacyBlockL
 **Notes**:
 - If you don't know what you are doing and you deviate from the instructions, then you are being dumb.
 
-- The Windows version can be found here: https://github.com/bongochong/CWP-Utilities
+- The Windows version can be found here: https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/Cygwin

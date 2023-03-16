@@ -13,4 +13,4 @@ The [update-pac.sh file](https://github.com/bongochong/CombinedPrivacyBlockLists
 
 - If you don't know what you are doing and you deviate from the instructions, then you are being dumb.
 
-- The Windows version of this can be found here: https://github.com/bongochong/CWP-Utilities
+- The Windows version of this can be found here: https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/Cygwin
