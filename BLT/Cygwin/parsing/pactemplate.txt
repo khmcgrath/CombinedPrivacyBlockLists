@@ -10,6 +10,8 @@ shExpMatch(host, "adserving.*") ||
 shExpMatch(host, "banner.*") ||
 shExpMatch(host, "banners.*") ||
 shExpMatch(host, "errorhelpline24x7*") ||
+shExpMatch(host, "notoficationdelivery*") ||
+shExpMatch(host, "prostitutki*") ||
 shExpMatch(host, "pcmssecuresetup24x7*") ||
 shExpMatch(host, "pcsecuresafety24x7*") ||
 shExpMatch(host, "pcsecuresetup24x7*")
