@@ -16,7 +16,7 @@ Ad & malware-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscr
 | [**ABP**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt) ~ [**DNSMasq**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-dnsmasq.txt) ~ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-ctld.txt) ~ [**Wildcards**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt) ~ [**Bromite**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-bromite.dat) |
 
 
-| Harmful IP Addresses & Ranges | 
+| IP Addresses & Ranges | 
 | - |
 | [**CIDR**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final.cidr) ~ [**IPFilter (DAT)**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final-win.dat) ~ [**IPFilter (P2P)**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final.p2p) |
 
