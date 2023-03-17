@@ -5,7 +5,21 @@
   <img src="https://i.imgur.com/yZ6NnIW.png">
 </p>
 
-Ad & malware-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions, and more, all merged, sorted and de-duped from multiple reputable sources, along with my own research. The generation of these lists is automated via my homemade scripts and utilities, many of which are now available in a [subdirectory of this repository](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT). Said utilities can be installed with a simple [install script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/cpbl-installer.sh) or [one liner](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/README.md), for ease of use. Most content in this repo is approved by Richard Stallman himself (theoretically). Use as you see fit.  
+Ad & malware-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions, and more, all merged, sorted and de-duped from multiple reputable sources, along with my own research. The generation of these lists is automated via my homemade scripts and utilities, many of which are now available in a [subdirectory of this repository](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT). Said utilities can be installed with a simple [install script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/cpbl-installer.sh) or [one liner](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/README.md), for ease of use. Most content in this repo is approved by Richard Stallman himself (theoretically). Use as you see fit, but do continue reading.  
+
+| Traditional |
+| - |
+| [**Standard Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts) ~ [**Windows Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win.hosts) ~ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/BlacklistedDomains.txt) ~ [**PAC**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/pac-done.js) |
+
+| TLD-Optimized |
+| - |
+| [**ABP**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt) ~ [**DNSMasq**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-dnsmasq.txt) ~ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-ctld.txt) ~ [**Wildcards**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt) ~ [**Bromite**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-bromite.dat) |
+
+
+| Harmful IP Addresses & Ranges | 
+| - |
+| [**CIDR**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final.cidr) ~ [**IPFilter (DAT)**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final-win.dat) ~ [**IPFilter (P2P)**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final.p2p) |
+
 
 My lists block malicious and harmfully deceptive content, like advertising, tracking, telemetry, scam, and malware servers. The lists **do not** block porn, social media, or so-called "fake news" domains, except for the advertising, tracking, telemetry, scam, and malware servers associated with such sites. False positives and invalid entries are [rigorously](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/WhitelistedDomains.txt) [removed](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/parsing/tld-filter.dat) from all lists, and the hosts files are processed by an IDN-to-Punycode conversion routine (meaning that they can be utilized on *all* operating systems). In short, these block lists are both comprehensive and universally compatible, while remaining reasonable in size + scope, and free of censorship. If you find yourself in need of slimmer or somewhat less aggressive lists, I generate [Mini or *Light* variants](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/MiniLists) with every update.  
 

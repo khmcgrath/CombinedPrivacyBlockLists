@@ -15,7 +15,7 @@ Within this directory are the following items:
 
 - The [wildcard version](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt) of my main hosts file, complete with the same FQDN-reduction / TLD-optimization and supplementary whitelisting that my ABP/uBO/AG/Bromite and PAC lists benefit from.  
 
-- My full / standard [dnsmasq blacklist](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-dnsmasq.txt) (tld-compressed, of course).  
+- My full [dnsmasq blacklist](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-dnsmasq.txt) (tld-compressed, of course).  
 
 - A plain list of [the domains blocked by my main hosts files](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/BlacklistedDomains.txt).  
 
