@@ -8,7 +8,11 @@ shExpMatch(host, "adserve.*") ||
 shExpMatch(host, "adserver.*") ||
 shExpMatch(host, "adserving.*") ||
 shExpMatch(host, "banner.*") ||
-shExpMatch(host, "banners.*")
+shExpMatch(host, "banners.*") ||
+shExpMatch(host, "errorhelpline24x7*") ||
+shExpMatch(host, "pcmssecuresetup24x7*") ||
+shExpMatch(host, "pcsecuresafety24x7*") ||
+shExpMatch(host, "pcsecuresetup24x7*")
        ) {
        return "PROXY 0.0.0.0";
        }
