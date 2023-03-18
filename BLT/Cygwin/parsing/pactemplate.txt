@@ -2,19 +2,25 @@ function FindProxyForURL(url, host) {
    if (
 
 shExpMatch(host, "admob.*") ||
-shExpMatch(host, "adsrv.*") ||
 shExpMatch(host, "adserv.*") ||
 shExpMatch(host, "adserve.*") ||
 shExpMatch(host, "adserver.*") ||
 shExpMatch(host, "adserving.*") ||
+shExpMatch(host, "adsrv.*") ||
 shExpMatch(host, "banner.*") ||
 shExpMatch(host, "banners.*") ||
+shExpMatch(host, "daionlineas*") ||
+shExpMatch(host, "dateasesonlineas*") ||
+shExpMatch(host, "datematefor*") ||
+shExpMatch(host, "datemenowfor*") ||
 shExpMatch(host, "errorhelpline24x7*") ||
+shExpMatch(host, "fuckfreenow*") ||
+shExpMatch(host, "fuckmenow*") ||
 shExpMatch(host, "notoficationdelivery*") ||
-shExpMatch(host, "prostitutki*") ||
 shExpMatch(host, "pcmssecuresetup24x7*") ||
 shExpMatch(host, "pcsecuresafety24x7*") ||
-shExpMatch(host, "pcsecuresetup24x7*")
+shExpMatch(host, "pcsecuresetup24x7*") ||
+shExpMatch(host, "prostitutki*")
        ) {
        return "PROXY 0.0.0.0";
        }
