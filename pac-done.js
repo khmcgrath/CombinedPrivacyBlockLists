@@ -1,4 +1,4 @@
-// **** Fri Mar 17 08:28:45 PM UTC 2023
+// **** Sat Mar 18 08:44:07 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -13532,9 +13532,6 @@ shExpMatch(host, "*.dailytradingoptions.co.uk") ||
 shExpMatch(host, "*.dailyushistory.com") ||
 shExpMatch(host, "*.daimlerag.d2.sc.omtrdc.net") ||
 shExpMatch(host, "*.dainikjeevan.com") ||
-shExpMatch(host, "*.daionlineasxx1.azurewebsites.net") ||
-shExpMatch(host, "*.daionlineasxx27.azurewebsites.net") ||
-shExpMatch(host, "*.daionlineasxx30.azurewebsites.net") ||
 shExpMatch(host, "*.daisy101.ddns.net") ||
 shExpMatch(host, "*.dajems.live") ||
 shExpMatch(host, "*.dajers.live") ||
@@ -13708,20 +13705,7 @@ shExpMatch(host, "*.datauth.io") ||
 shExpMatch(host, "*.dataxu.com") ||
 shExpMatch(host, "*.datazoom.io") ||
 shExpMatch(host, "*.date4sex.pro") ||
-shExpMatch(host, "*.dateasesonlineasws14.azurewebsites.net") ||
-shExpMatch(host, "*.dateasesonlineasws36.azurewebsites.net") ||
-shExpMatch(host, "*.dateasesonlineasws49.azurewebsites.net") ||
 shExpMatch(host, "*.dateing.club") ||
-shExpMatch(host, "*.datemateforfuckfuccckkkmee13.azurewebsites.net") ||
-shExpMatch(host, "*.datemateforfuckfuccckkkmeee3.azurewebsites.net") ||
-shExpMatch(host, "*.datemateforfuckfuccckkkmm11.azurewebsites.net") ||
-shExpMatch(host, "*.datemateforfuckfuccckkkmm15.azurewebsites.net") ||
-shExpMatch(host, "*.datemateforfuckfuccckkkmm19.azurewebsites.net") ||
-shExpMatch(host, "*.datemateforfuckfuccckkkmm21.azurewebsites.net") ||
-shExpMatch(host, "*.datemateforfuckfuccckkkmm25.azurewebsites.net") ||
-shExpMatch(host, "*.datemateforfuckfuccckkkmm27.azurewebsites.net") ||
-shExpMatch(host, "*.datemenowforfuckfuccckkkk1.azurewebsites.net") ||
-shExpMatch(host, "*.datemenowforfuckfuccckkkk6.azurewebsites.net") ||
 shExpMatch(host, "*.datems.live") ||
 shExpMatch(host, "*.datenbank.mobi") ||
 shExpMatch(host, "*.datenhaus.info") ||
@@ -18141,16 +18125,8 @@ shExpMatch(host, "*.ftvcash.com") ||
 shExpMatch(host, "*.fubuy60w.email") ||
 shExpMatch(host, "*.fuckbookdating.com") ||
 shExpMatch(host, "*.fuckchriscollingsworth.com") ||
-shExpMatch(host, "*.fuckfreenow10.azurewebsites.net") ||
-shExpMatch(host, "*.fuckfreenow13.azurewebsites.net") ||
-shExpMatch(host, "*.fuckfreenow14.azurewebsites.net") ||
-shExpMatch(host, "*.fuckfreenow2.azurewebsites.net") ||
 shExpMatch(host, "*.fuckherin69.site") ||
 shExpMatch(host, "*.fuckingmy.life") ||
-shExpMatch(host, "*.fuckmenoww17.azurewebsites.net") ||
-shExpMatch(host, "*.fuckmenoww24.azurewebsites.net") ||
-shExpMatch(host, "*.fuckmenowwx1.azurewebsites.net") ||
-shExpMatch(host, "*.fuckmenowwx7.azurewebsites.net") ||
 shExpMatch(host, "*.fuckmore.com") ||
 shExpMatch(host, "*.fuckyoucash.com") ||
 shExpMatch(host, "*.fucos.live") ||
@@ -58753,9 +58729,6 @@ shExpMatch(host, "dailytradingoptions.co.uk") ||
 shExpMatch(host, "dailyushistory.com") ||
 shExpMatch(host, "daimlerag.d2.sc.omtrdc.net") ||
 shExpMatch(host, "dainikjeevan.com") ||
-shExpMatch(host, "daionlineasxx1.azurewebsites.net") ||
-shExpMatch(host, "daionlineasxx27.azurewebsites.net") ||
-shExpMatch(host, "daionlineasxx30.azurewebsites.net") ||
 shExpMatch(host, "daisy101.ddns.net") ||
 shExpMatch(host, "dajems.live") ||
 shExpMatch(host, "dajers.live") ||
@@ -58929,20 +58902,7 @@ shExpMatch(host, "datauth.io") ||
 shExpMatch(host, "dataxu.com") ||
 shExpMatch(host, "datazoom.io") ||
 shExpMatch(host, "date4sex.pro") ||
-shExpMatch(host, "dateasesonlineasws14.azurewebsites.net") ||
-shExpMatch(host, "dateasesonlineasws36.azurewebsites.net") ||
-shExpMatch(host, "dateasesonlineasws49.azurewebsites.net") ||
 shExpMatch(host, "dateing.club") ||
-shExpMatch(host, "datemateforfuckfuccckkkmee13.azurewebsites.net") ||
-shExpMatch(host, "datemateforfuckfuccckkkmeee3.azurewebsites.net") ||
-shExpMatch(host, "datemateforfuckfuccckkkmm11.azurewebsites.net") ||
-shExpMatch(host, "datemateforfuckfuccckkkmm15.azurewebsites.net") ||
-shExpMatch(host, "datemateforfuckfuccckkkmm19.azurewebsites.net") ||
-shExpMatch(host, "datemateforfuckfuccckkkmm21.azurewebsites.net") ||
-shExpMatch(host, "datemateforfuckfuccckkkmm25.azurewebsites.net") ||
-shExpMatch(host, "datemateforfuckfuccckkkmm27.azurewebsites.net") ||
-shExpMatch(host, "datemenowforfuckfuccckkkk1.azurewebsites.net") ||
-shExpMatch(host, "datemenowforfuckfuccckkkk6.azurewebsites.net") ||
 shExpMatch(host, "datems.live") ||
 shExpMatch(host, "datenbank.mobi") ||
 shExpMatch(host, "datenhaus.info") ||
@@ -63362,16 +63322,8 @@ shExpMatch(host, "ftvcash.com") ||
 shExpMatch(host, "fubuy60w.email") ||
 shExpMatch(host, "fuckbookdating.com") ||
 shExpMatch(host, "fuckchriscollingsworth.com") ||
-shExpMatch(host, "fuckfreenow10.azurewebsites.net") ||
-shExpMatch(host, "fuckfreenow13.azurewebsites.net") ||
-shExpMatch(host, "fuckfreenow14.azurewebsites.net") ||
-shExpMatch(host, "fuckfreenow2.azurewebsites.net") ||
 shExpMatch(host, "fuckherin69.site") ||
 shExpMatch(host, "fuckingmy.life") ||
-shExpMatch(host, "fuckmenoww17.azurewebsites.net") ||
-shExpMatch(host, "fuckmenoww24.azurewebsites.net") ||
-shExpMatch(host, "fuckmenowwx1.azurewebsites.net") ||
-shExpMatch(host, "fuckmenowwx7.azurewebsites.net") ||
 shExpMatch(host, "fuckmore.com") ||
 shExpMatch(host, "fuckyoucash.com") ||
 shExpMatch(host, "fucos.live") ||
@@ -90444,19 +90396,25 @@ shExpMatch(host, "zzb.bz") ||
 shExpMatch(host, "zzhengre.com") ||
 shExpMatch(host, "zzssfc.tk") ||
 shExpMatch(host, "admob.*") ||
-shExpMatch(host, "adsrv.*") ||
 shExpMatch(host, "adserv.*") ||
 shExpMatch(host, "adserve.*") ||
 shExpMatch(host, "adserver.*") ||
 shExpMatch(host, "adserving.*") ||
+shExpMatch(host, "adsrv.*") ||
 shExpMatch(host, "banner.*") ||
 shExpMatch(host, "banners.*") ||
+shExpMatch(host, "daionlineas*") ||
+shExpMatch(host, "dateasesonlineas*") ||
+shExpMatch(host, "datematefor*") ||
+shExpMatch(host, "datemenowfor*") ||
 shExpMatch(host, "errorhelpline24x7*") ||
+shExpMatch(host, "fuckfreenow*") ||
+shExpMatch(host, "fuckmenow*") ||
 shExpMatch(host, "notoficationdelivery*") ||
-shExpMatch(host, "prostitutki*") ||
 shExpMatch(host, "pcmssecuresetup24x7*") ||
 shExpMatch(host, "pcsecuresafety24x7*") ||
-shExpMatch(host, "pcsecuresetup24x7*")
+shExpMatch(host, "pcsecuresetup24x7*") ||
+shExpMatch(host, "prostitutki*")
        ) {
        return "PROXY 0.0.0.0";
        }
