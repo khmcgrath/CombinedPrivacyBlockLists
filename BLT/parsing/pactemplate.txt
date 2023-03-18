@@ -1,7 +1,9 @@
 function FindProxyForURL(url, host) {
    if (
 
+shExpMatch(host, "aa-metrics.*") ||
 shExpMatch(host, "admob.*") ||
+shExpMatch(host, "adobeanalytics.*") ||
 shExpMatch(host, "adserv.*") ||
 shExpMatch(host, "adserve.*") ||
 shExpMatch(host, "adserver.*") ||
@@ -9,6 +11,9 @@ shExpMatch(host, "adserving.*") ||
 shExpMatch(host, "adsrv.*") ||
 shExpMatch(host, "banner.*") ||
 shExpMatch(host, "banners.*") ||
+shExpMatch(host, "23moesian*") ||
+shExpMatch(host, "account-info0*") ||
+shExpMatch(host, "care887*") ||
 shExpMatch(host, "daionlineas*") ||
 shExpMatch(host, "dateasesonlineas*") ||
 shExpMatch(host, "datematefor*") ||
@@ -16,7 +21,9 @@ shExpMatch(host, "datemenowfor*") ||
 shExpMatch(host, "errorhelpline24x7*") ||
 shExpMatch(host, "fuckfreenow*") ||
 shExpMatch(host, "fuckmenow*") ||
+shExpMatch(host, "masihtidur-shoes*") ||
 shExpMatch(host, "notoficationdelivery*") ||
+shExpMatch(host, "org77supp*") ||
 shExpMatch(host, "pcmssecuresetup24x7*") ||
 shExpMatch(host, "pcsecuresafety24x7*") ||
 shExpMatch(host, "pcsecuresetup24x7*") ||
