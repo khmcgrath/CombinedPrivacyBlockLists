@@ -6,13 +6,13 @@ These are the *mini* editions of my block lists, for less capable devices and th
   
 Just like my main lists, there are *no-formatting* versions in the [NoFormatting](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/MiniLists/NoFormatting) sub-directory as well, such as a [plain list of blocked domains](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-BlacklistedDomains.txt), an [optimized wildcard blacklist](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-cpbl-wildcard-blacklist.txt), a [dnsmasq blacklist](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/cpbl-mini-dnsmasq.txt), and a [tld-compressed list](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/cpbl-mini-ctld.txt) of blocked domains. Here's a table:  
 
-| Traditional |
-| - |
-| [**Standard Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts) ǁ [**Windows Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-opt-win.hosts) ǁ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-BlacklistedDomains.txt) ǁ [**PAC**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-pac-done.js) |
-
 | TLD-Optimized |
 | - |
-| [**ABP**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/cpbl-abp-mini.txt) ǁ [**DNSMasq**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/cpbl-mini-dnsmasq.txt) ǁ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/cpbl-mini-ctld.txt) ǁ [**Wildcards**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-cpbl-wildcard-blacklist.txt) |
+| [**ABP**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/cpbl-abp-mini.txt) ǁ [**DNSMasq**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/cpbl-mini-dnsmasq.txt) ǁ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/cpbl-mini-ctld.txt) ǁ [**Wildcards**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-cpbl-wildcard-blacklist.txt) ǁ [**PAC**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-pac-done.js) |
+
+| Traditional |
+| - |
+| [**Standard Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts) ǁ [**Windows Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-opt-win.hosts) ǁ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-BlacklistedDomains.txt) |
 
 These lists will obviously not block as much content as the main lists, but they will still block *a whole lot*, thus significantly improving your experience on the world wide web.
   

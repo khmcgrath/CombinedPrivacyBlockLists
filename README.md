@@ -7,14 +7,13 @@
 
 Ad & malware-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions, and more, all merged, sorted and de-duped from multiple reputable sources, along with my own research. The generation of these lists is automated via my homemade scripts and utilities, many of which are now available in a [subdirectory of this repository](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT). Said utilities can be installed with a simple [install script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/cpbl-installer.sh) or [one liner](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/README.md), for ease of use. Most content in this repo is approved by Richard Stallman himself (theoretically). Use as you see fit, but do continue reading.  
 
-| Traditional |
-| - |
-| [**Standard Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts) ǁ [**Windows Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win.hosts) ǁ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/BlacklistedDomains.txt) ǁ [**PAC**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/pac-done.js) |
-
 | TLD-Optimized |
 | - |
-| [**ABP**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt) ǁ [**DNSMasq**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-dnsmasq.txt) ǁ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-ctld.txt) ǁ [**Wildcards**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt) ǁ [**Bromite**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-bromite.dat) |
+| [**ABP**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt) ǁ [**DNSMasq**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-dnsmasq.txt) ǁ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-ctld.txt) ǁ [**Wildcards**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt) ǁ [**Bromite**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-bromite.dat) ǁ [**PAC**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/pac-done.js) |
 
+| Traditional |
+| - |
+| [**Standard Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts) ǁ [**Windows Hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win.hosts) ǁ [**Domains**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/BlacklistedDomains.txt) |
 
 | IP Addresses & Ranges | 
 | - |
