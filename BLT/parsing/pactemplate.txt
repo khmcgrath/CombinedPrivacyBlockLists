@@ -2,15 +2,37 @@ function FindProxyForURL(url, host) {
    if (
 
 shExpMatch(host, "aa-metrics.*") ||
+shExpMatch(host, "adbmetrics.*") ||
+shExpMatch(host, "adbsmetrics.*") ||
 shExpMatch(host, "admob.*") ||
 shExpMatch(host, "adobeanalytics.*") ||
+shExpMatch(host, "adsapi.*") ||
+shExpMatch(host, "adsatt.*") ||
 shExpMatch(host, "adserv.*") ||
 shExpMatch(host, "adserve.*") ||
 shExpMatch(host, "adserver.*") ||
 shExpMatch(host, "adserving.*") ||
 shExpMatch(host, "adsrv.*") ||
+shExpMatch(host, "advrts.*") ||
 shExpMatch(host, "banner.*") ||
 shExpMatch(host, "banners.*") ||
+shExpMatch(host, "track.msadcenter.*") ||
+shExpMatch(host, "www.aa-metrics.*") ||
+shExpMatch(host, "www.adbmetrics.*") ||
+shExpMatch(host, "www.adbsmetrics.*") ||
+shExpMatch(host, "www.admob.*") ||
+shExpMatch(host, "www.adobeanalytics.*") ||
+shExpMatch(host, "www.adsapi.*") ||
+shExpMatch(host, "www.adsatt.*") ||
+shExpMatch(host, "www.adserv.*") ||
+shExpMatch(host, "www.adserve.*") ||
+shExpMatch(host, "www.adserver.*") ||
+shExpMatch(host, "www.adserving.*") ||
+shExpMatch(host, "www.adsrv.*") ||
+shExpMatch(host, "www.advrts.*") ||
+shExpMatch(host, "www.banner.*") ||
+shExpMatch(host, "www.banners.*") ||
+shExpMatch(host, "www.track.msadcenter.*") ||
 shExpMatch(host, "data-44a005f23c.*") ||
 shExpMatch(host, "data-452782981b.*") ||
 shExpMatch(host, "data-497ecca600.*") ||
@@ -26,7 +48,11 @@ shExpMatch(host, "data-f59db3288b.*") ||
 shExpMatch(host, "data-fdf4690b14.*") ||
 shExpMatch(host, "23moesian*") ||
 shExpMatch(host, "account-info0*") ||
+shExpMatch(host, "active-cupo-*") ||
+shExpMatch(host, "aumento-cupo-*") ||
+shExpMatch(host, "avance-cupo-*") ||
 shExpMatch(host, "care887*") ||
+shExpMatch(host, "copris7-*") ||
 shExpMatch(host, "daionlineas*") ||
 shExpMatch(host, "dateasesonlineas*") ||
 shExpMatch(host, "datematefor*") ||
@@ -34,13 +60,25 @@ shExpMatch(host, "datemenowfor*") ||
 shExpMatch(host, "errorhelpline24x7*") ||
 shExpMatch(host, "fuckfreenow*") ||
 shExpMatch(host, "fuckmenow*") ||
+shExpMatch(host, "hayalanphezor-*") ||
+shExpMatch(host, "hvgjgj-*") ||
 shExpMatch(host, "masihtidur-shoes*") ||
+shExpMatch(host, "noticesumartyas-*") ||
 shExpMatch(host, "notoficationdelivery*") ||
 shExpMatch(host, "org77supp*") ||
 shExpMatch(host, "pcmssecuresetup24x7*") ||
 shExpMatch(host, "pcsecuresafety24x7*") ||
 shExpMatch(host, "pcsecuresetup24x7*") ||
-shExpMatch(host, "prostitutki*")
+shExpMatch(host, "prostitutki*") ||
+shExpMatch(host, "ressstauww*") ||
+shExpMatch(host, "solution23*") ||
+shExpMatch(host, "suppamz2*") ||
+shExpMatch(host, "sux71a37*") ||
+shExpMatch(host, "warningprotokol*") ||
+shExpMatch(host, "winb2as*") ||
+shExpMatch(host, "wixclwardwual*") ||
+shExpMatch(host, "xyxyxyx*") ||
+shExpMatch(host, "zxcsaxb*")
        ) {
        return "PROXY 0.0.0.0";
        }
