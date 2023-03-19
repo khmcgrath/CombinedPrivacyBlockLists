@@ -1,4 +1,4 @@
-// **** Sat Mar 18 10:21:25 PM UTC 2023
+// **** Sun Mar 19 12:00:18 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -75799,6 +75799,19 @@ shExpMatch(host, "adserving.*") ||
 shExpMatch(host, "adsrv.*") ||
 shExpMatch(host, "banner.*") ||
 shExpMatch(host, "banners.*") ||
+shExpMatch(host, "data-44a005f23c.*") ||
+shExpMatch(host, "data-452782981b.*") ||
+shExpMatch(host, "data-497ecca600.*") ||
+shExpMatch(host, "data-60d896f23d.*") ||
+shExpMatch(host, "data-67f17c94f0.*") ||
+shExpMatch(host, "data-6dde45f576.*") ||
+shExpMatch(host, "data-84a0f3455d.*") ||
+shExpMatch(host, "data-908fd409d9.*") ||
+shExpMatch(host, "data-c5740f79ff.*") ||
+shExpMatch(host, "data-c5925d7d99.*") ||
+shExpMatch(host, "data-f1e447fbcf.*") ||
+shExpMatch(host, "data-f59db3288b.*") ||
+shExpMatch(host, "data-fdf4690b14.*") ||
 shExpMatch(host, "23moesian*") ||
 shExpMatch(host, "account-info0*") ||
 shExpMatch(host, "care887*") ||
