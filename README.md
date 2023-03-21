@@ -54,6 +54,8 @@ These tools are modified versions of the ones I run on my GNU/Linux boxes. I tes
 
 In addition, please see [**My CWP Utilities Repository**](https://github.com/bongochong/CWP-Utilities): Which contains fully functional Windows versions of the utilities listed above, compatible with both 32 and 64-bit versions of Windows. These are friendlier versions of my GNU/Linux tools, bundled with the necessary dependencies, distributed with an integrated, easy-to-use, and coherent interface.  
 
+<sub>**Notice**: Due to resource considerations, I will likely have to re-initialize this repository without a commit history soon. Six years of commits make for one huge .git directory, and re-basing + pruning + garbage collection can only do so much. Everything important will still be here, but don't be surprised if you check back here some day and only see two or three commits in the logs. This started as a purely personal project, and an attempt to replicate the functionality of some very useful - and now defunct - software titles, but in the form of bash scripts. It has grown into a good deal more than that, and I am very pleased that others find my efforts useful.</sub>  
+
 <p align="center"><img src="https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Misc/CPBL-Clacks.gif" alt="GNU Terry Pratchett | Carpentry Get Truth | A.M.K."></p>
 
 # <a name="footnotes"></a>
