@@ -703,6 +703,7 @@ urbanairship.com
 urbantoronto.ca
 us-east-1.amazonaws.com
 us.i1.yimg.com
+us.tags.newscgp.com
 usbank-app.quantummetric.com
 usda.gov
 use.fontawesome.com

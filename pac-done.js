@@ -1,4 +1,4 @@
-// **** Thu Mar 23 04:14:59 PM UTC 2023
+// **** Thu Mar 23 07:28:18 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -29778,7 +29778,6 @@ shExpMatch(host, "*.us.claroadsxml.com") ||
 shExpMatch(host, "*.us.dev.zeronaught.com") ||
 shExpMatch(host, "*.us.pixel.newscgp.com") ||
 shExpMatch(host, "*.us.rewardearners.com") ||
-shExpMatch(host, "*.us.tags.newscgp.com") ||
 shExpMatch(host, "*.us04logfiles-va.zoom.us") ||
 shExpMatch(host, "*.us04logfiles.zoom.us") ||
 shExpMatch(host, "*.us1-sdk.bluedot.io") ||
@@ -61349,7 +61348,6 @@ shExpMatch(host, "us.claroadsxml.com") ||
 shExpMatch(host, "us.dev.zeronaught.com") ||
 shExpMatch(host, "us.pixel.newscgp.com") ||
 shExpMatch(host, "us.rewardearners.com") ||
-shExpMatch(host, "us.tags.newscgp.com") ||
 shExpMatch(host, "us04logfiles-va.zoom.us") ||
 shExpMatch(host, "us04logfiles.zoom.us") ||
 shExpMatch(host, "us1-sdk.bluedot.io") ||

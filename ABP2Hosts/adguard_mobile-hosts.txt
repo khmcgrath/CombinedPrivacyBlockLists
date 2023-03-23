@@ -8612,7 +8612,6 @@
 0.0.0.0 us.dev.zeronaught.com
 0.0.0.0 us.info.lgsmartad.com
 0.0.0.0 us.inmobi.koneomobiledsp.com
-0.0.0.0 us.tags.newscgp.com
 0.0.0.0 us.y.atwola.com
 0.0.0.0 us01.rayjump.com
 0.0.0.0 us04logfiles-va.zoom.us
