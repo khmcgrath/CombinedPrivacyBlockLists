@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Thu Mar 23 04:20:58 PM UTC 2023
+! Updated: Thu Mar 23 07:47:26 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -75764,7 +75764,6 @@
 ||us.lucanet.com^
 ||us.pixel.newscgp.com^
 ||us.rewardearners.com^
-||us.tags.newscgp.com^
 ||us04logfiles-va.zoom.us^
 ||us04logfiles.zoom.us^
 ||us1-sdk.bluedot.io^

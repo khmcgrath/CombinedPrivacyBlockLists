@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/23/23~16:32:31 -~
+# ~- 03/23/23~19:57:13 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -104956,7 +104956,6 @@
 *.tags.kone.com
 *.tags.master-perf-tools.com
 *.tags.news.com.au
-*.tags.newscgp.com
 *.tags.op-palvelut.fi
 *.tags.refinery89.com
 *.tags.soloway.ru

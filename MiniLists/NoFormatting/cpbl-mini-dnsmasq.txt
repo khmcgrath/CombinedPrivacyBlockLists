@@ -5,7 +5,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/23/23~16:32:49 -~
+# ~- 03/23/23~19:57:32 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -75780,7 +75780,6 @@ address=/us.dev.zeronaught.com/#
 address=/us.lucanet.com/#
 address=/us.pixel.newscgp.com/#
 address=/us.rewardearners.com/#
-address=/us.tags.newscgp.com/#
 address=/us04logfiles-va.zoom.us/#
 address=/us04logfiles.zoom.us/#
 address=/us1-sdk.bluedot.io/#

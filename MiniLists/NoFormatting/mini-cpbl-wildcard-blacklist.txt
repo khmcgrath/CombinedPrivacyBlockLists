@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/23/23~16:32:35 -~
+# ~- 03/23/23~19:57:18 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -75780,7 +75780,6 @@
 *.us.lucanet.com
 *.us.pixel.newscgp.com
 *.us.rewardearners.com
-*.us.tags.newscgp.com
 *.us04logfiles-va.zoom.us
 *.us04logfiles.zoom.us
 *.us1-sdk.bluedot.io

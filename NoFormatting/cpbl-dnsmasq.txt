@@ -5,7 +5,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/23/23~16:32:45 -~
+# ~- 03/23/23~19:57:27 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -104956,7 +104956,6 @@ address=/tags.johnlewis.com/#
 address=/tags.kone.com/#
 address=/tags.master-perf-tools.com/#
 address=/tags.news.com.au/#
-address=/tags.newscgp.com/#
 address=/tags.op-palvelut.fi/#
 address=/tags.refinery89.com/#
 address=/tags.soloway.ru/#
