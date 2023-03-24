@@ -47705,7 +47705,6 @@ address=/galin.live/#
 address=/galist.live/#
 address=/galit.live/#
 address=/galkama.info/#
-address=/gall.dcinside.com/#
 address=/gallerycrush.com/#
 address=/galleryimagesas.com.pl/#
 address=/galleryimagesas.net.pl/#

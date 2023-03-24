@@ -1340,7 +1340,6 @@
 0.0.0.0 gabriellerosephotography.com
 0.0.0.0 gainmagazine.net
 0.0.0.0 galileounaluna.com
-0.0.0.0 gall.dcinside.com
 0.0.0.0 gallerycrush.com
 0.0.0.0 gamedata.box.sk
 0.0.0.0 gamegoldonline.in
