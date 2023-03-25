@@ -1,4 +1,4 @@
-# Thu Mar 23 04:01:51 PM UTC 2023
+# Sat Mar 25 12:21:10 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -6506,7 +6506,6 @@
 0.0.0.0 qist.me
 0.0.0.0 qoisocrldvnesni.ru
 0.0.0.0 qps.cint.com
-0.0.0.0 qqcdnpictest.mxplay.com
 0.0.0.0 qqrp.adj.st
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qsearch.media.net

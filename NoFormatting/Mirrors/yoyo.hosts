@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 10 Mar 2023 20:49:49 GMT
-# entries:        3752
+# last updated:   Thu, 23 Mar 2023 22:00:53 GMT
+# entries:        3750
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 28 Mar 2003 00:00:00
+# start date:    Sun, 30 Mar 2003 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -826,7 +826,6 @@
 127.0.0.1 adsponse.de
 127.0.0.1 adspredictiv.com
 127.0.0.1 adspsp.com
-127.0.0.1 adsroller.com
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.iol.co.za
@@ -2548,7 +2547,6 @@
 127.0.0.1 oas.roanoke.com
 127.0.0.1 oas.toronto.com
 127.0.0.1 oas.uniontrib.com
-127.0.0.1 oas.villagevoice.com
 127.0.0.1 oascentral.chicagobusiness.com
 127.0.0.1 oascentral.fortunecity.com
 127.0.0.1 oascentral.register.com
@@ -3400,7 +3398,6 @@
 127.0.0.1 track.flexlinkspro.com
 127.0.0.1 track.freemmo2017.com
 127.0.0.1 track.game18click.com
-127.0.0.1 track.homejobs.careers
 127.0.0.1 track.lettingaproperty.com
 127.0.0.1 track.mailalert.io
 127.0.0.1 track.mailerlite.com
@@ -3659,6 +3656,7 @@
 127.0.0.1 webtrendslive.com
 127.0.0.1 webxcdn.com
 127.0.0.1 wellmadefrog.com
+127.0.0.1 welved.com
 127.0.0.1 werbung.meteoxpress.com
 127.0.0.1 wetrack.it
 127.0.0.1 whaleads.com
