@@ -29597,7 +29597,6 @@ shExpMatch(host, "*.treenvest.com") ||
 shExpMatch(host, "*.treffwerk.net") ||
 shExpMatch(host, "*.trekblue.com") ||
 shExpMatch(host, "*.trekdata.com") ||
-shExpMatch(host, "*.trello.com") ||
 shExpMatch(host, "*.tremember.info") ||
 shExpMatch(host, "*.tremendousplastic.com") ||
 shExpMatch(host, "*.tremendoustime.com") ||
@@ -61591,7 +61590,6 @@ shExpMatch(host, "treenvest.com") ||
 shExpMatch(host, "treffwerk.net") ||
 shExpMatch(host, "trekblue.com") ||
 shExpMatch(host, "trekdata.com") ||
-shExpMatch(host, "trello.com") ||
 shExpMatch(host, "tremember.info") ||
 shExpMatch(host, "tremendousplastic.com") ||
 shExpMatch(host, "tremendoustime.com") ||

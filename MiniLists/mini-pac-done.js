@@ -25262,7 +25262,6 @@ shExpMatch(host, "*.treehouse.wwoz.org") ||
 shExpMatch(host, "*.treenvest.com") ||
 shExpMatch(host, "*.treffwerk.net") ||
 shExpMatch(host, "*.trekdata.com") ||
-shExpMatch(host, "*.trello.com") ||
 shExpMatch(host, "*.tremember.info") ||
 shExpMatch(host, "*.tremendousplastic.com") ||
 shExpMatch(host, "*.tremendoustime.com") ||
@@ -52486,7 +52485,6 @@ shExpMatch(host, "treehouse.wwoz.org") ||
 shExpMatch(host, "treenvest.com") ||
 shExpMatch(host, "treffwerk.net") ||
 shExpMatch(host, "trekdata.com") ||
-shExpMatch(host, "trello.com") ||
 shExpMatch(host, "tremember.info") ||
 shExpMatch(host, "tremendousplastic.com") ||
 shExpMatch(host, "tremendoustime.com") ||
