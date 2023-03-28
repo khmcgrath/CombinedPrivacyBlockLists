@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/27/23~20:37:34 -~
+# ~- 03/28/23~00:52:34 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -142,10 +142,8 @@
 *.0d68d359dc.com
 *.0d847862199.com
 *.0d8is908gby1.www.terraform.com.ar
-*.0d94f.language.sebtomato.com
 *.0dc77eb60d.com
 *.0dcde44a41.com
-*.0e118.language.sebtomato.com
 *.0e24f9441d.com
 *.0ea0e010f8.com
 *.0ec9b365fd.com
@@ -490,6 +488,7 @@
 *.177c156af9.com
 *.177o.com
 *.1796kpkzuwj.www.hawpar.com
+*.17b25.lap.detroitdragway.com
 *.17chk.vip
 *.1800banners.com
 *.1800cnt.com
@@ -549,7 +548,6 @@
 *.1c174d5fe7.com
 *.1c204c05d2898056fd.com
 *.1c2e32f165.com
-*.1c5f3.language.sebtomato.com
 *.1ca47a451d.com
 *.1ca65f5f5b.com
 *.1ccbt.com
@@ -1100,7 +1098,6 @@
 *.35aad9f7.ngrok.io
 *.35caec29d1.com
 *.35kds.com
-*.360.lcy2zzx.pw
 *.360600.xyz
 *.360640.com
 *.360ads.com
@@ -1306,7 +1303,6 @@
 *.452tapgn.de
 *.4567.org
 *.45a8826890.com
-*.45acf.language.sebtomato.com
 *.45d2bbfb2a.com
 *.45eijvhgj2.com
 *.468.vologdainfo.ru
@@ -1561,7 +1557,6 @@
 *.5783.org
 *.57debc89a6.com
 *.57fd2911f09b76.com
-*.582eb.language.sebtomato.com
 *.5851a.com
 *.585227ybn.com
 *.587tuchuang.com
@@ -1697,7 +1692,6 @@
 *.6318537ccc.com
 *.6347032d45.com
 *.634lj7p7g3lv.unstoppabledomains.com
-*.63566.language.sebtomato.com
 *.6374870abd.com
 *.6399tp.com
 *.63c4861697.com
@@ -2102,6 +2096,7 @@
 *.8739792a55.com
 *.874547.men
 *.874af125b4.com
+*.874d3.lap.detroitdragway.com
 *.8761f9f83613.com
 *.876920.com
 *.87fgr4.site
@@ -2674,7 +2669,6 @@
 *.a2.xinhuanet.com
 *.a24help.ru
 *.a26662f21f.com
-*.a2724.language.sebtomato.com
 *.a28m.xyz
 *.a2914c746a.com
 *.a2cfb6f626.com
@@ -3199,7 +3193,6 @@
 *.ab4tn.com
 *.ab5sa.com
 *.ab913aa797e78b3.com
-*.aba0c.language.sebtomato.com
 *.abacaxiraptors.com
 *.abacho.net
 *.abackchain.com
@@ -3746,6 +3739,7 @@
 *.acodes.b2b.cn
 *.acofrnsr44es3954b.com
 *.acollo.info
+*.acompanhantescuritiba.org
 *.acoor-environnement.com
 *.acootaul.net
 *.acor1sign.com
@@ -15074,7 +15068,6 @@
 *.beap1.cb.g01.yahoodns.net
 *.bearagriculture.com
 *.bearbigger.top
-*.bearcatpumps.com.cn
 *.bearerassistance.com
 *.beargrizzler.win
 *.bearingpreoccupationadmonish.com
@@ -16459,6 +16452,7 @@
 *.bmetrack.com
 *.bmfads.com
 *.bmfeed.ru
+*.bmg.edu.vn
 *.bmhenchlyica.xyz
 *.bmjmse.softsurroundings.com
 *.bmjs.xzw.com
@@ -18873,6 +18867,7 @@
 *.celestia.es
 *.celestia.fr
 *.celestialcomet.cc
+*.celiklergoldtasarim.com
 *.celine-japan.com
 *.cellaraudacityslack.com
 *.cellarpassion.com
@@ -21176,6 +21171,7 @@
 *.congressaffrayghosts.com
 *.congsons.uno
 *.congtycamvinh.com
+*.congtykhoancatbetong.com
 *.conimicutlighthouse.viessmann-us.com
 *.coningweedery.store
 *.conjectureprecedingslippers.com
@@ -21479,6 +21475,7 @@
 *.conteresse.com
 *.conteresso.com
 *.conternet.com
+*.contest.eway24x7.com
 *.context-art.ru
 *.context-platform.com
 *.context.hotline.ua
@@ -25952,6 +25949,7 @@
 *.dmknott.com
 *.dmkt.point-ad-game.com
 *.dmkt.solutions.cas.org
+*.dmlifeinsurance.com
 *.dmm-video.online
 *.dmm.aizhan.com
 *.dmmzkfd82wayn.cloudfront.net
@@ -27579,6 +27577,7 @@
 *.eco-fly.ru
 *.eco-tag.jp
 *.ecoarch.com.tw
+*.ecofarmcafe.com
 *.ecofinads.com
 *.ecomadserver.com
 *.ecomm.events
@@ -28945,6 +28944,7 @@
 *.eraltradiansid.com
 *.erandex.com
 *.erapidassure.com
+*.eraport.dfirma.pl
 *.eraserindecent.com
 *.erb.tremblant.ca
 *.ercoeteasacom.com
@@ -30035,6 +30035,7 @@
 *.f6d56854f2.com
 *.f6dy9wgfbf.ru
 *.f709c496d6.com
+*.f7145.lap.detroitdragway.com
 *.f72f7994.green.mattingsolutions.co
 *.f775.thehour.com
 *.f78f9d3fc2.com
@@ -34995,6 +34996,7 @@
 *.googletrackmanager.com
 *.googlew.com
 *.googlo.co
+*.googlossal.com
 *.googlsyndication.com
 *.googlus.com
 *.googlydeal.com
@@ -35434,6 +35436,7 @@
 *.groupsales.sixflags.com
 *.grovebrainwashtroubles.com
 *.grovel.ru
+*.grow.gab.com
 *.grow.national.biz
 *.grow.restaurant365.com
 *.grow1maid.com
@@ -37860,6 +37863,7 @@
 *.hyfntrak.com
 *.hyfumxc.cn
 *.hyfx.me
+*.hygeiaindia.biz
 *.hygieneretorted.com
 *.hyhfimgg.com
 *.hyhfsj.com
@@ -40244,6 +40248,7 @@
 *.iwanad.baidu.com
 *.iwannabelike.art
 *.iwansf.com
+*.iwant.hu
 *.iwanttodeliver.com
 *.iwantu.com
 *.iwantuonly.com
@@ -40438,6 +40443,7 @@
 *.janglemysticalpiggy.com
 *.jangonetwork.com
 *.janiking.xyz
+*.janisthaaivf.com
 *.janitoraccrue.com
 *.janrain.xyz
 *.janshabd.com
@@ -40622,6 +40628,7 @@
 *.jeeryzest.com
 *.jeetyetmedia.com
 *.jefashivy.com
+*.jeffmorales.top
 *.jeffrey.hayzlett.com
 *.jeffstrategic.com
 *.jehobsee.com
@@ -42009,6 +42016,7 @@
 *.khjkhk.store
 *.khment.com
 *.kho088.com
+*.khoancatbetongtphcm.net
 *.khonosta.info
 *.khoteris.ru
 *.khovdimina.com
@@ -42854,6 +42862,7 @@
 *.kzhjpnv.cn
 *.kzhtgnv.cn
 *.kzkmmbrrzn.com
+*.kzlegacy.com
 *.kzngisyd.xyz
 *.kzsfip3v.cfd
 *.kzsicw.chip.de
@@ -43071,6 +43080,7 @@
 *.lane5down.com
 *.lanewsendelire.fr
 *.langkefaye.top
+*.language.sebtomato.com
 *.languagelake.com
 *.langueur.com
 *.lanistaads.com
@@ -43286,6 +43296,7 @@
 *.lcwfabt1.com
 *.lcwfabt2.com
 *.lcwfabt3.com
+*.lcy2zzx.pw
 *.lczk.cn
 *.ld.mediaget.com
 *.ld82ydd.com
@@ -45734,6 +45745,7 @@
 *.madh0use8.no-ip.org.ovh.net
 *.madh0use8.no-ip.org
 *.madibarohilala.ddnsgeek.com
+*.madicon.co.za
 *.madinad.com
 *.madisonavenue.com
 *.madkudu.com
@@ -45905,6 +45917,7 @@
 *.mail.mydcdsitemail.com
 *.mail.navatala.net
 *.mail.neogensend.com
+*.mail.northjerseysinuscenter.com
 *.mail.officeworksoftwaremail.com
 *.mail.olay.es
 *.mail.olaz.de
@@ -48466,6 +48479,7 @@
 *.micghiga2n7ahjnnsar0fbor.com
 *.michaelianice.com
 *.michaelinachrysalis.com
+*.michaeljohnson.top
 *.michealmoyite.com
 *.michevrolet.com
 *.mickeysdim.com
@@ -48937,6 +48951,7 @@
 *.mmpool.org
 *.mmptrack.com
 *.mmrrk.top
+*.mms.26mai.net
 *.mms.cmpsky.com
 *.mms.cnn.com
 *.mms.wwe.com
@@ -50023,6 +50038,7 @@
 *.mxcdn2.now.sh
 *.mxcount.com
 *.mxdqfoo.cn
+*.mxgo.com.br
 *.mxhbkj.cn
 *.mxhunv.kurz-mal-weg.de
 *.mxiumroqnv.xyz
@@ -51580,6 +51596,7 @@
 *.noisesuperserver.com
 *.noisyassistance.pro
 *.noithathoanggiatn.com
+*.noithatxuanchien.com
 *.nojazz.eu
 *.nojsstats.appspot.com
 *.nokaut.link
@@ -52054,6 +52071,7 @@
 *.numbers.md
 *.numbers.triplejack.com
 *.numberschord.com
+*.numbersolution.in
 *.numbertrck.com
 *.numbig.com
 *.numbtoobly.com
@@ -56440,6 +56458,7 @@
 *.poolgmsd.com
 *.poollast.com
 *.poor5zero.com
+*.pooramkuries.com
 *.poorlyorchidrepute.com
 *.poorlystepmotherresolute.com
 *.poorlytanrubbing.com
@@ -59934,7 +59953,6 @@
 *.rep0pkgr.com
 *.repairedbringstale.com
 *.repairedentrailstangle.com
-*.repairhubpat.com
 *.repaul.com
 *.repayrotten.com
 *.repbdso.cn
@@ -63035,6 +63053,7 @@
 *.securefilesdatas23678842nk.cf
 *.securegate.xyz
 *.securegate9.com
+*.securehostingpro.com
 *.secureleadsforever.com
 *.securely-send.com
 *.securemanageprodio-01.com
@@ -63838,6 +63857,7 @@
 *.sheried.com
 *.sherlockseries.ru
 *.shermore.info
+*.sherryanneinteriors.com
 *.sherrylinecollections.co.ke
 *.sherrypetersphoto.com
 *.sheschemetraitor.com
@@ -66268,6 +66288,7 @@
 *.sociallypublish.com
 *.sociallysavvyseo.com
 *.socialmedia.com
+*.socialnetworkweb.it
 *.socialnewpages.com
 *.socialprofitmachine.com
 *.socialreach.com
@@ -66508,6 +66529,7 @@
 *.songsonb.uno
 *.songssmoke.com
 *.songsterritory.com
+*.sonisblog.com
 *.sonnents.com
 *.sonnerie.net
 *.sonniesabreact.website
@@ -75083,6 +75105,7 @@
 *.uads.store
 *.uadsaa.com
 *.uadx.com
+*.uaery.top
 *.uahora.com
 *.uaid-linkage.imrworldwide.com
 *.uakmufcniaki.xyz
@@ -80274,6 +80297,7 @@
 *.xlvvy4msxr.coolinastore.com
 *.xlwaluyw.com
 *.xmadsapi.joboko.com
+*.xmanager.in
 *.xmas-xmas-wow.com
 *.xmaswrite.com
 *.xmax.jp
@@ -80665,6 +80689,7 @@
 *.xzwdo.top
 *.xzwk.hk
 *.xzyituo.com
+*.xzz.dk
 *.y-track.com
 *.y.ibsys.com
 *.y.photoint.net
@@ -81695,7 +81720,6 @@
 *.zanox.com
 *.zantainet.com
 *.zantracker.com
-*.zaofisa.net
 *.zap.buzz
 *.zapadserver1.com
 *.zaparena.com
