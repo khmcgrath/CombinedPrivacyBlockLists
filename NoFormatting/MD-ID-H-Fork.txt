@@ -2,8 +2,8 @@
 #Seemingly active domains hosts version, sorted - Under continual improvement
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 000.gaysexe.free.fr
-0.0.0.0 02coverlab.com
 0.0.0.0 024xuyisheng.com
+0.0.0.0 02coverlab.com
 0.0.0.0 0632qyw.com
 0.0.0.0 09cd.co.kr
 0.0.0.0 0fees.net
@@ -579,6 +579,7 @@
 0.0.0.0 breakingtackles.com
 0.0.0.0 brenz.pl
 0.0.0.0 bride1.com
+0.0.0.0 brideofmessiah.com
 0.0.0.0 brightbeginningspreschoolanddaycarecenter.com
 0.0.0.0 brisbane-office-furniture.com.au
 0.0.0.0 broadtech.co
@@ -1841,6 +1842,7 @@
 0.0.0.0 lanaciondelislam.org
 0.0.0.0 landisbaptist.com
 0.0.0.0 landriver44.ru
+0.0.0.0 language.sebtomato.com
 0.0.0.0 laobaozj.com
 0.0.0.0 lapshiko.ru
 0.0.0.0 laqypxez.ru
@@ -1855,6 +1857,7 @@
 0.0.0.0 lauglyhousebuyers.com
 0.0.0.0 lazovick.biz
 0.0.0.0 lbb.su
+0.0.0.0 lcy2zzx.pw
 0.0.0.0 lechefboutique.com
 0.0.0.0 lefos.net
 0.0.0.0 legalmatters.biz
@@ -2305,11 +2308,11 @@
 0.0.0.0 oneil-clan.com
 0.0.0.0 onesappz.com
 0.0.0.0 onfreesoftware.com
-0.0.0.0 onlinehome.us
 0.0.0.0 online-counter.cn
 0.0.0.0 online-stats201.info
 0.0.0.0 onlinebackupgrowing.biz
 0.0.0.0 onlinedetect.com
+0.0.0.0 onlinehome.us
 0.0.0.0 onlinelogodesigners.com
 0.0.0.0 onlinetribun.com
 0.0.0.0 onlyfind.net
