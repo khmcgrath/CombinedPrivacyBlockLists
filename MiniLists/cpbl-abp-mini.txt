@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Tue Mar 28 12:33:12 AM UTC 2023
+! Updated: Wed Mar 29 06:46:30 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -82523,8 +82523,6 @@
 20somethingfinance.com##[class*="mfp-content"]
 20somethingfinance.com##[class*="mfp-inline-holder"]
 20somethingfinance.com##[class*="subscribe-popup"]
-420chan.org##.blarbl[style="font-size:10px;margin-bottom:2px;margin-top:2px;text-align:center;"]:first-child:last-child
-420chan.org##A[target="_blank"]:first-child:last-child
 420chan.org##DIV.tooltip
 420chan.org##[id^="cummywrapper"]
 4chan.org##body > .mobile.adg-rects
@@ -82539,7 +82537,7 @@ adlock.com##.sidebar.uk-width-medium-3-10.uk-width-small-1-1
 affinia.com###things-to-do > .on.overlay-container
 affinia.com##.fade-slide-up.has-fade-slide-up.privacy-policy
 affinia.com##.privacy-policy__container
-affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
+affinia.com###privacy-policy-notification
 alltrainerspc.com##a[href*="hskwq.com"]
 amazon.com##[class*="amazonlive-widget"]
 amazon.com##[class*="dv-web-live-events"]
@@ -82569,9 +82567,7 @@ blockgeeks.com###banner-zone-right
 blockgeeks.com##.banner-top
 blockgeeks.com##.horizontal-ad-banner
 breitbart.com###bsocial
-breitbart.com###content_0_fixedshare_0_divSocialMedia
-bscscan.com##.px-1.rounded.shadow.font-size-1.bg-white.showcase-banner-text-left.showcase-banner-text
-bscscan.com##.text-dark.position-relative.d-lg-inline-block.d-none > .px-1.rounded.shadow.font-size-1.bg-white.showcase-banner-text
+breitbart.com###social-share-sidebar-widget
 bustle.com##.gHl
 bustle.com##.koK.KAa
 c-span.org###cspan-ad-still-wiv-four-1
@@ -82595,6 +82591,7 @@ coinpedia.org##[class*=banner_ad]
 cointelegraph.com##[class*=banner-youtube]
 connectwww.com##DIV#an-Modal.reveal-modal
 connectwww.com##DIV.reveal-modal-bg
+controlc.com##+js(abort-on-property-write, adBlockDetected)
 cryptopotato.com##[class*="ai-close-fit"]
 cryptopotato.com##[class*="aos-animate"]
 cryptopotato.com##[href*="cryptopotato.com/ad/"]
@@ -82632,6 +82629,7 @@ eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-4 > .warning-la
 eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-5 > .warning-label-1
 eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-6 > .warning-label-1
 etherscan.io###overlayMain
+etymonline.com###detail-app-guide
 etymonline.com##.extensionHint
 etymonline.com##.wordDetail__extensionBanner--2Qrhv
 everycoinprice.com###showNewsHe
@@ -82663,8 +82661,6 @@ gab.com##[src*="grow.gab.com"]
 gamatotv.info##[href*="/links/ads"]
 gamatotv.info##.spu-content
 gamatotv.info##.spu-total-.spu-bottom-right.spu-box
-ghacks.net###stackcommerce_widget-4 > .pb--6.mb--10.border--bottom--gray.heading--tiny
-ghacks.net##.stackCommerceItemWrap
 github.com##.js-notice
 gizmodo.com##[class*="sticky.instream"]
 gizmodo.com##[class*="instream-permalink"]
@@ -82696,10 +82692,6 @@ indeed.com###popover-foreground
 indeed.com##.jobalert-create-wrapper--noIcon.jobalert-create-wrapper
 indeed.com##.jobalert-white.jobalert-create-wrapper
 independent.co.uk##.video-sticky-video
-indiadivine.org###ulp-RyvojwyPSZ6Q7NUR
-indiadivine.org###ulp-RyvojwyPSZ6Q7NUR-overlay
-instagram.com##.DCpAF
-instagram.com##.qD5Mv._4EzTm.eGOV_.IwRSH.Igw0E
 joinhoney.com##[class*="cookieConsentBanner"]
 juicedb.com##.nicotine-warning
 just-watch.club##.show.fade.modal-backdrop
@@ -82710,11 +82702,6 @@ last.fm##.listening-report-brick--upsell
 last.fm##.nag-bar--new-feature.nag-bar
 lifewire.com##[class$=dialog__content]
 lifewire.com##[class$=dialog__overlay]
-linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
-linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
-linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
-liveleak.com##TABLE[style="border: 1px solid; background-color: #eceff5; border-color: #94a3c4;"]
-liveleak.com##TABLE[style="border:1px #CCC dotted; width:304px; margin-bottom:9px;"]
 m.imgur.com##.AppBanner-container > *:not(.AppBanner-continueBrowsing)
 m.imgur.com##.FloatingOIA
 m.imgur.com##.Post-contentContainer > div.Post-metaContainer
@@ -82723,6 +82710,7 @@ m.imgur.com##.get-app-block
 m.imgur.com#$#.AppBanner-container { height: 50px!important; }
 m.imgur.com#$#div[class^="SeeImgurOIA-"] { display: none!important; }
 mintscan.io##[class^="Ad__adCarousel-wrapper-"]
+mintscan.io##div[class^="Ad_container_"]
 mondoweiss.net##[class*="hustle-info"]
 mondoweiss.net##[class*="hustle-layout"]
 mondoweiss.net##[class*="hustle-optin"]
@@ -82757,7 +82745,7 @@ paradisehill.cc##.shapka
 pcworld.com###toaster
 phantasytour.com##.col3
 profellow.com###newsletter-popup-wrap
-publish0x.com###registerPopup > .modal-dialog-centered.modal-lg.modal-dialog > .modal-content
+publish0x.com###registerPopup
 publish0x.com##.show.fade.modal
 quranexplorer.com###mask
 quranexplorer.com##.clearfix.window
@@ -82896,6 +82884,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||bscscan.com/images/gen/*1140x90.png$image
 ||cdn.cnn.com/ads/
 ||cdn.jsdelivr.net/npm/workbox-cdn*$script,domain=theblockcrypto.com
+||cdn.publish0x.com/prod/fs/images/*.gif$domain=publish0x.com
 ||click.bible.com^$third-party
 ||click.drizly.com^$third-party
 ||click.e.affirm.com^$third-party
@@ -82912,6 +82901,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||click.official.nike.com^$third-party
 ||click.oneplus.com^$third-party
 ||click.redditmail.com^$third-party
+||controlc.com/redact.png
 ||dextools.io/app/assets/img/banners/*$image
 ||embed.theblockcrypto.com/dist/*/js/chunk*.js$domain=theblockcrypto.com
 ||exodus.com/*/subscribe-popup*
