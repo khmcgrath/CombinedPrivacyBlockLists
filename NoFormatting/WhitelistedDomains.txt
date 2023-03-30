@@ -597,6 +597,7 @@ services.fandom.com
 sevenforums.com
 shavar.services.mozilla.com
 shop.rewe-static.de
+shoppy.gg
 shorl.com
 shortpixel.ai
 sift.com
