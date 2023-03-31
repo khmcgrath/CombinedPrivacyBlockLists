@@ -1,4 +1,4 @@
-# Mon Mar 27 08:07:14 PM UTC 2023
+# Fri Mar 31 12:05:50 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3566,6 +3566,7 @@
 0.0.0.0 dsum.casalemedia.com.edgekey.net
 0.0.0.0 dt-secure.videohub.tv
 0.0.0.0 dt.adsafeprotected.com
+0.0.0.0 dt.beyla.site
 0.0.0.0 dtrc.veinteractive.com
 0.0.0.0 dtrchk.veinteractive.com
 0.0.0.0 dts-5-split-vohnu.dts.innovid.com.akadns.net
@@ -4376,6 +4377,7 @@
 0.0.0.0 heatmap-quota.abtasty.com
 0.0.0.0 heatmobi.offerstrack.net
 0.0.0.0 heavyplayground.com
+0.0.0.0 hellay.net
 0.0.0.0 helpgrid1.ksmobile.com
 0.0.0.0 hercules.iad.appboy.com
 0.0.0.0 hesitanttoothpaste.com
@@ -6388,6 +6390,7 @@
 0.0.0.0 profile-lookup.services.53.localytics.com
 0.0.0.0 profile.adkmob.com
 0.0.0.0 profile.localytics.com
+0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 profiles.segment.com
 0.0.0.0 promo-images.ttpsdk.info
 0.0.0.0 promo.propellerads.com
@@ -6592,6 +6595,7 @@
 0.0.0.0 rebelsubway.com
 0.0.0.0 rebootv5.adfuture.cn
 0.0.0.0 rebootv5.adsunflower.com
+0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 receptivebranch.com
 0.0.0.0 receptiveink.com
 0.0.0.0 recommenddoor.com
@@ -6616,6 +6620,7 @@
 0.0.0.0 regional.ads.tremorhub.com
 0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 register.appsflyer.com
+0.0.0.0 register.appsflyersdk.com
 0.0.0.0 register.collector.scopely.io
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 registration.gimbal.com
@@ -6713,6 +6718,7 @@
 0.0.0.0 rp4.liadm.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 rpc.tapjoy.com
+0.0.0.0 rqmob.com
 0.0.0.0 rs.adledge.com
 0.0.0.0 rs1.qq.com
 0.0.0.0 rs2.adledge.com
