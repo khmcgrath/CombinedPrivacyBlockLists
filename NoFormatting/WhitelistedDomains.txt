@@ -191,6 +191,7 @@ cloudflare.com
 cloudflare.net
 cloudfront.net
 cloudinary.com
+cmg.streamguys1.com
 cmp-cdn.ghostery.com
 cnn.com
 codeberg.org

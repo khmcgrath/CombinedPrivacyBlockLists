@@ -507,6 +507,7 @@
 ^clients4\.google\.com$
 ^clients5\.google\.com$
 ^clients6\.google\.com$
+^cmg\.streamguys1\.com$
 ^cmp-cdn\.ghostery\.com$
 ^cognito-identity\.us-east-1\.amazonaws\.com$
 ^collecting-consent\.g5e\.com$
