@@ -20436,6 +20436,7 @@ api.relevantonline.eu
 api.repro.io
 api.reproio.com
 api.rlcdn.com
+api.rnet.plus
 api.rqmob.com
 api.rtnews.pro
 api.rubic.com.tr
@@ -43616,6 +43617,7 @@ data-ssl.stepstone.fr
 data-ssl.stepstone.nl
 data-ssl.stepstone.pl
 data-vdi-wissen01.wt-eu02.net
+data.24smi.net
 data.abebooks.com
 data.accenture.cn
 data.accountsamericas.coca-cola.com
@@ -74947,6 +74949,7 @@ jsmentry.com
 jsmjmp.com
 jsmpsi.com
 jsmptjmp.com
+jsn.24smi.net
 jsn.dt00.net
 jsn.dt07.net
 jsn.marketgid.com
