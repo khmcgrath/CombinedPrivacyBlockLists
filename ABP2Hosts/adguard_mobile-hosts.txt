@@ -1,4 +1,4 @@
-# Fri Mar 31 12:05:50 AM UTC 2023
+# Sun Apr  2 10:49:50 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2887,7 +2887,6 @@
 0.0.0.0 cm3.adform.net
 0.0.0.0 cma.kargo.com
 0.0.0.0 cmcore.com
-0.0.0.0 cmg.streamguys1.com
 0.0.0.0 cmgfeeds.cmgdigital.com
 0.0.0.0 cmi.netseer.com
 0.0.0.0 cmp-lb-ap-southeast.tubemogul.com
