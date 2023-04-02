@@ -1,4 +1,4 @@
-# Sun Apr  2 10:50:15 PM UTC 2023
+# Sun Apr  2 11:17:34 PM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -4487,6 +4487,7 @@
 0.0.0.0 abh.jp
 0.0.0.0 abhorboring.com
 0.0.0.0 abhorcarious.com
+0.0.0.0 abid.w38store.ru
 0.0.0.0 abidepeachy.com
 0.0.0.0 abiderestless.com
 0.0.0.0 abjectionblame.com
@@ -5056,6 +5057,7 @@
 0.0.0.0 adb7rtb.com
 0.0.0.0 adbd.liuxue86.com
 0.0.0.0 adbetclickin.pink
+0.0.0.0 adbetnet.com
 0.0.0.0 adbidgo.com
 0.0.0.0 adbison-redirect.com
 0.0.0.0 adbit.co
@@ -8208,6 +8210,7 @@
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.pubfinity.com
 0.0.0.0 api.reproio.com
+0.0.0.0 api.rnet.plus
 0.0.0.0 api.rtnews.pro
 0.0.0.0 api.ryanyao.design
 0.0.0.0 api.safedk.com
@@ -8223,6 +8226,7 @@
 0.0.0.0 api.telemetry.watchabc.go.com
 0.0.0.0 api.trueaudience.io
 0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 api.ucheba.ru
 0.0.0.0 api.willalland.info
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.branch.io
@@ -10288,6 +10292,7 @@
 0.0.0.0 bc-news.net
 0.0.0.0 bc.ad.daum.net
 0.0.0.0 bc.coupons.com
+0.0.0.0 bc.infoblog.today
 0.0.0.0 bc.law.com
 0.0.0.0 bc.nhk.jp
 0.0.0.0 bc5049654b.com
@@ -12034,6 +12039,7 @@
 0.0.0.0 c.data.mob.com
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 c.gotoxxxtube.com
+0.0.0.0 c.grimuar.ru
 0.0.0.0 c.hit.ua
 0.0.0.0 c.imrk.net
 0.0.0.0 c.ipaddress.com
@@ -15455,6 +15461,7 @@
 0.0.0.0 d1.handdiy.com
 0.0.0.0 d1.zhuangxiu6.com
 0.0.0.0 d10ce3z4vbhcdd.cloudfront.net
+0.0.0.0 d10g3hyu3zeg91.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d10lv7w3g0jvk9.cloudfront.net
@@ -16133,6 +16140,7 @@
 0.0.0.0 d869381a42af33b.com
 0.0.0.0 d870bc20cc.com
 0.0.0.0 d87c82a1da.com
+0.0.0.0 d899.webazilla.com
 0.0.0.0 d8a69dni6x2i5.cloudfront.net
 0.0.0.0 d8af4fb8c1.com
 0.0.0.0 d8b6aa51fe.com
@@ -18013,6 +18021,7 @@
 0.0.0.0 data-ssl.stepstone.de
 0.0.0.0 data-ssl.stepstone.fr
 0.0.0.0 data-ssl.stepstone.nl
+0.0.0.0 data.24smi.net
 0.0.0.0 data.accountsamericas.coca-cola.com
 0.0.0.0 data.accountsapac.coca-cola.com
 0.0.0.0 data.accountsemea.coca-cola.com
@@ -21896,6 +21905,7 @@
 0.0.0.0 ewstv.abc15.com
 0.0.0.0 ewstv.kypost.com
 0.0.0.0 ewwgqjn.cn
+0.0.0.0 ex.newsland.com
 0.0.0.0 ex8.lostporntube.com
 0.0.0.0 exacdn.com
 0.0.0.0 exacttarget.api.mashery.com
@@ -22854,6 +22864,7 @@
 0.0.0.0 firexclamation.com
 0.0.0.0 firine.com
 0.0.0.0 firist.com
+0.0.0.0 firm.bidtizadd.ru
 0.0.0.0 firmenia.com
 0.0.0.0 firmlychurchyard.com
 0.0.0.0 firon.xyz
@@ -29037,6 +29048,7 @@
 0.0.0.0 jsmjmp.com
 0.0.0.0 jsmpsi.com
 0.0.0.0 jsmptjmp.com
+0.0.0.0 jsn.24smi.net
 0.0.0.0 jsnignsa.xyz
 0.0.0.0 jsnoownma.fun
 0.0.0.0 jsnqh.cn
@@ -31689,6 +31701,7 @@
 0.0.0.0 lztmrdv.cn
 0.0.0.0 lztnqv.wizwid.com
 0.0.0.0 lzuc.sfr.fr
+0.0.0.0 lzupkz.com
 0.0.0.0 lzwdq.xyz
 0.0.0.0 lzxdx24yib.com
 0.0.0.0 lzxnhul.cn
@@ -34047,6 +34060,7 @@
 0.0.0.0 mixomniture.rbs.com
 0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mixpo.com
+0.0.0.0 mixtraff.silvercdn.com
 0.0.0.0 mixykails.com
 0.0.0.0 miyou.info
 0.0.0.0 miytdie.cn
@@ -35079,6 +35093,7 @@
 0.0.0.0 nathanaeldan.pro
 0.0.0.0 nationalbankofcanada.tt.omtrdc.net
 0.0.0.0 nationaldeliquencydeliquency.com
+0.0.0.0 nativ.podruzke.ru
 0.0.0.0 native-adserver.com
 0.0.0.0 native-cdn.com
 0.0.0.0 native-track.com
@@ -35333,6 +35348,8 @@
 0.0.0.0 news.libn.com
 0.0.0.0 news.masslawyersweekly.com
 0.0.0.0 news.mecktimes.com
+0.0.0.0 news.mirtesen.ru
+0.0.0.0 news.nest.msk.ru
 0.0.0.0 news.newinform.com
 0.0.0.0 news.njbiz.com
 0.0.0.0 news.pollutec.com
@@ -35740,6 +35757,7 @@
 0.0.0.0 nouseeth.com
 0.0.0.0 noushe.zevvle.com
 0.0.0.0 nov.data.srf.ch
+0.0.0.0 nov.evmenov37.ru
 0.0.0.0 novadune.com
 0.0.0.0 novaleafgroup.cn
 0.0.0.0 novechufa.xyz
@@ -35979,6 +35997,7 @@
 0.0.0.0 nzzvvf.goldengoose.com
 0.0.0.0 o-oo.ooo
 0.0.0.0 o.027eat.com
+0.0.0.0 o.60sk.ru
 0.0.0.0 o.addthis.com
 0.0.0.0 o.bluewin.ch
 0.0.0.0 o.carmax.com
@@ -37989,6 +38008,7 @@
 0.0.0.0 partneri.zijchytre.cz
 0.0.0.0 partneri.zkustenzvuk.cz
 0.0.0.0 partnerlinks.io
+0.0.0.0 partners.a24.biz
 0.0.0.0 partners.agoda.com
 0.0.0.0 partners.almaf.cz
 0.0.0.0 partners.autotrader.co.uk
@@ -41340,6 +41360,7 @@
 0.0.0.0 rek.serial24.com
 0.0.0.0 rek.www.wp.pl
 0.0.0.0 rek5.savefrom.net
+0.0.0.0 rekl.brawlstars-app.ru
 0.0.0.0 rekl.seasonvar.ru
 0.0.0.0 reklam.arabul.com
 0.0.0.0 reklam.bahisanaliz.com
@@ -44353,6 +44374,7 @@
 0.0.0.0 shoveoccupiedinsult.com
 0.0.0.0 show-review.com
 0.0.0.0 show.kc.taotaosou.com
+0.0.0.0 showbiz.mail.ru
 0.0.0.0 showcasead.com
 0.0.0.0 showcasethat.com
 0.0.0.0 showcoopda.xyz
@@ -46580,7 +46602,9 @@
 0.0.0.0 smfjfgie.xyz
 0.0.0.0 smg8oo4njst45oene.com
 0.0.0.0 smgbka.xyz
+0.0.0.0 smi.today
 0.0.0.0 smi01.ru
+0.0.0.0 smi24.kz
 0.0.0.0 smigro.info
 0.0.0.0 smileoffennec.com
 0.0.0.0 sminerva.healthcentral.com
@@ -50446,6 +50470,7 @@
 0.0.0.0 tamaraoolympic.life
 0.0.0.0 tamperstationerycultivate.com
 0.0.0.0 tamrhybjuvnafic.com
+0.0.0.0 tan.pridnestrovie.com
 0.0.0.0 tan1dian.com
 0.0.0.0 tanandatable.com
 0.0.0.0 tanceteventu.com
@@ -51061,6 +51086,7 @@
 0.0.0.0 thebestgame2020.com
 0.0.0.0 thebestoffersintheweb.com
 0.0.0.0 thebigadsstore.com
+0.0.0.0 theblackdeath.ru
 0.0.0.0 thechargenews.com
 0.0.0.0 thechleads.pro
 0.0.0.0 thecliffsandupo.com
@@ -55729,6 +55755,7 @@
 0.0.0.0 vhyvkx.com
 0.0.0.0 vi-serve.com
 0.0.0.0 vi.adviso.ca
+0.0.0.0 vi.bigmir.net
 0.0.0.0 vi.spratstatters.com
 0.0.0.0 vi1.souid.com
 0.0.0.0 vi7a.top
@@ -57110,6 +57137,7 @@
 0.0.0.0 widget-view.dmm.com
 0.0.0.0 widget.cybershop-affiliate.jp
 0.0.0.0 widget.golfscape.com
+0.0.0.0 widget.mediastealer.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.searchschoolsnetwork.com
 0.0.0.0 widget.sellwild.com
