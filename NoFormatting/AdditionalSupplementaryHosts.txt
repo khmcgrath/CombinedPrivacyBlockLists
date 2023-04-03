@@ -1679,7 +1679,6 @@
 0.0.0.0 ad-ndtv.3s.com.vn
 0.0.0.0 ad-net.co.uk
 0.0.0.0 ad-nex.com
-0.0.0.0 ad-oom-cmg.streamguys1.com
 0.0.0.0 ad-optima.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-plus.cn

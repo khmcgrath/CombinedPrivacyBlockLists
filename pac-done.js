@@ -976,7 +976,6 @@ shExpMatch(host, "*.ad-move.jp") ||
 shExpMatch(host, "*.ad-ndtv.3s.com.vn") ||
 shExpMatch(host, "*.ad-net.co.uk") ||
 shExpMatch(host, "*.ad-nex.com") ||
-shExpMatch(host, "*.ad-oom-cmg.streamguys1.com") ||
 shExpMatch(host, "*.ad-optima.com") ||
 shExpMatch(host, "*.ad-pay.de") ||
 shExpMatch(host, "*.ad-plus.cn") ||
@@ -33217,7 +33216,6 @@ shExpMatch(host, "ad-move.jp") ||
 shExpMatch(host, "ad-ndtv.3s.com.vn") ||
 shExpMatch(host, "ad-net.co.uk") ||
 shExpMatch(host, "ad-nex.com") ||
-shExpMatch(host, "ad-oom-cmg.streamguys1.com") ||
 shExpMatch(host, "ad-optima.com") ||
 shExpMatch(host, "ad-pay.de") ||
 shExpMatch(host, "ad-plus.cn") ||
