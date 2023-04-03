@@ -5,7 +5,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 04/03/23~19:22:38 -~
+# ~- 04/03/23~21:30:14 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -5425,6 +5425,7 @@ address=/ad-move.jp/#
 address=/ad-ndtv.3s.com.vn/#
 address=/ad-net.co.uk/#
 address=/ad-nex.com/#
+address=/ad-oom-cmg.streamguys1.com/#
 address=/ad-optima.com/#
 address=/ad-paradise.com/#
 address=/ad-pay.de/#
