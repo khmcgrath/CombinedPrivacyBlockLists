@@ -1,4 +1,4 @@
-// **** Mon Apr  3 07:07:29 PM UTC 2023
+// **** Mon Apr  3 09:13:35 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -976,6 +976,7 @@ shExpMatch(host, "*.ad-move.jp") ||
 shExpMatch(host, "*.ad-ndtv.3s.com.vn") ||
 shExpMatch(host, "*.ad-net.co.uk") ||
 shExpMatch(host, "*.ad-nex.com") ||
+shExpMatch(host, "*.ad-oom-cmg.streamguys1.com") ||
 shExpMatch(host, "*.ad-optima.com") ||
 shExpMatch(host, "*.ad-pay.de") ||
 shExpMatch(host, "*.ad-plus.cn") ||
@@ -33216,6 +33217,7 @@ shExpMatch(host, "ad-move.jp") ||
 shExpMatch(host, "ad-ndtv.3s.com.vn") ||
 shExpMatch(host, "ad-net.co.uk") ||
 shExpMatch(host, "ad-nex.com") ||
+shExpMatch(host, "ad-oom-cmg.streamguys1.com") ||
 shExpMatch(host, "ad-optima.com") ||
 shExpMatch(host, "ad-pay.de") ||
 shExpMatch(host, "ad-plus.cn") ||

@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 04/03/23~19:08:12 -~
+# ~- 04/03/23~21:14:22 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -5846,6 +5846,7 @@ ff02::2 ip6-allrouters
 :: ad-ndtv.3s.com.vn
 :: ad-net.co.uk
 :: ad-nex.com
+:: ad-oom-cmg.streamguys1.com
 :: ad-optima.com
 :: ad-paradise.com
 :: ad-pay.de
