@@ -1,6 +1,7 @@
 #Potentially Problematic Microsoft Telemetry Domains
 #Not included in other lists, as they can interfere with important Windows features
 
+adl.windows.com
 c.msn.com
 cs.dds.microsoft.com
 choice.microsoft.com
