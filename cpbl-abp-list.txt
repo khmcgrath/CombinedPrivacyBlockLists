@@ -6996,7 +6996,6 @@
 ||adl.bankofthewest.com^
 ||adl.kinogo.by^
 ||adl.mynetreklam.com^
-||adl.windows.com^
 ||adlab.spotify.com^
 ||adlabs.ru^
 ||adlabsnetworks.com^

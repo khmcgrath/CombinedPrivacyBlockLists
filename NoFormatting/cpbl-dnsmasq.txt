@@ -7010,7 +7010,6 @@ address=/adl-hunter.com/#
 address=/adl.bankofthewest.com/#
 address=/adl.kinogo.by/#
 address=/adl.mynetreklam.com/#
-address=/adl.windows.com/#
 address=/adlab.spotify.com/#
 address=/adlabs.ru/#
 address=/adlabsnetworks.com/#

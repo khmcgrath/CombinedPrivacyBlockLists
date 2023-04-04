@@ -5399,7 +5399,6 @@ address=/adku.co/#
 address=/adl-groups.com/#
 address=/adl-hunter.com/#
 address=/adl.bankofthewest.com/#
-address=/adl.windows.com/#
 address=/adlab.spotify.com/#
 address=/adlabs.ru/#
 address=/adlabsnetworks.com/#
