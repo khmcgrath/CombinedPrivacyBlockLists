@@ -21,6 +21,7 @@ adaway.org
 adblockplus.org
 adguard.com
 adj.st
+adl.windows.com
 adobe.com
 ads-admin.brave.com
 ads-admin.brave.software
