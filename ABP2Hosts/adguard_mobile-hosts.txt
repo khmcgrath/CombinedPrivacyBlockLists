@@ -1,4 +1,4 @@
-# Sun Apr  2 10:49:50 PM UTC 2023
+# Thu Apr  6 04:40:51 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2183,6 +2183,7 @@
 0.0.0.0 bidder.owneriq.net
 0.0.0.0 bidder.rtk.io
 0.0.0.0 bidder.va1.vip.prod.criteo.com
+0.0.0.0 biddingmax.apse.trk.rixserv.com
 0.0.0.0 biddingx.com
 0.0.0.0 biddr-cloud.brealtime.com
 0.0.0.0 biddr.brealtime.com
