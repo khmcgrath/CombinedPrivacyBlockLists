@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Mon Apr 10 08:45:29 PM UTC 2023
+! Updated: Wed Apr 12 06:14:03 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -21461,7 +21461,6 @@
 ||consultingeastrubber.com^
 ||consumable.com^
 ||consumerproductsusa.com^
-||contaboserver.net^
 ||contackamazon1.com^
 ||contact-us.adp.ca^
 ||contact.adaptavist.com^
@@ -77504,6 +77503,8 @@
 ||vmet.ro^
 ||vmewz.xyz^
 ||vmhzvqzx.com^
+||vmi503011.contaboserver.net^
+||vmi882221.contaboserver.net^
 ||vmjjzk.cn^
 ||vmkxcsss.ru^
 ||vml1.s3.amazonaws.com^

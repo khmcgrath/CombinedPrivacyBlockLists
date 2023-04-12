@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 04/10/23~20:55:22 -~
+# ~- 04/12/23~06:24:52 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -28877,7 +28877,6 @@
 *.consumer.inform.equifax.com
 *.consumeralternatives.org
 *.consumerproductsusa.com
-*.contaboserver.net
 *.contackamazon1.com
 *.contact-celebrities.com
 *.contact-gloss-production.accelerator.net
@@ -115838,6 +115837,8 @@
 *.vmet.ro
 *.vmewz.xyz
 *.vmhzvqzx.com
+*.vmi503011.contaboserver.net
+*.vmi882221.contaboserver.net
 *.vmjdpk.repairclinic.com
 *.vmjjzk.cn
 *.vmkxcsss.ru

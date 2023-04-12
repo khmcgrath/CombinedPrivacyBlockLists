@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Apr 10 08:45:24 PM UTC 2023
+! Updated: Wed Apr 12 06:13:58 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -28863,7 +28863,6 @@
 ||consumer.inform.equifax.com^
 ||consumeralternatives.org^
 ||consumerproductsusa.com^
-||contaboserver.net^
 ||contackamazon1.com^
 ||contact-celebrities.com^
 ||contact-gloss-production.accelerator.net^
@@ -115821,6 +115820,8 @@
 ||vmet.ro^
 ||vmewz.xyz^
 ||vmhzvqzx.com^
+||vmi503011.contaboserver.net^
+||vmi882221.contaboserver.net^
 ||vmjdpk.repairclinic.com^
 ||vmjjzk.cn^
 ||vmkxcsss.ru^

@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 04/10/23~20:55:27 -~
+# ~- 04/12/23~06:24:56 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -21475,7 +21475,6 @@
 *.consultingeastrubber.com
 *.consumable.com
 *.consumerproductsusa.com
-*.contaboserver.net
 *.contackamazon1.com
 *.contact-us.adp.ca
 *.contact.adaptavist.com
@@ -77520,6 +77519,8 @@
 *.vmet.ro
 *.vmewz.xyz
 *.vmhzvqzx.com
+*.vmi503011.contaboserver.net
+*.vmi882221.contaboserver.net
 *.vmjjzk.cn
 *.vmkxcsss.ru
 *.vml1.s3.amazonaws.com
