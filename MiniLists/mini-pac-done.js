@@ -1,4 +1,4 @@
-// **** Mon Apr 10 08:41:46 PM UTC 2023
+// **** Wed Apr 12 06:05:23 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -8926,7 +8926,6 @@ shExpMatch(host, "*.consulta-activacion-de-avance-cl.cf") ||
 shExpMatch(host, "*.consulta-activacion-de-avance-cl.gq") ||
 shExpMatch(host, "*.consumable.com") ||
 shExpMatch(host, "*.consumerproductsusa.com") ||
-shExpMatch(host, "*.contaboserver.net") ||
 shExpMatch(host, "*.contackamazon1.com") ||
 shExpMatch(host, "*.contact.illustrativemathematics.org") ||
 shExpMatch(host, "*.contact.kensington.com") ||
@@ -26671,6 +26670,7 @@ shExpMatch(host, "*.vltrkltuqe.bid") ||
 shExpMatch(host, "*.vm5apis.com") ||
 shExpMatch(host, "*.vman22.com") ||
 shExpMatch(host, "*.vman23.com") ||
+shExpMatch(host, "*.vmi503011.contaboserver.net") ||
 shExpMatch(host, "*.vmlb.belleaunaturel.fr") ||
 shExpMatch(host, "*.vmmpxl.com") ||
 shExpMatch(host, "*.vmweb.net") ||
@@ -36763,7 +36763,6 @@ shExpMatch(host, "consulta-activacion-de-avance-cl.cf") ||
 shExpMatch(host, "consulta-activacion-de-avance-cl.gq") ||
 shExpMatch(host, "consumable.com") ||
 shExpMatch(host, "consumerproductsusa.com") ||
-shExpMatch(host, "contaboserver.net") ||
 shExpMatch(host, "contackamazon1.com") ||
 shExpMatch(host, "contact.illustrativemathematics.org") ||
 shExpMatch(host, "contact.kensington.com") ||
@@ -54508,6 +54507,7 @@ shExpMatch(host, "vltrkltuqe.bid") ||
 shExpMatch(host, "vm5apis.com") ||
 shExpMatch(host, "vman22.com") ||
 shExpMatch(host, "vman23.com") ||
+shExpMatch(host, "vmi503011.contaboserver.net") ||
 shExpMatch(host, "vmlb.belleaunaturel.fr") ||
 shExpMatch(host, "vmmpxl.com") ||
 shExpMatch(host, "vmweb.net") ||
