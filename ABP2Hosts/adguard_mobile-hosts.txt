@@ -1,4 +1,4 @@
-# Mon Apr 10 08:24:57 PM UTC 2023
+# Fri Apr 14 09:10:04 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2090,6 +2090,7 @@
 0.0.0.0 bd-nplb01.foresee.com
 0.0.0.0 bd-nplb02.foresee.com
 0.0.0.0 bd-nplb03.foresee.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdc10654944f452cbeefa3a612d5a3b4.clo.footprintdns.com
 0.0.0.0 bdvwidxfiextwof.ru
@@ -2207,6 +2208,7 @@
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitterbear.com
 0.0.0.0 bj.imp.voiceads.cn
+0.0.0.0 bjads.bejbej.ca
 0.0.0.0 bjfesdk.douyucdn.cn
 0.0.0.0 bk.r-ad.ne.jp
 0.0.0.0 bkrtx.com.edgekey.net
@@ -3284,6 +3286,7 @@
 0.0.0.0 dable.io
 0.0.0.0 dable.io.edgekey.net
 0.0.0.0 dacdn.pushcrew.com
+0.0.0.0 dad-api.dcard.tw
 0.0.0.0 dailymotion-cs.vpadn.com
 0.0.0.0 dailymotionjsvideo432290662219.s.moatpixel.com
 0.0.0.0 damageddistance.com
@@ -3478,6 +3481,7 @@
 0.0.0.0 dl.sj.ijinshan.com
 0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
+0.0.0.0 dlsdk.appsflyersdk.com
 0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 dlx.addthis.com
 0.0.0.0 dm.isnssdk.com
@@ -4286,6 +4290,7 @@
 0.0.0.0 gripcorn.com
 0.0.0.0 grouchypush.com
 0.0.0.0 growlr.adsbynimbus.com
+0.0.0.0 grs.hicloud.com
 0.0.0.0 grtb-de.lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 grtb-sc.lfstmedia.com
@@ -5094,6 +5099,7 @@
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
+0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -5169,6 +5175,7 @@
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logagent-wf.centurygame.com
+0.0.0.0 logbak.hicloud.com
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logend.cookpad.com
@@ -8372,6 +8379,7 @@
 0.0.0.0 tracking.pandoiq.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 tracking.publicidees.com
+0.0.0.0 tracking.purchasely.io
 0.0.0.0 tracking.pushcrew.com
 0.0.0.0 tracking.retargeting.biz
 0.0.0.0 tracking.rus.miui.com
@@ -8445,6 +8453,7 @@
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 0.0.0.0 ts-tracker-env.us-east-1.elasticbeanstalk.com
+0.0.0.0 ts.line-apps.com
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 tt.onthe.io
