@@ -1,4 +1,4 @@
-# Fri Apr 14 09:10:04 PM UTC 2023
+# Mon Apr 17 10:44:46 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -439,6 +439,7 @@
 0.0.0.0 ad-exchange.toast.com
 0.0.0.0 ad-hub.dable.io
 0.0.0.0 ad-im-cmg.streamguys1.com
+0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 ad-logging2.ap-northeast-2.elasticbeanstalk.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-mediation.tuanguwen.com
@@ -7361,6 +7362,7 @@
 0.0.0.0 skadsdk.appsflyer.com
 0.0.0.0 skillfuldrop.com
 0.0.0.0 skillfulsock.com
+0.0.0.0 skt-asum.com
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 slapi-bts.logsss.com
 0.0.0.0 slaysweater.com
