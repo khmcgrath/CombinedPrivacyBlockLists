@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Apr 17 11:04:29 PM UTC 2023
+! Updated: Fri Apr 21 03:34:07 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -127467,6 +127467,7 @@ reddit.com##.xPromoAppStoreFooter
 reddit.com##.xPromoChoiceBanner
 reddit.com##.xpromoMinimal
 reddit.com##[id*="popup-"]
+reddit.com##[class^="premium-banner"]
 reddit.com##a[class="TopButton"][href*=".app.link/"]
 reddit.com##a[href*=".app.link/"]:not(.PostHeader__post-link)
 reddit.com##a[href*="alb.reddit.com"]
