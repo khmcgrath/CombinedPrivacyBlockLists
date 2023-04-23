@@ -1,4 +1,4 @@
-# Mon Apr 17 10:44:46 PM UTC 2023
+# Sun Apr 23 01:39:00 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -752,6 +752,7 @@
 0.0.0.0 ads.google.com
 0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.icloseli.com
+0.0.0.0 ads.imbc.com
 0.0.0.0 ads.imovideo.ru
 0.0.0.0 ads.indeed.com
 0.0.0.0 ads.inmobi.com
@@ -936,6 +937,7 @@
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmogo.org
 0.0.0.0 adsmoloco.com
+0.0.0.0 adsmrapi.imbc.com
 0.0.0.0 adsniper.ru
 0.0.0.0 adsoptimal.com
 0.0.0.0 adspecs.yahoo.com
@@ -5858,6 +5860,7 @@
 0.0.0.0 offers.cdn.natpal.com
 0.0.0.0 offers.propellerads.com
 0.0.0.0 offerwall-adnative.com
+0.0.0.0 offerwall.yandex.net
 0.0.0.0 olc.yodo1api.com
 0.0.0.0 oldevent.togothermany.com
 0.0.0.0 omax.admarvel.com
