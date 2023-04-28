@@ -1,4 +1,4 @@
-# Tue Apr 25 11:56:41 PM UTC 2023
+# Fri Apr 28 08:16:37 PM UTC 2023
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -84,6 +84,8 @@
 0.0.0.0 b-coresalon.com
 0.0.0.0 backcountrywater.info
 0.0.0.0 bandr.com.ua
+0.0.0.0 barefoot.pics
+0.0.0.0 bathtub.pics
 0.0.0.0 bauldenotas.com
 0.0.0.0 bbcbloggers.co.uk
 0.0.0.0 bbcnews.today
@@ -154,6 +156,7 @@
 0.0.0.0 cervusequipment.ca
 0.0.0.0 cgart.ir
 0.0.0.0 chainbit.club
+0.0.0.0 cheapcinema.club
 0.0.0.0 cheapdomains.science
 0.0.0.0 chiangmaihotels.co
 0.0.0.0 chicagocutsteakhouse.com
@@ -284,6 +287,7 @@
 0.0.0.0 fitnessnutritionals.com
 0.0.0.0 flash-fm.tk
 0.0.0.0 flybynet.com.ar
+0.0.0.0 foot.wiki
 0.0.0.0 formanth.win
 0.0.0.0 fortmyers-mortgage.com
 0.0.0.0 fortnight.space
@@ -309,6 +313,9 @@
 0.0.0.0 galloinstitute.net
 0.0.0.0 gamehammer.info
 0.0.0.0 gameofstones.com
+0.0.0.0 gamer.hair
+0.0.0.0 gamer.tattoo
+0.0.0.0 gamergirl.pro
 0.0.0.0 gameskeys.shop
 0.0.0.0 gaming-at-my.best
 0.0.0.0 gamingfun.me
@@ -378,9 +385,12 @@
 0.0.0.0 i56ad.site
 0.0.0.0 iany.pl
 0.0.0.0 ikwyd.com
+0.0.0.0 imagehost.pics
 0.0.0.0 imageshack.ml
 0.0.0.0 imageshare.best
+0.0.0.0 imagevault.cloud
 0.0.0.0 imger.me
+0.0.0.0 imghost.pics
 0.0.0.0 imgurl.us
 0.0.0.0 impactlc.net
 0.0.0.0 impactprintingdenver.com
@@ -483,6 +493,8 @@
 0.0.0.0 markleppke.com
 0.0.0.0 markratfelderscoachingandconsulting.com
 0.0.0.0 masqu3rade.com
+0.0.0.0 massive.boats
+0.0.0.0 massive.mom
 0.0.0.0 mattconheady.com
 0.0.0.0 matteodallombra.net
 0.0.0.0 mbcv.co.il
@@ -519,6 +531,9 @@
 0.0.0.0 my-ap-p-applicatio-and-gratis.info
 0.0.0.0 my.su
 0.0.0.0 myiptest.com
+0.0.0.0 mymassive.store
+0.0.0.0 mymassive.top
+0.0.0.0 mymassive.yachts
 0.0.0.0 mynews-line.com
 0.0.0.0 myorange.co
 0.0.0.0 myown42.com
@@ -541,6 +556,7 @@
 0.0.0.0 nilay.com.br
 0.0.0.0 ninjax.io
 0.0.0.0 nnmssc.cn
+0.0.0.0 noodshare.pics
 0.0.0.0 norwide.top
 0.0.0.0 nownails.online
 0.0.0.0 nsgwbfwsmall.xyz
@@ -582,11 +598,15 @@
 0.0.0.0 paypal.sellbitcoins.com
 0.0.0.0 pbj-gallery.com
 0.0.0.0 pdfook.com
+0.0.0.0 photovault.pics
+0.0.0.0 pichost.pics
+0.0.0.0 picshost.pics
 0.0.0.0 piyambakan.com
 0.0.0.0 pizzalie.be
 0.0.0.0 pkkm5.com
 0.0.0.0 plantationwomansclubgfwc.com
 0.0.0.0 plumcafebistro.com
+0.0.0.0 plz.life
 0.0.0.0 pokerqq99.net
 0.0.0.0 pombest.com
 0.0.0.0 pornoxvideo.co
@@ -670,6 +690,7 @@
 0.0.0.0 schaudt.eu
 0.0.0.0 sciencefuture.tk
 0.0.0.0 screenshare.host
+0.0.0.0 screenshare.pics
 0.0.0.0 screenshot.best
 0.0.0.0 searchproducts2017.review
 0.0.0.0 sehabinden.com
@@ -681,10 +702,12 @@
 0.0.0.0 sevilladentalcare.com
 0.0.0.0 sexconjugale.racing
 0.0.0.0 sexy18.webcam
+0.0.0.0 shareit.pics
 0.0.0.0 sharewrong.online
 0.0.0.0 sharingdisini.com
 0.0.0.0 shauncvar.com
 0.0.0.0 sherrypetersphoto.com
+0.0.0.0 shipment.website
 0.0.0.0 shopable.press
 0.0.0.0 shopbravesedge.com
 0.0.0.0 shopempire.su
@@ -727,6 +750,8 @@
 0.0.0.0 steamtools.co
 0.0.0.0 stephenfarrell.io
 0.0.0.0 stisla.com
+0.0.0.0 stonks.boats
+0.0.0.0 stonks.fun
 0.0.0.0 stopify.co
 0.0.0.0 stopin.pl
 0.0.0.0 store-real-mall.info
@@ -737,6 +762,7 @@
 0.0.0.0 studiolegalelarosabambaci.it
 0.0.0.0 sudburyautoglass.ca
 0.0.0.0 sueholland.org
+0.0.0.0 sugma.mom
 0.0.0.0 sunbeach.fr
 0.0.0.0 super-web-homes.tech
 0.0.0.0 superior-net.tech
@@ -758,6 +784,7 @@
 0.0.0.0 theguitareffects.com
 0.0.0.0 thekingofheroes.com
 0.0.0.0 theunderheard.com
+0.0.0.0 thisdomainislong.lol
 0.0.0.0 thisisjess.co.uk
 0.0.0.0 tien-menuisier.fr
 0.0.0.0 tiffanycollins.club
@@ -769,7 +796,10 @@
 0.0.0.0 tizkarvpn76.biz
 0.0.0.0 tldr.ly
 0.0.0.0 tnfbc.cn
+0.0.0.0 toes.beauty
 0.0.0.0 tokdigitalexpress.com
+0.0.0.0 toldyouso.lol
+0.0.0.0 toldyouso.pics
 0.0.0.0 tompriki.gr
 0.0.0.0 tomtaylorinsurance.com
 0.0.0.0 toolce.cn
@@ -893,6 +923,7 @@
 0.0.0.0 youutube.gq
 0.0.0.0 ytwrf4a.win
 0.0.0.0 yukongoldextremeapp.com
+0.0.0.0 yum.mom
 0.0.0.0 yw-cd.com
 0.0.0.0 yymoli.net
 0.0.0.0 z3uu.com
