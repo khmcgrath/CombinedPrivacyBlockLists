@@ -979,7 +979,6 @@
 0.0.0.0 aaictlogistics.com
 0.0.0.0 aajdrp.com
 0.0.0.0 aametrics.aktia.fi
-0.0.0.0 aamroaviation.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aanalytics.adelaide.edu.au
 0.0.0.0 aanqylta.com
@@ -11875,7 +11874,6 @@
 0.0.0.0 corp.eulerian.net
 0.0.0.0 corpcougar.com
 0.0.0.0 corpcougar.in
-0.0.0.0 corpernaija.com
 0.0.0.0 corpext-datamart.net
 0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 corporate-benefits.wt-eu02.net
@@ -13573,6 +13571,7 @@
 0.0.0.0 downloadpro.online
 0.0.0.0 downloadr.xyz
 0.0.0.0 downloads.a-mo.net
+0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 downloads.larivieracasino.com
 0.0.0.0 downloads.mytvandmovies.com
 0.0.0.0 downloads2020.com
@@ -14081,7 +14080,6 @@
 0.0.0.0 ecn.adflex.vn
 0.0.0.0 eco-fly.ru
 0.0.0.0 eco-tag.jp
-0.0.0.0 ecofarmcafe.com
 0.0.0.0 ecomadserver.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 ecommunication.mti.com
@@ -15516,6 +15514,7 @@
 0.0.0.0 fanserv.us-east-1.stinger-ad.bidr.io
 0.0.0.0 fanserv.us-west-2.stinger-ad.bidr.io
 0.0.0.0 fanta-stic.net
+0.0.0.0 fantadentalperu.com
 0.0.0.0 fantare.ru
 0.0.0.0 fantasticsmash.com
 0.0.0.0 fantasticvilla.xyz
@@ -18656,6 +18655,7 @@
 0.0.0.0 hihumi.biz
 0.0.0.0 hiido.com
 0.0.0.0 hijaiyh.net
+0.0.0.0 hikersband.sa
 0.0.0.0 hilariouszinc.com
 0.0.0.0 hilfiger01.webtrekk.net
 0.0.0.0 hilltopads.net
@@ -28977,7 +28977,6 @@
 0.0.0.0 poison-idea.com
 0.0.0.0 poiu7895123.jp
 0.0.0.0 poiwebm.ru
-0.0.0.0 poj.hostrb.com
 0.0.0.0 poke10ve.com
 0.0.0.0 pokkt.fuse-ad.com
 0.0.0.0 pokoran.com
@@ -32928,7 +32927,6 @@
 0.0.0.0 srt-srv.xlisting.jp
 0.0.0.0 srtb.msn.com
 0.0.0.0 srugbah.com
-0.0.0.0 srv-fattureincloud.de
 0.0.0.0 srv.bebi.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
@@ -38167,7 +38165,6 @@
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.mateti.net
-0.0.0.0 www.maxmoney.com
 0.0.0.0 www.maxonclick.com
 0.0.0.0 www.megacounter.de
 0.0.0.0 www.megapopads.com
