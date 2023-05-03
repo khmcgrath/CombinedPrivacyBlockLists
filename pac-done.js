@@ -1,4 +1,4 @@
-// **** Wed May  3 01:57:33 AM UTC 2023
+// **** Wed May  3 04:27:17 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -35005,6 +35005,8 @@ shExpMatch(host, "*.yoads.network") ||
 shExpMatch(host, "*.yoc-adserver.com") ||
 shExpMatch(host, "*.yoc-performance.com") ||
 shExpMatch(host, "*.yoc.mobi") ||
+shExpMatch(host, "*.yoc.younited-coach.com") ||
+shExpMatch(host, "*.yoc.younited-credit.com") ||
 shExpMatch(host, "*.yoggrt.com") ||
 shExpMatch(host, "*.yogmhums.top") ||
 shExpMatch(host, "*.yohoads.com") ||
@@ -35038,11 +35040,6 @@ shExpMatch(host, "*.young-bonus-b8e4.myloaders.workers.dev") ||
 shExpMatch(host, "*.youngllpcnbstrs.com") ||
 shExpMatch(host, "*.younglybae.tk") ||
 shExpMatch(host, "*.youngmarble.com") ||
-shExpMatch(host, "*.younited-coach.com") ||
-shExpMatch(host, "*.younited-credit.com") ||
-shExpMatch(host, "*.younited-credit.es") ||
-shExpMatch(host, "*.younited-credit.it") ||
-shExpMatch(host, "*.younited-credit.pt") ||
 shExpMatch(host, "*.your-analytics.org") ||
 shExpMatch(host, "*.your-dates-tonight.com") ||
 shExpMatch(host, "*.youradexchange.com") ||
@@ -70379,6 +70376,8 @@ shExpMatch(host, "yoads.network") ||
 shExpMatch(host, "yoc-adserver.com") ||
 shExpMatch(host, "yoc-performance.com") ||
 shExpMatch(host, "yoc.mobi") ||
+shExpMatch(host, "yoc.younited-coach.com") ||
+shExpMatch(host, "yoc.younited-credit.com") ||
 shExpMatch(host, "yoggrt.com") ||
 shExpMatch(host, "yogmhums.top") ||
 shExpMatch(host, "yohoads.com") ||
@@ -70412,11 +70411,6 @@ shExpMatch(host, "young-bonus-b8e4.myloaders.workers.dev") ||
 shExpMatch(host, "youngllpcnbstrs.com") ||
 shExpMatch(host, "younglybae.tk") ||
 shExpMatch(host, "youngmarble.com") ||
-shExpMatch(host, "younited-coach.com") ||
-shExpMatch(host, "younited-credit.com") ||
-shExpMatch(host, "younited-credit.es") ||
-shExpMatch(host, "younited-credit.it") ||
-shExpMatch(host, "younited-credit.pt") ||
 shExpMatch(host, "your-analytics.org") ||
 shExpMatch(host, "your-dates-tonight.com") ||
 shExpMatch(host, "youradexchange.com") ||
