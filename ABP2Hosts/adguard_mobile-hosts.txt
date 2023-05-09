@@ -1,4 +1,4 @@
-# Wed May  3 04:20:07 AM UTC 2023
+# Tue May  9 04:04:07 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -450,6 +450,7 @@
 0.0.0.0 ad.propellerads.com
 0.0.0.0 ad.rfp.fout.jp
 0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ad.simpledesign.ltd
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.snappea.com
@@ -631,6 +632,7 @@
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-router-noneu.truecaller.com
+0.0.0.0 ads-sdk.mattel163.com
 0.0.0.0 ads-secure.videohub.tv
 0.0.0.0 ads-server.mxplay.com
 0.0.0.0 ads-static.phonepe.com
@@ -708,6 +710,7 @@
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nicovideo.jp
 0.0.0.0 ads.ookla.com
+0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.phonepe.com
@@ -886,6 +889,7 @@
 0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtrack.king.com
 0.0.0.0 adtrack.ucweb.com
+0.0.0.0 adtrack.xiaojukeji.com
 0.0.0.0 adtracker.jpchd.veraxen.com
 0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
@@ -1936,6 +1940,7 @@
 0.0.0.0 bd-nplb01.foresee.com
 0.0.0.0 bd-nplb02.foresee.com
 0.0.0.0 bd-nplb03.foresee.com
+0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdvwidxfiextwof.ru
@@ -2931,6 +2936,7 @@
 0.0.0.0 creative-assets.quantcount.com
 0.0.0.0 creative-p.undertone.com
 0.0.0.0 creative-platform.vrvm.com
+0.0.0.0 creative.bidease.com
 0.0.0.0 creative.eagllwin.com
 0.0.0.0 creative.lkqd.net
 0.0.0.0 creative.mathads.com
@@ -4443,6 +4449,7 @@
 0.0.0.0 innity.com
 0.0.0.0 innity.net
 0.0.0.0 innocentwax.com
+0.0.0.0 innovads-server.poster.appsinnova.com
 0.0.0.0 innovid.com
 0.0.0.0 innovid.com.akadns.net
 0.0.0.0 innovid.com.edgekey.net
@@ -6126,6 +6133,7 @@
 0.0.0.0 r-log.dable.io
 0.0.0.0 r.3gl.net
 0.0.0.0 r.adrta.com
+0.0.0.0 r.apkpure.net
 0.0.0.0 r.browser.miui.com
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.casalemedia.com.edgekey.net
@@ -6311,6 +6319,7 @@
 0.0.0.0 rt.analytics.anvato.net
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
+0.0.0.0 rtag.farmers.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtb-csync-itx4.smartadserver.com
 0.0.0.0 rtb-csync-itx5.smartadserver.com
@@ -6419,6 +6428,7 @@
 0.0.0.0 s.logsss.com
 0.0.0.0 s.moatpixel.com
 0.0.0.0 s.ntv.io
+0.0.0.0 s.pixsrvcs.com
 0.0.0.0 s.po.st
 0.0.0.0 s.pubmine.com
 0.0.0.0 s.rfihub.com
@@ -7772,6 +7782,7 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 topapps-func.pinsightmedia.com
 0.0.0.0 topichawaii.com
+0.0.0.0 toponadss.com
 0.0.0.0 torpidtongue.com
 0.0.0.0 torpidtoothpaste.com
 0.0.0.0 toweringrun.com
@@ -7805,6 +7816,8 @@
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 tracing-collector.strava.com
 0.0.0.0 track-east.mobileadtrading.com
+0.0.0.0 track-resource.bidease.com
+0.0.0.0 track-us.bidease.com
 0.0.0.0 track.activemetering.com
 0.0.0.0 track.ad.xiaomi.com
 0.0.0.0 track.adform.net
