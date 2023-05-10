@@ -1,4 +1,4 @@
-# Tue May  9 04:04:07 AM UTC 2023
+# Wed May 10 09:00:14 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2807,6 +2807,7 @@
 0.0.0.0 confe.dc.oppomobile.com
 0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 config-ltvp.inmobi.com
 0.0.0.0 config.88-f.net
 0.0.0.0 config.ad-brix.com
@@ -6840,6 +6841,7 @@
 0.0.0.0 shutseashore.com
 0.0.0.0 shyseed.com
 0.0.0.0 si.appnext.com
+0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sicksmash.com
 0.0.0.0 sift-campaign-creatives.sift.co
 0.0.0.0 sigma-statistics-push.proxima.nie.easebar.com
@@ -7691,6 +7693,7 @@
 0.0.0.0 tendersugar.com
 0.0.0.0 tendertest.com
 0.0.0.0 terminusdisplay296618589072.s.moatpixel.com
+0.0.0.0 terms.internet.apps.samsung.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 terrificgoose.com
 0.0.0.0 terrifictooth.com
