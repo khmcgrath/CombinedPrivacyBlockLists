@@ -1,4 +1,4 @@
-# Mon May 15 04:41:34 PM UTC 2023
+# Mon May 15 06:16:48 PM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -9901,6 +9901,7 @@
 0.0.0.0 astoundbeach.com
 0.0.0.0 astouthy.net
 0.0.0.0 astra9dlya10.com
+0.0.0.0 astral.nicovideo.jp
 0.0.0.0 astrandconifer.com
 0.0.0.0 astraymeshbury.com
 0.0.0.0 astrazenecauklimited.tt.omtrdc.net
