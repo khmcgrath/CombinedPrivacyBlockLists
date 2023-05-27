@@ -1,4 +1,4 @@
-# Mon May 22 12:26:48 AM UTC 2023
+# Sat May 27 09:53:01 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1084,6 +1084,7 @@
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analysys.cn
 0.0.0.0 analytics-api.liveapp.com
+0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-au.clickdimensions.com
 0.0.0.0 analytics-chi-nfl.yinzcam.com
 0.0.0.0 analytics-eu.clickdimensions.com
@@ -4877,6 +4878,8 @@
 0.0.0.0 logs1407.xiti.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.dbankcloud.cn
+0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logx.optimizely.com
@@ -5521,6 +5524,7 @@
 0.0.0.0 open.adview.cn
 0.0.0.0 open.inc2.igexin.com
 0.0.0.0 open.isnssdk.com
+0.0.0.0 open.oneplus.net
 0.0.0.0 open.phone.igexin.com
 0.0.0.0 open.talk.igexin.com
 0.0.0.0 openapi.cymera.com
