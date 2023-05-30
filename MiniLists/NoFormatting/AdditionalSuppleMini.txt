@@ -3785,6 +3785,7 @@
 0.0.0.0 ads.livetv644.me
 0.0.0.0 ads.livetv655.me
 0.0.0.0 ads.livetv658.me
+0.0.0.0 ads.livetv662.me
 0.0.0.0 ads.lmmob.com
 0.0.0.0 ads.localhost.net.ar
 0.0.0.0 ads.localytics.com
@@ -4349,6 +4350,7 @@
 0.0.0.0 ads.webme.com
 0.0.0.0 ads.webnet.advance.net
 0.0.0.0 ads.websiteservices.com
+0.0.0.0 ads.wedodemos.com
 0.0.0.0 ads.wetpussy.sexy
 0.0.0.0 ads.whoishostingthis.com
 0.0.0.0 ads.wiezoekje.nl
@@ -5808,6 +5810,7 @@
 0.0.0.0 advnt.com
 0.0.0.0 advocacy.ahip.org
 0.0.0.0 advocard01.wt-eu02.net
+0.0.0.0 advojhszeat.com
 0.0.0.0 advolution.de
 0.0.0.0 advombat.ru
 0.0.0.0 advpic.yicha.jp
@@ -9369,6 +9372,7 @@
 0.0.0.0 best-friendd2022.net
 0.0.0.0 best-pr.info
 0.0.0.0 best-remit.com
+0.0.0.0 best-site-online.com
 0.0.0.0 best-top.ro
 0.0.0.0 best-web2020.com
 0.0.0.0 best-winplace.life
@@ -9813,7 +9817,6 @@
 0.0.0.0 bluespatuia.com
 0.0.0.0 bluestacksdownloads.com
 0.0.0.0 bluestarpaymentsolutions.com
-0.0.0.0 bluestary.shop
 0.0.0.0 bluetruckproductions.com
 0.0.0.0 bluew-web.com
 0.0.0.0 bluewales.ml
@@ -11385,7 +11388,6 @@
 0.0.0.0 chiliitalia01.wt-eu02.net
 0.0.0.0 chin-adnetwork.genieesspv.jp
 0.0.0.0 china-cdn.unityads.unity3d.com
-0.0.0.0 china-haoyee.com
 0.0.0.0 china-hql.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 chinalarnpbase.com
@@ -14793,7 +14795,6 @@
 0.0.0.0 dubriah.com
 0.0.0.0 duchaine-paysagiste35.fr
 0.0.0.0 ducklife.ddns.net
-0.0.0.0 duckyprints.com
 0.0.0.0 duellosheliced.com
 0.0.0.0 dueuekekdd833234.publicvm.com
 0.0.0.0 duhitu.com
@@ -16642,7 +16643,6 @@
 0.0.0.0 eztv.com
 0.0.0.0 ezula.com
 0.0.0.0 ezzpools.com
-0.0.0.0 ezzymoly.com
 0.0.0.0 f-db.info
 0.0.0.0 f-i-n-d.onlyfuns.win
 0.0.0.0 f-io.online
@@ -19948,6 +19948,7 @@
 0.0.0.0 hadsokz.com
 0.0.0.0 haduhabankaemasalahteh.com
 0.0.0.0 haduhayawaemasalahteh.com
+0.0.0.0 haffnetworkmm.com
 0.0.0.0 haggle.pw
 0.0.0.0 haikuy.pw
 0.0.0.0 haircolorbox.com
@@ -20102,6 +20103,7 @@
 0.0.0.0 hbbtv-track.prosieben.de
 0.0.0.0 hbbtv-track.prosiebensat1puls4.com
 0.0.0.0 hbbtv-track.wt-eu02.net
+0.0.0.0 hbjingyao.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbr0.icu
 0.0.0.0 hbsdk-config.log.smaato.net
@@ -21555,6 +21557,7 @@
 0.0.0.0 intrack.ir
 0.0.0.0 intrack.pl
 0.0.0.0 intranet.adomik.com
+0.0.0.0 intrendwear.com
 0.0.0.0 intrlguingdates.net
 0.0.0.0 introductioel.xyz
 0.0.0.0 intstallusd.online
@@ -25632,6 +25635,7 @@
 0.0.0.0 mcnt.jp
 0.0.0.0 mcobuy.top
 0.0.0.0 mcomtechnology.com
+0.0.0.0 mcpoc.linenet.top
 0.0.0.0 mcppnet.org
 0.0.0.0 mcppty.com
 0.0.0.0 mcs-va.tiktokv.com
@@ -32243,6 +32247,7 @@
 0.0.0.0 prf5.salutilescanaries.com
 0.0.0.0 prg-apac.smartadserver.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 prg3431.smartadserver.com
 0.0.0.0 prg8.smartadserver.com
 0.0.0.0 pricee.com
 0.0.0.0 pricelala.com
@@ -33980,7 +33985,6 @@
 0.0.0.0 runative.com
 0.0.0.0 rundsp.com
 0.0.0.0 runetki.com
-0.0.0.0 rungovip.store
 0.0.0.0 runlikea.pro
 0.0.0.0 runmewivel.com
 0.0.0.0 runner.splunk.com
@@ -38329,7 +38333,6 @@
 0.0.0.0 towflank.com
 0.0.0.0 towingkhobar.com
 0.0.0.0 towme.services
-0.0.0.0 townsvalley.com
 0.0.0.0 toxic-ventilate.com
 0.0.0.0 toxpas.com
 0.0.0.0 toycollectionstore.website
@@ -40246,6 +40249,7 @@
 0.0.0.0 ustradeshop.space
 0.0.0.0 usw-ca2.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org
+0.0.0.0 usw1.smartadserver.com
 0.0.0.0 uswdirect.adsrvr.org
 0.0.0.0 uswest.rtb.adkernel.com
 0.0.0.0 uswest.rtb.adservme.com

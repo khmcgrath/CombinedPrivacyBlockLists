@@ -4197,6 +4197,7 @@
 0.0.0.0 ads.livetv644.me
 0.0.0.0 ads.livetv655.me
 0.0.0.0 ads.livetv658.me
+0.0.0.0 ads.livetv662.me
 0.0.0.0 ads.lll5.ir
 0.0.0.0 ads.lmmob.com
 0.0.0.0 ads.localhost.net.ar
@@ -4765,6 +4766,7 @@
 0.0.0.0 ads.webme.com
 0.0.0.0 ads.webnet.advance.net
 0.0.0.0 ads.websiteservices.com
+0.0.0.0 ads.wedodemos.com
 0.0.0.0 ads.wetpussy.sexy
 0.0.0.0 ads.whoishostingthis.com
 0.0.0.0 ads.wiezoekje.nl
@@ -6243,6 +6245,7 @@
 0.0.0.0 advnt.com
 0.0.0.0 advocacy.ahip.org
 0.0.0.0 advocard01.wt-eu02.net
+0.0.0.0 advojhszeat.com
 0.0.0.0 advolution.de
 0.0.0.0 advombat.ru
 0.0.0.0 advpic.yicha.jp
@@ -10881,6 +10884,7 @@
 0.0.0.0 best-pc-protect.xyz
 0.0.0.0 best-pr.info
 0.0.0.0 best-remit.com
+0.0.0.0 best-site-online.com
 0.0.0.0 best-top.ro
 0.0.0.0 best-web2020.com
 0.0.0.0 best-winplace.life
@@ -11521,6 +11525,7 @@
 0.0.0.0 blisspoint.us-east-1.stinger-ad.bidr.io
 0.0.0.0 blisspoint.us-west-2.stinger-ad.bidr.io
 0.0.0.0 blisterlngdate.com
+0.0.0.0 blitzz.com.ar
 0.0.0.0 blizvyshop.com
 0.0.0.0 blkditsup.com
 0.0.0.0 blob-weather.com
@@ -11586,7 +11591,6 @@
 0.0.0.0 bluespatuia.com
 0.0.0.0 bluestacksdownloads.com
 0.0.0.0 bluestarpaymentsolutions.com
-0.0.0.0 bluestary.shop
 0.0.0.0 bluetruckproductions.com
 0.0.0.0 bluew-web.com
 0.0.0.0 bluewales.ml
@@ -13193,7 +13197,6 @@
 0.0.0.0 cartoonnetwork.122.2o7.net
 0.0.0.0 cartsrv.com
 0.0.0.0 carus.live
-0.0.0.0 carwashdenham.com
 0.0.0.0 carwatchonline.info
 0.0.0.0 caryboxing.store
 0.0.0.0 caryou.shop
@@ -14023,7 +14026,6 @@
 0.0.0.0 chiliitalia01.wt-eu02.net
 0.0.0.0 chin-adnetwork.genieesspv.jp
 0.0.0.0 china-cdn.unityads.unity3d.com
-0.0.0.0 china-haoyee.com
 0.0.0.0 china-hql.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 chinalarnpbase.com
@@ -19405,7 +19407,6 @@
 0.0.0.0 ducirg.live
 0.0.0.0 duckduckgo.cm
 0.0.0.0 ducklife.ddns.net
-0.0.0.0 duckyprints.com
 0.0.0.0 dudimg.live
 0.0.0.0 duding.live
 0.0.0.0 dudirg.live
@@ -21782,7 +21783,6 @@
 0.0.0.0 eztv.com
 0.0.0.0 ezula.com
 0.0.0.0 ezzpools.com
-0.0.0.0 ezzymoly.com
 0.0.0.0 f-db.info
 0.0.0.0 f-i-n-d.onlyfuns.win
 0.0.0.0 f-io.online
@@ -26487,7 +26487,6 @@
 0.0.0.0 gomirt.xyz
 0.0.0.0 gomis.live
 0.0.0.0 gomit.live
-0.0.0.0 gomlgaming.dev
 0.0.0.0 gommoneusato.it
 0.0.0.0 gonans.live
 0.0.0.0 gonans.xyz
@@ -27208,6 +27207,7 @@
 0.0.0.0 hafepor.live
 0.0.0.0 hafeto.online
 0.0.0.0 hafex.live
+0.0.0.0 haffnetworkmm.com
 0.0.0.0 hafigs.xyz
 0.0.0.0 hafimg.xyz
 0.0.0.0 hafing.xyz
@@ -27515,6 +27515,7 @@
 0.0.0.0 hbbtv-track.prosieben.de
 0.0.0.0 hbbtv-track.prosiebensat1puls4.com
 0.0.0.0 hbbtv-track.wt-eu02.net
+0.0.0.0 hbjingyao.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbr0.icu
 0.0.0.0 hbsdk-config.log.smaato.net
@@ -29812,7 +29813,6 @@
 0.0.0.0 intelcorperror.112.2o7.net
 0.0.0.0 intelcorpsg.com
 0.0.0.0 intelcorpsupp.112.2o7.net
-0.0.0.0 intellectproactive.com
 0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intellibiz.net
@@ -29880,6 +29880,7 @@
 0.0.0.0 intrack.ir
 0.0.0.0 intrack.pl
 0.0.0.0 intranet.adomik.com
+0.0.0.0 intrendwear.com
 0.0.0.0 intrlguingdates.net
 0.0.0.0 introductioel.xyz
 0.0.0.0 intstallusd.online
@@ -30625,7 +30626,9 @@
 0.0.0.0 jhmarketing.jacksonhealthcare.com
 0.0.0.0 jhuzw.pw
 0.0.0.0 jhxaeog.site
+0.0.0.0 ji.ase6gasdegkk.com
 0.0.0.0 ji.ghwiwwgg.com
+0.0.0.0 ji.jahhaega2pp.com
 0.0.0.0 ji.uiasehgii.com
 0.0.0.0 ji.uiasehgjj.com
 0.0.0.0 jial.lafrikileria.com
@@ -35144,7 +35147,6 @@
 0.0.0.0 mac-mmanuel.com
 0.0.0.0 macadmin.xyz
 0.0.0.0 macads.net
-0.0.0.0 macayaywaak.cl
 0.0.0.0 macbellads.com
 0.0.0.0 maccounting.in
 0.0.0.0 macers.live
@@ -36285,6 +36287,7 @@
 0.0.0.0 manapowermta.us
 0.0.0.0 manareoeyui.s3.ap-south-1.amazonaws.com
 0.0.0.0 manbrandsonline.com
+0.0.0.0 manchhd32ss.fun
 0.0.0.0 maneg.live
 0.0.0.0 maneks.live
 0.0.0.0 manel.live
@@ -36645,6 +36648,7 @@
 0.0.0.0 mcnt.jp
 0.0.0.0 mcobuy.top
 0.0.0.0 mcomtechnology.com
+0.0.0.0 mcpoc.linenet.top
 0.0.0.0 mcppnet.org
 0.0.0.0 mcppty.com
 0.0.0.0 mcs-va.tiktokv.com
@@ -40436,7 +40440,6 @@
 0.0.0.0 nonyst8.gq
 0.0.0.0 nonyst8.ml
 0.0.0.0 nonyst8.tk
-0.0.0.0 noobquan.xyz
 0.0.0.0 noone.contentmakersbyakamai.ru
 0.0.0.0 nooretaiba.com
 0.0.0.0 nopar.live
@@ -46285,6 +46288,7 @@
 0.0.0.0 prf5.salutilescanaries.com
 0.0.0.0 prg-apac.smartadserver.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 prg3431.smartadserver.com
 0.0.0.0 prg8.smartadserver.com
 0.0.0.0 pricee.com
 0.0.0.0 pricelala.com
@@ -46863,7 +46867,6 @@
 0.0.0.0 qadedela.com
 0.0.0.0 qai-abb.com
 0.0.0.0 qal0.destinia.gr
-0.0.0.0 qaswrahc.com
 0.0.0.0 qatestingservice.com
 0.0.0.0 qaz.im
 0.0.0.0 qbittorrent.com
@@ -49597,7 +49600,6 @@
 0.0.0.0 rundsp.com
 0.0.0.0 runems.xyz
 0.0.0.0 runetki.com
-0.0.0.0 rungovip.store
 0.0.0.0 runimg.xyz
 0.0.0.0 runins.xyz
 0.0.0.0 runist.xyz
@@ -51740,6 +51742,7 @@
 0.0.0.0 slotpedaw.com
 0.0.0.0 slottoy.shop
 0.0.0.0 slow-piercer.com
+0.0.0.0 slpbridge.com
 0.0.0.0 sls2.loisirsencheres.com
 0.0.0.0 sltravelcom.112.2o7.net
 0.0.0.0 slugmefilehos.xyz
@@ -56142,7 +56145,6 @@
 0.0.0.0 towirg.xyz
 0.0.0.0 towme.services
 0.0.0.0 townhousefilms.com
-0.0.0.0 townsvalley.com
 0.0.0.0 toxaks.xyz
 0.0.0.0 toxems.live
 0.0.0.0 toxens.live
@@ -57561,7 +57563,6 @@
 0.0.0.0 turolloy.com
 0.0.0.0 turons.xyz
 0.0.0.0 turtadulce.net
-0.0.0.0 tusaceitesesenciales.com
 0.0.0.0 tusils.xyz
 0.0.0.0 tusked.live
 0.0.0.0 tuskef.live
@@ -58457,6 +58458,7 @@
 0.0.0.0 ustradeshop.space
 0.0.0.0 usw-ca2.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org
+0.0.0.0 usw1.smartadserver.com
 0.0.0.0 uswdirect.adsrvr.org
 0.0.0.0 uswest.rtb.adkernel.com
 0.0.0.0 uswest.rtb.adservme.com
