@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Mon May 15 06:58:07 PM UTC 2023
+! Updated: Wed May 31 10:59:48 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -217,10 +217,12 @@ news.cnet.com###globalSocialPromo
 newsmax.com##.show.shown.android
 nypost.com##.ad__wrapper
 nytimes.com###credential_picker_container
+nytimes.com##+js(json-prune, data.user)
 nytimes.com##+js(set, navigator.storage.estimate, undefined)
 nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 nytimes.com##.gdpr
 nytimes.com##.magnoliaDock
+nytimes.com##[id*="story-ad-"][id*="wrapper"]
 nytimes.com##[id^="story-ad"]
 nytimes.com##div[data-test-id="RecommendedNewsletter"]
 nytimes.com##div[data-testid="expanded-dock"]
@@ -432,10 +434,13 @@ zerohedge.com##.Banner_banner__2PJ1Y
 @@||m.yap.yahoo.com^$app=com.yahoo.mobile.client.android.finance
 ||meter-svc.nytimes.com^
 ||mondoweiss.net/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/*
+||myaccount.nytimes.com/auth/iframe/*&asset=RegiWall
 ||nyt.com^*/metered_assets$script
+||nytimes.com/lire_ui/
+||nytimes.com/svc/nyt/data-layer
+||nytimes.com/unified_lire/
 ||nytimes.com^$removeparam=impression_id
 ||nytimes.com^*/metered_assets/
-||nytimes.com/svc/nyt/data-layer
 ||onelink.me^$third-party
 ||pr.comet.yahoo.com^$domain=~mail.yahoo.com
 @@||pr.comet.yahoo.com^$app=outlook.exe|com.microsoft.office.outlook|com.yahoo.mobile.client.android.mail
