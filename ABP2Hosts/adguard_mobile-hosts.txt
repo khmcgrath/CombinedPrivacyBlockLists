@@ -1,4 +1,4 @@
-# Tue May 30 01:49:25 AM UTC 2023
+# Sat Jun  3 05:08:38 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -471,6 +471,7 @@
 0.0.0.0 ad6media.fr
 0.0.0.0 ada-tr.staff-start.com
 0.0.0.0 adadvisor.net
+0.0.0.0 adamantsnail.com
 0.0.0.0 adap.tv
 0.0.0.0 adapace.gotrackier.com
 0.0.0.0 adapex.io
@@ -1048,6 +1049,7 @@
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 ambiguousalarm.com
 0.0.0.0 ambiguousanger.com
+0.0.0.0 ambiguousdinosaurs.com
 0.0.0.0 ambiguousincome.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
@@ -1075,6 +1077,7 @@
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 amung.us
+0.0.0.0 amusedbucket.com
 0.0.0.0 amusementmorning.com
 0.0.0.0 amusinggirls.com
 0.0.0.0 an.batmobi.net
@@ -1223,6 +1226,7 @@
 0.0.0.0 anthill.vn
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 anylist.c.appier.net
+0.0.0.0 anythinktech.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 ap-adcs.rqmob.com
 0.0.0.0 ap-central.load.exelator.com
@@ -2957,6 +2961,7 @@
 0.0.0.0 criteo.net
 0.0.0.0 critictruck.com
 0.0.0.0 crittercism.com
+0.0.0.0 crookedcreature.com
 0.0.0.0 cross-promo.mwx.ext.mobilityware.com
 0.0.0.0 crossboardmobile.com
 0.0.0.0 crosspromo.voodoo.io
@@ -3057,6 +3062,7 @@
 0.0.0.0 d2o03z2xnyxlz5.cloudfront.net
 0.0.0.0 d3.moatads.com
 0.0.0.0 d32z5ni8t5127x.cloudfront.net
+0.0.0.0 d3hdbjtb1686tn.cloudfront.net
 0.0.0.0 d60y8cj1tje2a.cloudfront.net
 0.0.0.0 d806-us.api.decibelinsight.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
@@ -3955,7 +3961,6 @@
 0.0.0.0 global.yyapi.net
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalconfig.bluedot.io
-0.0.0.0 gloriouscracker.com
 0.0.0.0 glossysense.com
 0.0.0.0 glsdk.logsss.com
 0.0.0.0 gm.mmstat.com
@@ -4033,6 +4038,7 @@
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 guaranteelamp.com
 0.0.0.0 guard.mob.com
+0.0.0.0 guardeddirection.com
 0.0.0.0 guardedschool.com
 0.0.0.0 guardian.amp.permutive.com
 0.0.0.0 guardianapps.co.uk
@@ -4457,6 +4463,7 @@
 0.0.0.0 innovid.com
 0.0.0.0 innovid.com.akadns.net
 0.0.0.0 innovid.com.edgekey.net
+0.0.0.0 inquisitiveice.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.ucweb.com
 0.0.0.0 insightexpressai.com
@@ -5084,7 +5091,6 @@
 0.0.0.0 mediaxpedia.gotrackier.com
 0.0.0.0 medio.com
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
-0.0.0.0 medusasailor.com
 0.0.0.0 meendocash.com
 0.0.0.0 melodicminute.com
 0.0.0.0 meltmilk.com
@@ -6196,6 +6202,7 @@
 0.0.0.0 readysnails.com
 0.0.0.0 realclever.com
 0.0.0.0 realtime.clinch.co
+0.0.0.0 rebelhen.com
 0.0.0.0 rebelsubway.com
 0.0.0.0 rebootv5.adfuture.cn
 0.0.0.0 rebootv5.adsunflower.com
@@ -6428,6 +6435,7 @@
 0.0.0.0 s.dpmsrv.com
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 s.go-mpulse.net
+0.0.0.0 s.hisp.in
 0.0.0.0 s.iaudienc.com
 0.0.0.0 s.idio.co
 0.0.0.0 s.iff.inmobi.com
@@ -6682,6 +6690,7 @@
 0.0.0.0 sec.umeng.com
 0.0.0.0 secondstreetapp.com
 0.0.0.0 secretivecub.com
+0.0.0.0 secretivesheep.com
 0.0.0.0 secretspiders.com
 0.0.0.0 secretturtle.com
 0.0.0.0 secure-adnxs.edgekey.net
@@ -7037,6 +7046,7 @@
 0.0.0.0 sortsummer.com
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 soundpublishing.blueconic.net
+0.0.0.0 soundstocking.com
 0.0.0.0 source.bidgear.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 southwestairlines.tt.omtrdc.net

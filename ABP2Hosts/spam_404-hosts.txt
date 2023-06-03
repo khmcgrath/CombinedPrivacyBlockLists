@@ -1,4 +1,4 @@
-# Tue May 30 01:50:38 AM UTC 2023
+# Sat Jun  3 05:09:39 AM UTC 2023
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -737,7 +737,6 @@
 0.0.0.0 captureimage.site
 0.0.0.0 capturescreen.tech
 0.0.0.0 carboneas.com
-0.0.0.0 cardcodes.net
 0.0.0.0 carderprofit.ws
 0.0.0.0 carderx.com
 0.0.0.0 cardgen.co
@@ -4630,7 +4629,6 @@
 0.0.0.0 itshd.com
 0.0.0.0 itunecodegenerator.com
 0.0.0.0 itunes-giveaway.com
-0.0.0.0 itunes.cardcodes.net
 0.0.0.0 itunes.extafiles.com
 0.0.0.0 itunes.foundcheats.com
 0.0.0.0 itunes.freecodes.us
@@ -5107,7 +5105,6 @@
 0.0.0.0 mayukefile.com
 0.0.0.0 mazaso.ru
 0.0.0.0 mb-1k.org
-0.0.0.0 mc.cardcodes.net
 0.0.0.0 mcalts.store
 0.0.0.0 mcdgifts.com
 0.0.0.0 mcdonaldscoupons.info
@@ -5202,7 +5199,6 @@
 0.0.0.0 minecraft-premium-gratuit.fr
 0.0.0.0 minecraft-premiums.com
 0.0.0.0 minecraft-server.com
-0.0.0.0 minecraft.cardcodes.net
 0.0.0.0 minecraft.cleandownload.net
 0.0.0.0 minecraft.legratuits.com
 0.0.0.0 minecraftaccount4free.com
@@ -6100,7 +6096,6 @@
 0.0.0.0 psn-code.info
 0.0.0.0 psn-codes-generator.com
 0.0.0.0 psn-jeux.com
-0.0.0.0 psn.cardcodes.net
 0.0.0.0 psn.codes.gamesject.com
 0.0.0.0 psn.foundcheats.com
 0.0.0.0 psn.freecodes.us
