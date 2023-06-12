@@ -322,6 +322,7 @@ g.live.com
 g.msn.com
 g1.nyt.com
 gab.com
+gae2-spclient.spotify.com
 game.weixin.qq.com
 gameanalytics.com
 garmin.com
