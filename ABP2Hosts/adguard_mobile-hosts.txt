@@ -1,4 +1,4 @@
-# Wed Jun  7 05:41:59 PM UTC 2023
+# Mon Jun 12 08:36:39 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -444,7 +444,6 @@
 0.0.0.0 ad.org.vn
 0.0.0.0 ad.particlenews.com
 0.0.0.0 ad.period-calendar.com
-0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 ad.propellerads.com
 0.0.0.0 ad.rfp.fout.jp
 0.0.0.0 ad.samsungadhub.com
@@ -463,7 +462,6 @@
 0.0.0.0 ad.wynk.in
 0.0.0.0 ad11p.adfarm1.adition.com
 0.0.0.0 ad13.adfarm1.adition.com
-0.0.0.0 ad132m.com
 0.0.0.0 ad2.apx.appier.net
 0.0.0.0 ad2.cdns.turn.com
 0.0.0.0 ad3.apx.appier.net
@@ -481,7 +479,7 @@
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adb2waycm-atl.netmng.com
-0.0.0.0 adback.tango.me
+0.0.0.0 adballoon.afreecatv.com
 0.0.0.0 adblade.com
 0.0.0.0 adbox.sina.com.cn
 0.0.0.0 adbrau.com
@@ -677,8 +675,6 @@
 0.0.0.0 ads.feelingtouch.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.fotoable.com
-0.0.0.0 ads.glispa.com
-0.0.0.0 ads.go2reach.com
 0.0.0.0 ads.google.com
 0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.icloseli.com
@@ -694,8 +690,6 @@
 0.0.0.0 ads.justpremium.com
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.linkedin.com
-0.0.0.0 ads.marvel.com
-0.0.0.0 ads.matomymobile.com
 0.0.0.0 ads.mediasmart.es
 0.0.0.0 ads.memob.com
 0.0.0.0 ads.mncmedia.co.kr
@@ -706,7 +700,6 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.msn.com
-0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nicovideo.jp
 0.0.0.0 ads.ookla.com
@@ -965,7 +958,6 @@
 0.0.0.0 affiz.net
 0.0.0.0 afiles.webengage.com
 0.0.0.0 afraidlanguage.com
-0.0.0.0 afreeca-tag.ad-mapps.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 ag.gbc.criteo.com
 0.0.0.0 ag.innovid.com
@@ -1090,6 +1082,7 @@
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
 0.0.0.0 analytics-events.inshorts.com
+0.0.0.0 analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 analytics-http.mintegral.net
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-listener.trafficmanager.net
@@ -1284,7 +1277,6 @@
 0.0.0.0 api.altamob.com
 0.0.0.0 api.ampiri.com
 0.0.0.0 api.analytics.omgpop.com
-0.0.0.0 api.appfireworks.com
 0.0.0.0 api.applink.mob.com
 0.0.0.0 api.applovefrom.com
 0.0.0.0 api.appnxt.net
@@ -1792,7 +1784,6 @@
 0.0.0.0 atemda.com
 0.0.0.0 aterru.g2afse.com
 0.0.0.0 athena.api.kwalee.com
-0.0.0.0 atkins.vo.llnwd.net
 0.0.0.0 atlantisjs.brafton.com
 0.0.0.0 atlas.etahub.com
 0.0.0.0 atlas.iad-03.braze.com
@@ -1821,7 +1812,6 @@
 0.0.0.0 audience.zeustechnology.com
 0.0.0.0 augur.io
 0.0.0.0 auntants.com
-0.0.0.0 auqcmkubxjmeeyf.ru
 0.0.0.0 auspiciousyard.com
 0.0.0.0 austin.logs.roku.com
 0.0.0.0 auth.be.sec.miui.com
@@ -1861,7 +1851,6 @@
 0.0.0.0 b.admedia.com
 0.0.0.0 b.adnxs.com
 0.0.0.0 b.ads1.msn.com
-0.0.0.0 b.cpiera.com
 0.0.0.0 b.criteo.com
 0.0.0.0 b.de.inmobi.com
 0.0.0.0 b.fox.com
@@ -1943,7 +1932,6 @@
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
-0.0.0.0 bdvwidxfiextwof.ru
 0.0.0.0 be-gmtdmp.mookie1.com
 0.0.0.0 be-ms.teads.tv
 0.0.0.0 be.durationmedia.net
@@ -2037,7 +2025,6 @@
 0.0.0.0 bidsopt.com
 0.0.0.0 bidstream.advertserve.com
 0.0.0.0 bidswitch.net
-0.0.0.0 bifjicdigchgihajabb.ru
 0.0.0.0 bigmobileads.com
 0.0.0.0 billowybead.com
 0.0.0.0 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -2337,7 +2324,6 @@
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adrta.com
 0.0.0.0 cdn.adrtx.net
-0.0.0.0 cdn.ads.fotoable.net
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adswizz.com
@@ -2372,7 +2358,6 @@
 0.0.0.0 cdn.cmp.advertising.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.connatix.com
-0.0.0.0 cdn.cpiera.com
 0.0.0.0 cdn.cxense.com.edgekey.net
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.deepintent.com
@@ -3141,6 +3126,7 @@
 0.0.0.0 deadpantruck.com
 0.0.0.0 deafeningdock.com
 0.0.0.0 dealerdotcomdisplay576919175878.s.moatpixel.com
+0.0.0.0 deapi.afreecatv.com
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 debonairdust.com
 0.0.0.0 debonairway.com
@@ -3405,7 +3391,6 @@
 0.0.0.0 edge.yieldify.com
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 educatedeggnog.com
-0.0.0.0 edwlifes.vo.llnwd.net
 0.0.0.0 efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 ei-event-collector.us-east-1.elasticbeanstalk.com
@@ -3556,6 +3541,7 @@
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.avantisvideo.com
+0.0.0.0 events.betterhelp.com
 0.0.0.0 events.bouncex.net
 0.0.0.0 events.brightline.tv
 0.0.0.0 events.browsiprod.com
@@ -3570,6 +3556,7 @@
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.mz.unity3d.com
+0.0.0.0 events.prd.api.discomax.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.simpli.fi
@@ -3613,7 +3600,6 @@
 0.0.0.0 execution-use.ci360.sas.com
 0.0.0.0 exelbid.com
 0.0.0.0 exp.360in.com
-0.0.0.0 exp.glispa.com
 0.0.0.0 expansioneggnog.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 experienceeggs.com
@@ -3914,7 +3900,6 @@
 0.0.0.0 gi-js.genieessp.com
 0.0.0.0 giftedglue.com
 0.0.0.0 giftedthumb.com
-0.0.0.0 gigamega.su
 0.0.0.0 ginf.adfurikun.jp
 0.0.0.0 gizmo.serving-sys.com
 0.0.0.0 gj.applog.uc.cn
@@ -4021,7 +4006,6 @@
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grumpydrawer.com
 0.0.0.0 gslbeacon.lijit.com
-0.0.0.0 gsmtop.net
 0.0.0.0 gtm04.nexac.com
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 gtsdk.batmobi.net
@@ -4639,7 +4623,6 @@
 0.0.0.0 krt.asycxtz.cn
 0.0.0.0 krutilka.net
 0.0.0.0 krux2waycm.netmng.com
-0.0.0.0 krvpsegjeukhoqk.su
 0.0.0.0 krxd.net
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kyson.ad.daum.net
@@ -4793,6 +4776,7 @@
 0.0.0.0 log.appbundledownload.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
+0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.easy39.com
@@ -5491,7 +5475,6 @@
 0.0.0.0 omniscientspark.com
 0.0.0.0 omtrdc.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
-0.0.0.0 onedrive.su
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onepush.query.yahoo.com
@@ -5500,7 +5483,6 @@
 0.0.0.0 onetag.io.edgekey.net
 0.0.0.0 online-metrix.imars.cloud
 0.0.0.0 online-metrix.net
-0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 online.mobify.net
 0.0.0.0 onlineapi.youappi.com
 0.0.0.0 onrt-stsdk.vivo.com.cn
@@ -6237,6 +6219,7 @@
 0.0.0.0 representativeray.com
 0.0.0.0 reproio.com
 0.0.0.0 req.startappservice.com
+0.0.0.0 reqde.afreecatv.com
 0.0.0.0 res.media.net
 0.0.0.0 res.mmstat.com
 0.0.0.0 res1.applovin.com
@@ -6335,9 +6318,7 @@
 0.0.0.0 rtb.d.adup-tech.com
 0.0.0.0 rtb.da.us.criteo.com
 0.0.0.0 rtb.gumgum.com
-0.0.0.0 rtb.kds.media
 0.0.0.0 rtb.mfadsrvr.com
-0.0.0.0 rtb.nexage.com
 0.0.0.0 rtb.ninthdecimal.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtb.platform.glispa.com
@@ -6882,7 +6863,6 @@
 0.0.0.0 sitemaji.com
 0.0.0.0 siterecruit.comscore.com
 0.0.0.0 sitescout.com
-0.0.0.0 sitewithg.me
 0.0.0.0 sixscissors.com
 0.0.0.0 sizesidewalk.com
 0.0.0.0 sj-mknodepub.marketo.com
@@ -6941,7 +6921,6 @@
 0.0.0.0 smartadserver.com
 0.0.0.0 smartclip.net
 0.0.0.0 smarttag.rubiconproject.com
-0.0.0.0 smarttds.ru
 0.0.0.0 smashquartz.com
 0.0.0.0 smashshoe.com
 0.0.0.0 smashsurprise.com
@@ -7278,7 +7257,6 @@
 0.0.0.0 static2.chartbeat.com
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
-0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stats-5-split-vohnu.s.innovid.com.akadns.net
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-dev.brid.tv
@@ -7953,7 +7931,6 @@
 0.0.0.0 translateoatmeal.com
 0.0.0.0 trappush.com
 0.0.0.0 trapteaching.com
-0.0.0.0 trax-ad.jp
 0.0.0.0 traxex.gannettdigital.com
 0.0.0.0 trc-events.taboola.com
 0.0.0.0 trc.kissmetrics.com
@@ -8322,7 +8299,6 @@
 0.0.0.0 vid.connatix.com
 0.0.0.0 vid.springserve.com
 0.0.0.0 vidanalytics.taboola.com
-0.0.0.0 vidasys.ru
 0.0.0.0 video-ads-apex.rubiconproject.com
 0.0.0.0 video-ads-module.ad-tech.nbcuni.com
 0.0.0.0 video-ads.rubiconproject.com
@@ -8371,7 +8347,6 @@
 0.0.0.0 viva.api.xiaoying.co
 0.0.0.0 vivaciousveil.com
 0.0.0.0 vivaki.demdex.net
-0.0.0.0 vloxaloyfmdqxti.ru
 0.0.0.0 vm5apis.com
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vmweb.net
@@ -8628,7 +8603,6 @@
 0.0.0.0 x.skimresources.com
 0.0.0.0 x2.mookie1.com
 0.0.0.0 xad.com
-0.0.0.0 xawsnngjljanxof.su
 0.0.0.0 xconf.cauly.co.kr
 0.0.0.0 xcp.go.sonobi.com
 0.0.0.0 xdcs-collector.ximalaya.com
@@ -8636,7 +8610,6 @@
 0.0.0.0 xdssp.mediav.com
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 ximad.com
-0.0.0.0 xjnwqdospderqtk.ru
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xml.adx1.com
