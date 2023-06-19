@@ -1,4 +1,4 @@
-# Mon Jun 12 08:36:39 PM UTC 2023
+# Mon Jun 19 01:01:56 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -421,7 +421,6 @@
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
-0.0.0.0 ad.endpo.in
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad.hot-mob.com
 0.0.0.0 ad.jiguang.cn
@@ -433,7 +432,6 @@
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.lionmobi.com
 0.0.0.0 ad.lkqd.net
-0.0.0.0 ad.madvertise.de
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mobiuspace.net
 0.0.0.0 ad.monetate.net
@@ -567,7 +565,6 @@
 0.0.0.0 admedia.com
 0.0.0.0 admedo.com
 0.0.0.0 admicro1.vcmedia.vn
-0.0.0.0 admicro2.vcmedia.vn
 0.0.0.0 admin.appnext.com
 0.0.0.0 admitad.com
 0.0.0.0 admixer.co.kr
@@ -642,7 +639,6 @@
 0.0.0.0 ads.adelement.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.admarvel.com
-0.0.0.0 ads.admoda.com
 0.0.0.0 ads.adtheorent.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.aerserv.com
@@ -674,7 +670,6 @@
 0.0.0.0 ads.everesttech.net
 0.0.0.0 ads.feelingtouch.com
 0.0.0.0 ads.flurry.com
-0.0.0.0 ads.fotoable.com
 0.0.0.0 ads.google.com
 0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.icloseli.com
@@ -702,7 +697,6 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nicovideo.jp
-0.0.0.0 ads.ookla.com
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.perfectaudience.com
@@ -717,7 +711,6 @@
 0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 ads.rekmob.com
 0.0.0.0 ads.revjet.com
-0.0.0.0 ads.reward.rakuten.jp
 0.0.0.0 ads.roblox.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.samba.tv
@@ -5041,7 +5034,6 @@
 0.0.0.0 media.evolv.ai
 0.0.0.0 media.go2speed.org
 0.0.0.0 media.innity.net
-0.0.0.0 media.motrixi.com
 0.0.0.0 media.revcontent.com
 0.0.0.0 media.richrelevance.com
 0.0.0.0 media.trafficjunky.net
@@ -5147,7 +5139,6 @@
 0.0.0.0 mlog.hiido.com
 0.0.0.0 mm.markandmini.com
 0.0.0.0 mmaglobal.com
-0.0.0.0 mmnetwork.mobi
 0.0.0.0 mmp001.scalemonk.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 mng-ads.com
@@ -6248,7 +6239,6 @@
 0.0.0.0 rewarded-video.fyber.com
 0.0.0.0 rfihub.com
 0.0.0.0 rfp.fout.jp
-0.0.0.0 rg.yottos.com
 0.0.0.0 rhetoricalloss.com
 0.0.0.0 rhetoricalveil.com
 0.0.0.0 rhymezebra.com
@@ -6321,7 +6311,6 @@
 0.0.0.0 rtb.mfadsrvr.com
 0.0.0.0 rtb.ninthdecimal.com
 0.0.0.0 rtb.openx.net
-0.0.0.0 rtb.platform.glispa.com
 0.0.0.0 rtb.va.us.criteo.com
 0.0.0.0 rtb0.doubleverify.com
 0.0.0.0 rtb2.doubleverify.com
@@ -7875,7 +7864,6 @@
 0.0.0.0 tracking-service.glority.com
 0.0.0.0 tracking-widget.fillr.com
 0.0.0.0 tracking.aatkit.com
-0.0.0.0 tracking.acekoala.com
 0.0.0.0 tracking.adalyser.com
 0.0.0.0 tracking.admarketplace.net
 0.0.0.0 tracking.admarketplace.net.edgekey.net
@@ -7912,6 +7900,7 @@
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 tracking.vcommission.com
+0.0.0.0 tracking.viewlift.com
 0.0.0.0 tracking.viewster.com
 0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 tracking.xapads.com
@@ -8323,7 +8312,6 @@
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 vidutils.taboola.com
-0.0.0.0 view-prod.ad.singular.net
 0.0.0.0 view.adjust.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 vihit.gotrackier.com
@@ -8671,6 +8659,11 @@
 0.0.0.0 zestycrime.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 zfehvv.xyz
+0.0.0.0 zfkjrm.xyz
+0.0.0.0 zflfoy.buzz
+0.0.0.0 zflfoy.xyz
+0.0.0.0 zflylg.buzz
 0.0.0.0 zgsdk.zhugeio.com
 0.0.0.0 ziffdavis.com
 0.0.0.0 zipperxray.com
