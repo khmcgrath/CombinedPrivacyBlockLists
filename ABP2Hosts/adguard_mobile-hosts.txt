@@ -1,4 +1,4 @@
-# Mon Jun 19 01:01:56 AM UTC 2023
+# Tue Jun 27 02:32:02 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -131,8 +131,6 @@
 0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
-0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
-0.0.0.0 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.adnium.com
 0.0.0.0 a.ads1.msn.com
@@ -449,7 +447,6 @@
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.snappea.com
-0.0.0.0 ad.snaptube.app
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.turn.com
@@ -595,7 +592,6 @@
 0.0.0.0 adplatform.vrtcal.com
 0.0.0.0 adplex.co.kr
 0.0.0.0 adpopcorn.com
-0.0.0.0 adpriv.nikkei.com
 0.0.0.0 adprotected.com
 0.0.0.0 adproxy.tf1.fr
 0.0.0.0 adpublisher.s3.amazonaws.com
@@ -651,7 +647,6 @@
 0.0.0.0 ads.as.criteo.com
 0.0.0.0 ads.avct.cloud
 0.0.0.0 ads.avocarrot.com
-0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads.ayads.co
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads.blogherads.com
@@ -697,7 +692,6 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nicovideo.jp
-0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.phonepe.com
@@ -1258,7 +1252,6 @@
 0.0.0.0 api.addthis.com
 0.0.0.0 api.adfalcon.com
 0.0.0.0 api.adfurikun.jp
-0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.ads.newsdigest.jp
 0.0.0.0 api.ads.watchabc.go.com
@@ -3555,6 +3548,7 @@
 0.0.0.0 events.simpli.fi
 0.0.0.0 events.split.io
 0.0.0.0 events.streamrail.net
+0.0.0.0 events.swishapps.ai
 0.0.0.0 events.tabmo.io
 0.0.0.0 events.textme-app.com
 0.0.0.0 events.tremorhub.com
@@ -4037,7 +4031,6 @@
 0.0.0.0 h12-media.com
 0.0.0.0 h30-deploy.hiconversion.com
 0.0.0.0 h5.isnssdk.com
-0.0.0.0 h5.wannaplay.cn
 0.0.0.0 h78xb.pw
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 ha.pushwoosh.com
@@ -4204,6 +4197,7 @@
 0.0.0.0 i.w55c.net
 0.0.0.0 i16-tb.isnssdk.com
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
+0.0.0.0 i18n-pglstatp.com
 0.0.0.0 i2.myapkcdn.in
 0.0.0.0 i2ad.jp
 0.0.0.0 i2i.jp
@@ -5231,7 +5225,6 @@
 0.0.0.0 motionlessbelief.com
 0.0.0.0 mountainouspear.com
 0.0.0.0 mozbar.moz.com
-0.0.0.0 mp.huangye.miui.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mp5-wl.mobileposse.com
 0.0.0.0 mparticle.map.fastly.net
@@ -5610,6 +5603,7 @@
 0.0.0.0 pangle.io
 0.0.0.0 pangle.io.edgekey.net
 0.0.0.0 pangolin16.isnssdk.com
+0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 panickypancake.com
 0.0.0.0 panoramicbutter.com
 0.0.0.0 par.vip.prod.criteo.com
@@ -6700,7 +6694,6 @@
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
-0.0.0.0 sensors.snaptubeapp.com
 0.0.0.0 sensors.yodo1api.com
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 separateshow.com
@@ -6742,6 +6735,7 @@
 0.0.0.0 setting.rayjump.com
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 sf.bizible.com
+0.0.0.0 sf16-scmcdn-sg.ibytedtos.com
 0.0.0.0 sfo1.ipromote.com
 0.0.0.0 sfo2.ipromote.com
 0.0.0.0 sfo3.ipromote.com
@@ -7643,6 +7637,7 @@
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetries.jeeng.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.sdk.inmobi.cn

@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 15 Jun 2023 15:15:38 GMT
-# entries:        3735
+# last updated:   Mon, 26 Jun 2023 17:38:22 GMT
+# entries:        3738
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 07 Aug 1823 00:00:00
+# start date:    Fri, 15 Aug 1823 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -83,7 +83,6 @@
 127.0.0.1 abstractedauthority.com
 127.0.0.1 absurdwater.com
 127.0.0.1 abtasty.com
-127.0.0.1 abz.com
 127.0.0.1 ac.rnm.ca
 127.0.0.1 acemlnb.com
 127.0.0.1 acid-adserver.click
@@ -851,6 +850,7 @@
 127.0.0.1 adtology.com
 127.0.0.1 adtoma.com
 127.0.0.1 adtrace.org
+127.0.0.1 adtrack.voicestar.com
 127.0.0.1 adtraction.com
 127.0.0.1 adtrade.net
 127.0.0.1 adtriplex.com
@@ -1006,7 +1006,6 @@
 127.0.0.1 analytics.xelondigital.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analyticsapi.happypancake.net
-127.0.0.1 analytik.xyz
 127.0.0.1 ancientact.com
 127.0.0.1 aniview.com
 127.0.0.1 annonser.dagbladet.no
@@ -1329,6 +1328,7 @@
 127.0.0.1 cdn.keywee.co
 127.0.0.1 cdn.mouseflow.com
 127.0.0.1 cdn.onesignal.com
+127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdnondemand.org
 127.0.0.1 cedato.com
@@ -1437,7 +1437,6 @@
 127.0.0.1 clk1015.com
 127.0.0.1 clkrev.com
 127.0.0.1 clksite.com
-127.0.0.1 cloisteredcord.com
 127.0.0.1 cloisteredhydrant.com
 127.0.0.1 closedcows.com
 127.0.0.1 cloudcoins.biz
@@ -2231,6 +2230,7 @@
 127.0.0.1 linkrain.com
 127.0.0.1 linkreferral.com
 127.0.0.1 links-ranking.de
+127.0.0.1 links.email.crunchbase.com
 127.0.0.1 links.zoopla.co.uk
 127.0.0.1 linkshighway.com
 127.0.0.1 linkstorms.com
@@ -2845,6 +2845,7 @@
 127.0.0.1 reactx.com
 127.0.0.1 readgoldfish.com
 127.0.0.1 readingguilt.com
+127.0.0.1 readingopera.com
 127.0.0.1 readserver.net
 127.0.0.1 readymoon.com
 127.0.0.1 realcastmedia.com
@@ -3521,6 +3522,7 @@
 127.0.0.1 ultimateclixx.com
 127.0.0.1 ultramercial.com
 127.0.0.1 ultraoranges.com
+127.0.0.1 unaccountablepie.com
 127.0.0.1 unarmedindustry.com
 127.0.0.1 unbecomingbikes.com
 127.0.0.1 unbecominglamp.com
@@ -3723,6 +3725,7 @@
 127.0.0.1 yoggrt.com
 127.0.0.1 youradexchange.com
 127.0.0.1 ypu.samsungelectronics.com
+127.0.0.1 yrquuaxo.ajrimmobilier.fr
 127.0.0.1 zangocash.com
 127.0.0.1 zanox-affiliate.de
 127.0.0.1 zanox.com
