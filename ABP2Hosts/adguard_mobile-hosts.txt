@@ -1,4 +1,4 @@
-# Tue Jun 27 02:32:02 AM UTC 2023
+# Fri Jun 30 03:30:50 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -33,7 +33,6 @@
 0.0.0.0 247realmedia.com
 0.0.0.0 2578.api.swrve.com
 0.0.0.0 2578.content.swrve.com
-0.0.0.0 26f396e0b71780f057be4d4af8ebe55b.com
 0.0.0.0 2712.api.swrve.com
 0.0.0.0 2712.content.swrve.com
 0.0.0.0 2kpixel.quantserve.com
@@ -3645,7 +3644,6 @@
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 fcd.autoads.asia
 0.0.0.0 fdfe4ed62699.cdn4.forter.com
-0.0.0.0 fdplttrk.com
 0.0.0.0 fdz.flashtalking.com
 0.0.0.0 fearfowl.com
 0.0.0.0 fearfulfish.com
@@ -4675,6 +4673,7 @@
 0.0.0.0 leadbolt.net
 0.0.0.0 leadboltads.net
 0.0.0.0 leadboltapps.net
+0.0.0.0 leadc6.icu
 0.0.0.0 leads.su
 0.0.0.0 leanmobi.fusetracking.com
 0.0.0.0 leanplum.com
@@ -4826,7 +4825,6 @@
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logger.growstarry.com
-0.0.0.0 logger.ntracecloud.com
 0.0.0.0 logging.admicro.vn
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logging.carambo.la
@@ -5903,6 +5901,7 @@
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 presssensor.com
+0.0.0.0 preview-collector.scopely.io
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
 0.0.0.0 prg.smartadserver.com
@@ -7643,7 +7642,6 @@
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.servers.getgo.com
-0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 teleport.soom.la

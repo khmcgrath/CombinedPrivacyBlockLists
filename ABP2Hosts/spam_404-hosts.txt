@@ -1,4 +1,4 @@
-# Tue Jun 27 02:33:05 AM UTC 2023
+# Fri Jun 30 03:31:51 AM UTC 2023
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -258,6 +258,8 @@
 0.0.0.0 apap.filminstan.pw
 0.0.0.0 apapaxu.ru
 0.0.0.0 apcoi.com
+0.0.0.0 apecoin.group
+0.0.0.0 apecoin.tf
 0.0.0.0 apie-soft.com
 0.0.0.0 apkandroidhack.com
 0.0.0.0 apkcake.com
@@ -5023,6 +5025,8 @@
 0.0.0.0 lovelyfreindsvisit.com
 0.0.0.0 lowifox.ru
 0.0.0.0 loxtk.com
+0.0.0.0 loyal-event.com
+0.0.0.0 loyal.wf
 0.0.0.0 ltc-airdrop.org
 0.0.0.0 ltcdrop.com
 0.0.0.0 lucky-cases.org
@@ -5157,6 +5161,7 @@
 0.0.0.0 meilleurtelecharger.fr
 0.0.0.0 mekikad.ru
 0.0.0.0 membersonly.pw
+0.0.0.0 memecoin.li
 0.0.0.0 memonod.ru
 0.0.0.0 menestresser.xyz
 0.0.0.0 merevoice.com
@@ -6154,6 +6159,8 @@
 0.0.0.0 psvitaapps.com
 0.0.0.0 psvitafreegames.com
 0.0.0.0 psvitaromsgames.com
+0.0.0.0 psydex.gl
+0.0.0.0 psyopreward.xyz
 0.0.0.0 ptokp.pro
 0.0.0.0 pubg-csgo.ru
 0.0.0.0 pubg-trade.com
